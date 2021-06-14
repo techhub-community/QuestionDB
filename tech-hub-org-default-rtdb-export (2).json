@@ -1,0 +1,228 @@
+{
+  "alpha": [
+    {
+      "questionDate": "06/06/2021",
+      "questionTitle": "Distribute Apples",
+      "questionUrl": "https://www.codechef.com/AUG19B/problems/DSTAPLS"
+    },
+    {
+      "questionDate": "07/06/2021",
+      "questionTitle": "Chef and Mean  ",
+      "questionUrl": "https://www.codechef.com/JULY19B/problems/CHFM"
+    },
+    {
+      "questionDate": "08/06/2021",
+      "questionTitle": "Minimum and Maximum",
+      "questionUrl": "https://www.codechef.com/FEB19B/problems/CHEFING"
+    },
+    {
+      "questionDate": "09/06/2021",
+      "questionTitle": "Chef and Proxy",
+      "questionUrl": "https://www.codechef.com/JUNE19B/problems/PROXYC"
+    },
+    {
+      "questionDate": "10/06/2021",
+      "questionTitle": "Guddu on a Date",
+      "questionUrl": "https://www.codechef.com/JUNE19B/problems/KS2"
+    },
+    {
+      "questionDate": "11/06/2021",
+      "questionTitle": "Reduce to One",
+      "questionUrl": "https://www.codechef.com/MAY19B/problems/REDONE"
+    },
+    {
+      "questionDate": "12/06/2021",
+      "questionTitle": "Matches",
+      "questionUrl": "https://www.codechef.com/MAY19B/problems/MATCHS"
+    },
+    {
+      "questionDate": "13/06/2021",
+      "questionTitle": "Maximum Remaining",
+      "questionUrl": "https://www.codechef.com/APRIL19B/problems/MAXREM"
+    },
+    {
+      "questionDate": "14/06/2021",
+      "questionTitle": "Friend or Girlfriend",
+      "questionUrl": "https://www.codechef.com/APRIL19B/problems/STRCH"
+    },
+    {
+      "questionDate": "15/06/2021",
+      "questionTitle": "Chef and Number Game",
+      "questionUrl": "https://www.codechef.com/MARCH19B/problems/CHNUM"
+    },
+    {
+      "questionDate": "16/06/2021",
+      "questionTitle": "Chef and a Beautiful Digit",
+      "questionUrl": "https://www.codechef.com/MARCH19B/problems/CHDIGER"
+    },
+    {
+      "questionDate": "17/06/2021",
+      "questionTitle": "Appy and Contest",
+      "questionUrl": "https://www.codechef.com/FEB19B/problems/HMAPPY2"
+    },
+    {
+      "questionDate": "18/06/2021",
+      "questionTitle": "Chef and Secret Ingredients",
+      "questionUrl": "https://www.codechef.com/FEB19B/problems/CHEFING"
+    },
+    {
+      "questionDate": "19/06/2021",
+      "questionTitle": "Fancy Quotes",
+      "questionUrl": "https://www.codechef.com/JAN19B/problems/FANCY"
+    },
+    {
+      "questionDate": "20/06/2021",
+      "questionTitle": "Lucky Number Game",
+      "questionUrl": "https://www.codechef.com/JAN19B/problems/HP18"
+    }
+  ],
+  "basics": [
+    {
+      "questionUrl": "https://www.codechef.com/problems/CACHEHIT",
+      "questionTitle": "Cache Hits",
+      "questionDate": "05/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/CHFICRM",
+      "questionTitle": "Chef and Icecream",
+      "questionDate": "06/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/UWCOI21A",
+      "questionTitle": "Hidden Numbers",
+      "questionDate": "07/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/CHEALG",
+      "questionTitle": "Check Algorithm",
+      "questionDate": "08/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/RECNDSTR",
+      "questionTitle": "Chef and String",
+      "questionDate": "09/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/LIKECS01",
+      "questionTitle": "Subsequence Equality",
+      "questionDate": "10/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/CHEFWARS",
+      "questionTitle": "Chef Wars - Return of the Jedi",
+      "questionDate": "11/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/EVENDIFF",
+      "questionTitle": "Even Differences",
+      "questionDate": "12/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/CHEFSTR1",
+      "questionTitle": "Chef and Strings",
+      "questionDate": "13/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/problems/CHEFRECP",
+      "questionTitle": "Chef and Recipe",
+      "questionDate": "14/06/2021"
+    },
+    {
+      "questionDate": "15/06/2021",
+      "questionTitle": "Possible Victory",
+      "questionUrl": "https://www.codechef.com/problems/T20MCH"
+    },
+    {
+      "questionDate": "16/06/2021",
+      "questionTitle": "Gasoline Introduction",
+      "questionUrl": "https://www.codechef.com/problems/BEGGASOL"
+    },
+    {
+      "questionDate": "17/06/2021",
+      "questionTitle": "Select Training Set",
+      "questionUrl": "https://www.codechef.com/problems/TRAINSET"
+    },
+    {
+      "questionDate": "18/06/2021",
+      "questionTitle": "Catch the Thief",
+      "questionUrl": "https://www.codechef.com/problems/CATHIE"
+    }
+  ],
+  "beta": [
+    {
+      "questionUrl": "https://www.codechef.com/AUG19B/problems/ZOMCAV",
+      "questionTitle": "Zombie and the Caves",
+      "questionDate": "06/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/JULY19B/problems/PRTAGN",
+      "questionTitle": "Parity Again",
+      "questionDate": "07/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/JULY19B/problems/GUESSPRM",
+      "questionTitle": "Guess the Prime!",
+      "questionDate": "08/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/JUNE19B/problems/RSIGNS",
+      "questionTitle": "Road Signs",
+      "questionDate": "09/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/JUNE19B/problems/CHFING",
+      "questionTitle": "Chef and Ingredients",
+      "questionDate": "10/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/MAY19B/problems/WTBTR",
+      "questionTitle": "Where to Build the Roads",
+      "questionDate": "11/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/MAY19B/problems/ADAROKS2",
+      "questionTitle": "Ada Rooks 2",
+      "questionDate": "12/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/APRIL19B/problems/FENCE",
+      "questionTitle": "Fencinga",
+      "questionDate": "13/06/2021"
+    },
+    {
+      "questionUrl": "https://www.codechef.com/APRIL19B/problems/SUBREM",
+      "questionTitle": "Subtree Removal",
+      "questionDate": "14/06/2021"
+    },
+    {
+      "questionDate": "15/06/2021",
+      "questionTitle": "Chef got Recipes",
+      "questionUrl": "https://www.codechef.com/MARCH19B/problems/JAIN"
+    },
+    {
+      "questionDate": "16/06/2021",
+      "questionTitle": "Yet Again a Subarray Problem",
+      "questionUrl": "https://www.codechef.com/MARCH19B/problems/SUBPRNJL"
+    },
+    {
+      "questionDate": "17/06/2021",
+      "questionTitle": "Deputy Chef",
+      "questionUrl": "https://www.codechef.com/FEB19B/problems/DEPCHEF"
+    },
+    {
+      "questionDate": "18/06/2021",
+      "questionTitle": "Chef and Magical Jars",
+      "questionUrl": "https://www.codechef.com/FEB19B/problems/MAGICJAR"
+    },
+    {
+      "questionDate": "19/06/2021",
+      "questionTitle": "Distinct Pairs",
+      "questionUrl": "https://www.codechef.com/JAN19B/problems/DPAIRS"
+    },
+    {
+      "questionDate": "20/06/2021",
+      "questionTitle": "Chef and Modulo Game",
+      "questionUrl": "https://www.codechef.com/JAN19B/problems/MGAME"
+    }
+  ]
+}
