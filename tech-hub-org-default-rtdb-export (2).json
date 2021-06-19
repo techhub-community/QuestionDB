@@ -146,7 +146,15 @@
       "questionDate": "18/06/2021",
       "questionTitle": "Catch the Thief",
       "questionUrl": "https://www.codechef.com/problems/CATHIE"
+    },
+
+        {
+      "questionDate": "19/06/2021",
+      "questionTitle": "Chef and Subarrays",
+      "questionUrl": "https://www.codechef.com/problems/CHEFARRP"
     }
+    
+
   ],
   "beta": [
     {
