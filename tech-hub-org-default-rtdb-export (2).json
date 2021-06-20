@@ -75,9 +75,7 @@
       "questionTitle": "Lucky Number Game",
       "questionUrl": "https://www.codechef.com/JAN19B/problems/HP18"
     },
-
-
-{
+    {
       "questionDate": "21/06/2021",
       "questionTitle": "2D Array",
       "questionUrl": "https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays"
@@ -154,21 +152,16 @@
       "questionTitle": "Catch the Thief",
       "questionUrl": "https://www.codechef.com/problems/CATHIE"
     },
-
-        {
+    {
       "questionDate": "19/06/2021",
       "questionTitle": "Chef and Subarrays",
       "questionUrl": "https://www.codechef.com/problems/CHEFARRP"
     },
-
     {
-      
-"questionDate": "21/06/2021",
+      "questionDate": "21/06/2021",
       "questionTitle": "Chefland Visa",
-
-"questionUrl": "https://www.codechef.com/COOK130C/problems/VISA"}
-    
-
+      "questionUrl": "https://www.codechef.com/COOK130C/problems/VISA"
+    }
   ],
   "beta": [
     {
@@ -246,14 +239,10 @@
       "questionTitle": "Chef and Modulo Game",
       "questionUrl": "https://www.codechef.com/JAN19B/problems/MGAME"
     },
-
     {
       "questionDate": "21/06/2021",
       "questionTitle": "Even Sum",
-
-
-"questionUrl": "https://www.codechef.com/problems/EVENGAME"
-      
+      "questionUrl": "https://www.codechef.com/problems/EVENGAME"
     }
   ]
 }
