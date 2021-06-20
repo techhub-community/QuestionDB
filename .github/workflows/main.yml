@@ -45,3 +45,8 @@ jobs:
         with:
             # A requirements file to install from
           requirements: "requirements.txt"
+      
+      - name: Run Python Script
+        uses: jannekem/run-python-script-action@v1.2
+        with:
+            script: deployToFirebase.py
