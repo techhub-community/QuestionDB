@@ -44,4 +44,4 @@ jobs:
         uses: BSFishy/pip-action@v1
         with:
             # A requirements file to install from
-          requirements: "requrement.txt"
+          requirements: "requirement.txt"
