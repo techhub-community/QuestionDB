@@ -79,6 +79,11 @@
       "questionDate": "21/06/2021",
       "questionTitle": "2D Array",
       "questionUrl": "https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays"
+    },
+    {
+      "questionDate": "22/06/2021",
+      "questionTitle": "Soft Drinking",
+      "questionUrl": "http://codeforces.com/problemset/problem/151/A"
     }
   ],
   "basics": [
@@ -161,6 +166,11 @@
       "questionDate": "21/06/2021",
       "questionTitle": "Chefland Visa",
       "questionUrl": "https://www.codechef.com/COOK130C/problems/VISA"
+    },
+    {
+      "questionDate": "22/06/2021",
+      "questionTitle": "Summing the N series",
+      "questionUrl": "https://www.hackerrank.com/challenges/summing-the-n-series/problem"
     }
   ],
   "beta": [
@@ -243,6 +253,11 @@
       "questionDate": "21/06/2021",
       "questionTitle": "Even Sum",
       "questionUrl": "https://www.codechef.com/problems/EVENGAME"
+    },
+    {
+      "questionDate": "22/06/2021",
+      "questionTitle": "Make The String Great",
+      "questionUrl": "https://leetcode.com/problems/make-the-string-great/"
     }
   ]
 }
