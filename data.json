@@ -84,6 +84,11 @@
       "questionDate": "22/06/2021",
       "questionTitle": "Soft Drinking",
       "questionUrl": "http://codeforces.com/problemset/problem/151/A"
+    },
+    {
+      "questionDate": "23/06/2021",
+      "questionTitle": "Young Physicist",
+      "questionUrl": "http://codeforces.com/problemset/problem/69/A"
     }
   ],
   "basics": [
@@ -171,6 +176,11 @@
       "questionDate": "22/06/2021",
       "questionTitle": "Summing the N series",
       "questionUrl": "https://www.hackerrank.com/challenges/summing-the-n-series/problem"
+    },
+    {
+      "questionDate": "23/06/2021",
+      "questionTitle": "Restaurant",
+      "questionUrl": "https://www.hackerrank.com/challenges/restaurant/problem"
     }
   ],
   "beta": [
@@ -258,6 +268,11 @@
       "questionDate": "22/06/2021",
       "questionTitle": "Make The String Great",
       "questionUrl": "https://leetcode.com/problems/make-the-string-great/"
+    },
+    {
+      "questionDate": "23/06/2021",
+      "questionTitle": "Reverse The Array",
+      "questionUrl": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
     }
   ]
 }
