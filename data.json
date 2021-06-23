@@ -89,6 +89,11 @@
       "questionDate": "23/06/2021",
       "questionTitle": "Young Physicist",
       "questionUrl": "http://codeforces.com/problemset/problem/69/A"
+    },
+    {
+      "questionDate": "24/06/2021",
+      "questionTitle": "Beautiful Matrix",
+      "questionUrl": "http://codeforces.com/problemset/problem/263/A"
     }
   ],
   "basics": [
@@ -181,6 +186,11 @@
       "questionDate": "23/06/2021",
       "questionTitle": "Restaurant",
       "questionUrl": "https://www.hackerrank.com/challenges/restaurant/problem"
+    },
+    {
+      "questionDate": "24/06/2021",
+      "questionTitle": "Cutting Paper Squares",
+      "questionUrl": "https://www.hackerrank.com/challenges/p1-paper-cutting/problem"
     }
   ],
   "beta": [
@@ -273,6 +283,11 @@
       "questionDate": "23/06/2021",
       "questionTitle": "Reverse The Array",
       "questionUrl": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+    },
+    {
+      "questionDate": "24/06/2021",
+      "questionTitle": "Kth smallest element",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1"
     }
   ]
 }
