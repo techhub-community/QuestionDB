@@ -94,6 +94,11 @@
       "questionDate": "24/06/2021",
       "questionTitle": "Beautiful Matrix",
       "questionUrl": "http://codeforces.com/problemset/problem/263/A"
+    },
+    {
+      "questionDate": "25/06/2021",
+      "questionTitle": "Queue At The School",
+      "questionUrl": "http://codeforces.com/problemset/problem/266/B"
     }
   ],
   "basics": [
@@ -191,6 +196,11 @@
       "questionDate": "24/06/2021",
       "questionTitle": "Cutting Paper Squares",
       "questionUrl": "https://www.hackerrank.com/challenges/p1-paper-cutting/problem"
+    },
+    {
+      "questionDate": "25/06/2021",
+      "questionTitle": "Army Game",
+      "questionUrl": "https://www.hackerrank.com/challenges/game-with-cells"
     }
   ],
   "beta": [
@@ -288,6 +298,11 @@
       "questionDate": "24/06/2021",
       "questionTitle": "Kth smallest element",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1"
+    },
+    {
+      "questionDate": "25/06/2021",
+      "questionTitle": "0s, 1s and 2s",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"
     }
   ]
 }
