@@ -99,6 +99,11 @@
       "questionDate": "25/06/2021",
       "questionTitle": "Queue At The School",
       "questionUrl": "http://codeforces.com/problemset/problem/266/B"
+    },
+    {
+      "questionDate": "26/06/2021",
+      "questionTitle": "Borze",
+      "questionUrl": "http://codeforces.com/problemset/problem/32/B"
     }
   ],
   "basics": [
@@ -201,6 +206,11 @@
       "questionDate": "25/06/2021",
       "questionTitle": "Army Game",
       "questionUrl": "https://www.hackerrank.com/challenges/game-with-cells"
+    },
+    {
+      "questionDate": "26/06/2021",
+      "questionTitle": "Connecting Towns",
+      "questionUrl": "https://www.hackerrank.com/challenges/connecting-towns/problem"
     }
   ],
   "beta": [
@@ -303,6 +313,11 @@
       "questionDate": "25/06/2021",
       "questionTitle": "0s, 1s and 2s",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"
+    },
+    {
+      "questionDate": "26/06/2021",
+      "questionTitle": "Union & Intersection",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0"
     }
   ]
 }
