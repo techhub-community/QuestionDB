@@ -104,6 +104,11 @@
       "questionDate": "26/06/2021",
       "questionTitle": "Borze",
       "questionUrl": "http://codeforces.com/problemset/problem/32/B"
+    },
+    {
+      "questionDate": "27/06/2021",
+      "questionTitle": "Beautiful Year",
+      "questionUrl": "http://codeforces.com/problemset/problem/271/A"
     }
   ],
   "basics": [
@@ -211,6 +216,11 @@
       "questionDate": "26/06/2021",
       "questionTitle": "Connecting Towns",
       "questionUrl": "https://www.hackerrank.com/challenges/connecting-towns/problem"
+    },
+    {
+      "questionDate": "27/06/2021",
+      "questionTitle": "HandShake",
+      "questionUrl": "https://www.hackerrank.com/challenges/handshake/problem"
     }
   ],
   "beta": [
@@ -318,6 +328,11 @@
       "questionDate": "26/06/2021",
       "questionTitle": "Union & Intersection",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0"
+    },
+    {
+      "questionDate": "27/06/2021",
+      "questionTitle": "Cyclically Rotate An Array",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1"
     }
   ]
 }
