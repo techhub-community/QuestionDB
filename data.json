@@ -114,6 +114,11 @@
       "questionDate": "28/06/2021",
       "questionTitle": "Dinner by Candlelight",
       "questionUrl": "https://codechef.com/problems/DATE1"
+    },
+    {
+      "questionDate": "29/06/2021",
+      "questionTitle": "Chef goes Left Right Left",
+      "questionUrl": "https://codechef.com/problems/CLRL"
     }
   ],
   "basics": [
@@ -231,6 +236,11 @@
       "questionDate": "28/06/2021",
       "questionTitle": "Winning Strategy",
       "questionUrl": "https://codechef.com/problems/TOWIN"
+    },
+    {
+      "questionDate": "29/06/2021",
+      "questionTitle": "Greedy puppy",
+      "questionUrl": "https://codechef.com/problems/GDOG"
     }
   ],
   "beta": [
@@ -348,6 +358,11 @@
       "questionDate": "28/06/2021",
       "questionTitle": "Festivals",
       "questionUrl": "https://codechef.com/problems/SUBTREE"
+    },
+    {
+      "questionDate": "29/06/2021",
+      "questionTitle": "Computer Network",
+      "questionUrl": "https://codechef.com/problems/EXNETWRK"
     }
   ]
 }
