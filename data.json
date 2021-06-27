@@ -119,6 +119,11 @@
       "questionDate": "29/06/2021",
       "questionTitle": "Chef goes Left Right Left",
       "questionUrl": "https://codechef.com/problems/CLRL"
+    },
+    {
+      "questionDate": "30/06/2021",
+      "questionTitle": "Little Elephant and Bombs",
+      "questionUrl": "https://codechef.com/problems/LEBOMBS"
     }
   ],
   "basics": [
@@ -241,6 +246,11 @@
       "questionDate": "29/06/2021",
       "questionTitle": "Greedy puppy",
       "questionUrl": "https://codechef.com/problems/GDOG"
+    },
+    {
+      "questionDate": "30/06/2021",
+      "questionTitle": "Ada School",
+      "questionUrl": "https://codechef.com/problems/ADASCOOL"
     }
   ],
   "beta": [
@@ -363,6 +373,11 @@
       "questionDate": "29/06/2021",
       "questionTitle": "Computer Network",
       "questionUrl": "https://codechef.com/problems/EXNETWRK"
+    },
+    {
+      "questionDate": "30/06/2021",
+      "questionTitle": "AND on Graph",
+      "questionUrl": "https://codechef.com/problems/GRAPHAND"
     }
   ]
 }
