@@ -109,6 +109,11 @@
       "questionDate": "27/06/2021",
       "questionTitle": "Beautiful Year",
       "questionUrl": "http://codeforces.com/problemset/problem/271/A"
+    },
+    {
+      "questionDate": "28/06/2021",
+      "questionTitle": "Light Out",
+      "questionUrl": "http://codeforces.com/problemset/problem/275/A"
     }
   ],
   "basics": [
@@ -221,6 +226,11 @@
       "questionDate": "27/06/2021",
       "questionTitle": "HandShake",
       "questionUrl": "https://www.hackerrank.com/challenges/handshake/problem"
+    },
+    {
+      "questionDate": "28/06/2021",
+      "questionTitle": "Moving Tiles",
+      "questionUrl": "https://www.hackerrank.com/challenges/sherlock-and-moving-tiles"
     }
   ],
   "beta": [
@@ -333,6 +343,11 @@
       "questionDate": "27/06/2021",
       "questionTitle": "Cyclically Rotate An Array",
       "questionUrl": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1"
+    },
+    {
+      "questionDate": "28/06/2021",
+      "questionTitle": "Largest Sum Of Contigious Subarray",
+      "questionUrl": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
     }
   ]
 }
