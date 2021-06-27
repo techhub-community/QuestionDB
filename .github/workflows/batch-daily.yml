@@ -1,0 +1,47 @@
+name: CI
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: "55 16 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: Setup Python
+        uses: actions/setup-python@v2.2.2
+        with:
+            python-version: '3.7.7'
+
+      - name: install python packages
+        run:
+          pip install -r requirements.txt
+      
+      - name: execute py script # run script
+        run: python fetchAndInject.py
+
+      - name: setup git config
+        run: |
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          git config user.name "techhub-community-bot"
+          git config user.email "bot@techhub-community.org"
+          git config user.password ${{secrets.BOT_PASSWORD}}
+
+      - name: commit
+        run: |
+          # Stage the file, commit and push
+          git add *
+          git commit -m "Question Automation"
+          git push origin main
