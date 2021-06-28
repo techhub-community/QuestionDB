@@ -1,5 +1,4 @@
 {
-  
   "message": "If you've managed reached here, consider joining us ;). Go to https://tech-hub.org and join us on Discord",
   "alpha": [
     {
@@ -116,6 +115,11 @@
       "questionDate": "28/06/2021",
       "questionTitle": "Dinner by Candlelight",
       "questionUrl": "https://codechef.com/problems/DATE1"
+    },
+    {
+      "questionDate": "29/06/2021",
+      "questionTitle": "XOR with Subset",
+      "questionUrl": "https://codechef.com/problems/XORSUB"
     }
   ],
   "basics": [
@@ -233,6 +237,11 @@
       "questionDate": "28/06/2021",
       "questionTitle": "Winning Strategy",
       "questionUrl": "https://codechef.com/problems/TOWIN"
+    },
+    {
+      "questionDate": "29/06/2021",
+      "questionTitle": "Uniform Strings",
+      "questionUrl": "https://codechef.com/problems/STRLBP"
     }
   ],
   "beta": [
@@ -350,10 +359,11 @@
       "questionDate": "28/06/2021",
       "questionTitle": "Festivals",
       "questionUrl": "https://codechef.com/problems/SUBTREE"
+    },
+    {
+      "questionDate": "29/06/2021",
+      "questionTitle": "Asmany Number Verification",
+      "questionUrl": "https://codechef.com/problems/LEBINARY"
     }
   ]
 }
-
-
-
-
