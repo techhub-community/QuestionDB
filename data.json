@@ -120,6 +120,11 @@
       "questionDate": "29/06/2021",
       "questionTitle": "XOR with Subset",
       "questionUrl": "https://codechef.com/problems/XORSUB"
+    },
+    {
+      "questionDate": "30/06/2021",
+      "questionTitle": "A Simple Game",
+      "questionUrl": "https://codechef.com/problems/SIMGAM"
     }
   ],
   "basics": [
@@ -242,6 +247,11 @@
       "questionDate": "29/06/2021",
       "questionTitle": "Uniform Strings",
       "questionUrl": "https://codechef.com/problems/STRLBP"
+    },
+    {
+      "questionDate": "30/06/2021",
+      "questionTitle": "Forgotten Language",
+      "questionUrl": "https://codechef.com/problems/FRGTNLNG"
     }
   ],
   "beta": [
@@ -364,6 +374,11 @@
       "questionDate": "29/06/2021",
       "questionTitle": "Asmany Number Verification",
       "questionUrl": "https://codechef.com/problems/LEBINARY"
+    },
+    {
+      "questionDate": "30/06/2021",
+      "questionTitle": "Beautiful Bricks",
+      "questionUrl": "https://codechef.com/problems/BBRICKS"
     }
   ]
 }
