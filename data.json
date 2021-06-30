@@ -125,6 +125,11 @@
       "questionDate": "30/06/2021",
       "questionTitle": "A Simple Game",
       "questionUrl": "https://codechef.com/problems/SIMGAM"
+    },
+    {
+      "questionDate": "01/07/2021",
+      "questionTitle": "Killing Zombies",
+      "questionUrl": "https://codechef.com/problems/CLKLZM"
     }
   ],
   "basics": [
@@ -252,6 +257,11 @@
       "questionDate": "30/06/2021",
       "questionTitle": "Forgotten Language",
       "questionUrl": "https://codechef.com/problems/FRGTNLNG"
+    },
+    {
+      "questionDate": "01/07/2021",
+      "questionTitle": "Attendance",
+      "questionUrl": "https://codechef.com/problems/ATTND"
     }
   ],
   "beta": [
@@ -379,6 +389,11 @@
       "questionDate": "30/06/2021",
       "questionTitle": "Beautiful Bricks",
       "questionUrl": "https://codechef.com/problems/BBRICKS"
+    },
+    {
+      "questionDate": "01/07/2021",
+      "questionTitle": "Do You Want to Build a Snowman",
+      "questionUrl": "https://codechef.com/problems/SNOWMAN"
     }
   ]
 }
