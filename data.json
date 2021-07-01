@@ -130,6 +130,11 @@
       "questionDate": "01/07/2021",
       "questionTitle": "Killing Zombies",
       "questionUrl": "https://codechef.com/problems/CLKLZM"
+    },
+    {
+      "questionDate": "02/07/2021",
+      "questionTitle": "Phone Prices",
+      "questionUrl": "https://codechef.com/problems/S10E"
     }
   ],
   "basics": [
@@ -262,6 +267,11 @@
       "questionDate": "01/07/2021",
       "questionTitle": "Attendance",
       "questionUrl": "https://codechef.com/problems/ATTND"
+    },
+    {
+      "questionDate": "02/07/2021",
+      "questionTitle": "Ciel and Receipt",
+      "questionUrl": "https://codechef.com/problems/CIELRCPT"
     }
   ],
   "beta": [
@@ -394,6 +404,11 @@
       "questionDate": "01/07/2021",
       "questionTitle": "Do You Want to Build a Snowman",
       "questionUrl": "https://codechef.com/problems/SNOWMAN"
+    },
+    {
+      "questionDate": "02/07/2021",
+      "questionTitle": "Restock",
+      "questionUrl": "https://codechef.com/problems/RESTOCK"
     }
   ]
 }
