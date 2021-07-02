@@ -135,6 +135,11 @@
       "questionDate": "02/07/2021",
       "questionTitle": "Phone Prices",
       "questionUrl": "https://codechef.com/problems/S10E"
+    },
+    {
+      "questionDate": "03/07/2021",
+      "questionTitle": "Find XOR",
+      "questionUrl": "https://codechef.com/problems/FINXOR"
     }
   ],
   "basics": [
@@ -272,6 +277,11 @@
       "questionDate": "02/07/2021",
       "questionTitle": "Ciel and Receipt",
       "questionUrl": "https://codechef.com/problems/CIELRCPT"
+    },
+    {
+      "questionDate": "03/07/2021",
+      "questionTitle": "Chef vs Doof",
+      "questionUrl": "https://codechef.com/problems/CLLCM"
     }
   ],
   "beta": [
@@ -409,6 +419,11 @@
       "questionDate": "02/07/2021",
       "questionTitle": "Restock",
       "questionUrl": "https://codechef.com/problems/RESTOCK"
+    },
+    {
+      "questionDate": "03/07/2021",
+      "questionTitle": "Random Permutation",
+      "questionUrl": "https://codechef.com/problems/GRAND"
     }
   ]
 }
