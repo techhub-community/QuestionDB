@@ -140,6 +140,11 @@
       "questionDate": "03/07/2021",
       "questionTitle": "Find XOR",
       "questionUrl": "https://codechef.com/problems/FINXOR"
+    },
+    {
+      "questionDate": "04/07/2021",
+      "questionTitle": "Garden Squares",
+      "questionUrl": "https://codechef.com/problems/GARDENSQ"
     }
   ],
   "basics": [
@@ -282,6 +287,11 @@
       "questionDate": "03/07/2021",
       "questionTitle": "Chef vs Doof",
       "questionUrl": "https://codechef.com/problems/CLLCM"
+    },
+    {
+      "questionDate": "04/07/2021",
+      "questionTitle": "Easy Fibonacci",
+      "questionUrl": "https://codechef.com/problems/FIBEASY"
     }
   ],
   "beta": [
@@ -424,6 +434,11 @@
       "questionDate": "03/07/2021",
       "questionTitle": "Random Permutation",
       "questionUrl": "https://codechef.com/problems/GRAND"
+    },
+    {
+      "questionDate": "04/07/2021",
+      "questionTitle": "Chef and cities",
+      "questionUrl": "https://codechef.com/problems/FRJUMP"
     }
   ]
 }
