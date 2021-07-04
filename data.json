@@ -1,5 +1,5 @@
 {
-  "message": "If you've managed reached here, consider joining us ;). Go to https://tech-hub.org and join us on Discord",
+  "message": "If you've managed to reached here, consider joining us ;). Go to https://tech-hub.org and join us on Discord",
   "alpha": [
     {
       "questionDate": "06/06/2021",
@@ -150,11 +150,6 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Generalized Arithmetic Progression Free Sequence",
       "questionUrl": "https://codechef.com/problems/GENARSEQ"
-    },
-    {
-      "questionDate": "06/07/2021",
-      "questionTitle": "Internet Media Types",
-      "questionUrl": "https://codechef.com/problems/MIME2"
     }
   ],
   "basics": [
@@ -307,11 +302,6 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Camp Or Not",
       "questionUrl": "https://codechef.com/problems/CAMPON"
-    },
-    {
-      "questionDate": "06/07/2021",
-      "questionTitle": "Pintu and Fruits",
-      "questionUrl": "https://codechef.com/problems/CHPINTU"
     }
   ],
   "beta": [
@@ -461,14 +451,17 @@
       "questionUrl": "https://codechef.com/problems/FRJUMP"
     },
     {
-      "questionDate": "05/07/2021",
+      "questionDate": "05/0{
+459
+      "questionDate": "06/07/2021",
+460
+      "questionTitle": "Coal Scam",
+461
+      "questionUrl": "https://codechef.com/problems/COALSCAM"
+462
+    }7/2021",
       "questionTitle": "Mystery Tree",
       "questionUrl": "https://codechef.com/problems/MYS00T"
-    },
-    {
-      "questionDate": "06/07/2021",
-      "questionTitle": "Coal Scam",
-      "questionUrl": "https://codechef.com/problems/COALSCAM"
     }
   ]
 }
