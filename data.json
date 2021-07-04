@@ -145,6 +145,11 @@
       "questionDate": "04/07/2021",
       "questionTitle": "Garden Squares",
       "questionUrl": "https://codechef.com/problems/GARDENSQ"
+    },
+    {
+      "questionDate": "05/07/2021",
+      "questionTitle": "Generalized Arithmetic Progression Free Sequence",
+      "questionUrl": "https://codechef.com/problems/GENARSEQ"
     }
   ],
   "basics": [
@@ -292,6 +297,11 @@
       "questionDate": "04/07/2021",
       "questionTitle": "Easy Fibonacci",
       "questionUrl": "https://codechef.com/problems/FIBEASY"
+    },
+    {
+      "questionDate": "05/07/2021",
+      "questionTitle": "Camp Or Not",
+      "questionUrl": "https://codechef.com/problems/CAMPON"
     }
   ],
   "beta": [
@@ -439,6 +449,11 @@
       "questionDate": "04/07/2021",
       "questionTitle": "Chef and cities",
       "questionUrl": "https://codechef.com/problems/FRJUMP"
+    },
+    {
+      "questionDate": "05/07/2021",
+      "questionTitle": "Mystery Tree",
+      "questionUrl": "https://codechef.com/problems/MYS00T"
     }
   ]
 }
