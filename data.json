@@ -150,11 +150,6 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Generalized Arithmetic Progression Free Sequence",
       "questionUrl": "https://codechef.com/problems/GENARSEQ"
-    },
-    {
-      "questionDate": "06/07/2021",
-      "questionTitle": "Watching CPL",
-      "questionUrl": "https://codechef.com/problems/WIPL"
     }
   ],
   "basics": [
@@ -307,11 +302,6 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Camp Or Not",
       "questionUrl": "https://codechef.com/problems/CAMPON"
-    },
-    {
-      "questionDate": "06/07/2021",
-      "questionTitle": "Chef and Pairs",
-      "questionUrl": "https://codechef.com/problems/CPAIRS"
     }
   ],
   "beta": [
@@ -464,11 +454,6 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Mystery Tree",
       "questionUrl": "https://codechef.com/problems/MYS00T"
-    },
-    {
-      "questionDate": "06/07/2021",
-      "questionTitle": "Chef and Array",
-      "questionUrl": "https://codechef.com/problems/FRMQ"
     }
   ]
 }
