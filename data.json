@@ -150,6 +150,11 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Generalized Arithmetic Progression Free Sequence",
       "questionUrl": "https://codechef.com/problems/GENARSEQ"
+    },
+    {
+      "questionDate": "06/07/2021",
+      "questionTitle": "Faded Palindromes",
+      "questionUrl": "https://codechef.com/problems/LEXOPAL"
     }
   ],
   "basics": [
@@ -302,6 +307,11 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Camp Or Not",
       "questionUrl": "https://codechef.com/problems/CAMPON"
+    },
+    {
+      "questionDate": "06/07/2021",
+      "questionTitle": "No Time to Wait",
+      "questionUrl": "https://codechef.com/problems/NOTIME"
     }
   ],
   "beta": [
@@ -454,6 +464,11 @@
       "questionDate": "05/07/2021",
       "questionTitle": "Mystery Tree",
       "questionUrl": "https://codechef.com/problems/MYS00T"
+    },
+    {
+      "questionDate": "06/07/2021",
+      "questionTitle": " XOR maximum-minimum matrices",
+      "questionUrl": "https://codechef.com/problems/MAXXMIN"
     }
   ]
 }
