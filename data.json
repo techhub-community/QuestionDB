@@ -155,6 +155,11 @@
       "questionDate": "06/07/2021",
       "questionTitle": "Faded Palindromes",
       "questionUrl": "https://codechef.com/problems/LEXOPAL"
+    },
+    {
+      "questionDate": "07/07/2021",
+      "questionTitle": "Largest Increasing Subsequence",
+      "questionUrl": "https://codechef.com/problems/INVLIS"
     }
   ],
   "basics": [
@@ -312,6 +317,11 @@
       "questionDate": "06/07/2021",
       "questionTitle": "No Time to Wait",
       "questionUrl": "https://codechef.com/problems/NOTIME"
+    },
+    {
+      "questionDate": "07/07/2021",
+      "questionTitle": "Grade The Steel",
+      "questionUrl": "https://codechef.com/problems/FLOW014"
     }
   ],
   "beta": [
@@ -469,6 +479,11 @@
       "questionDate": "06/07/2021",
       "questionTitle": " XOR maximum-minimum matrices",
       "questionUrl": "https://codechef.com/problems/MAXXMIN"
+    },
+    {
+      "questionDate": "07/07/2021",
+      "questionTitle": "Mock Turtle",
+      "questionUrl": "https://codechef.com/problems/MCKTUR"
     }
   ]
 }
