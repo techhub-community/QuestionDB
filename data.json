@@ -160,6 +160,11 @@
       "questionDate": "07/07/2021",
       "questionTitle": "Largest Increasing Subsequence",
       "questionUrl": "https://codechef.com/problems/INVLIS"
+    },
+    {
+      "questionDate": "08/07/2021",
+      "questionTitle": "Chef and Tetris",
+      "questionUrl": "https://codechef.com/problems/CHEFTET"
     }
   ],
   "basics": [
@@ -322,6 +327,11 @@
       "questionDate": "07/07/2021",
       "questionTitle": "Grade The Steel",
       "questionUrl": "https://codechef.com/problems/FLOW014"
+    },
+    {
+      "questionDate": "08/07/2021",
+      "questionTitle": "Number Mirror",
+      "questionUrl": "https://codechef.com/problems/START01"
     }
   ],
   "beta": [
@@ -484,6 +494,11 @@
       "questionDate": "07/07/2021",
       "questionTitle": "Mock Turtle",
       "questionUrl": "https://codechef.com/problems/MCKTUR"
+    },
+    {
+      "questionDate": "08/07/2021",
+      "questionTitle": "Recover Square",
+      "questionUrl": "https://codechef.com/problems/RECOVER"
     }
   ]
 }
