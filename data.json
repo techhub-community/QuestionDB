@@ -165,6 +165,11 @@
       "questionDate": "08/07/2021",
       "questionTitle": "Chef and Tetris",
       "questionUrl": "https://codechef.com/problems/CHEFTET"
+    },
+    {
+      "questionDate": "09/07/2021",
+      "questionTitle": "Hussain Set",
+      "questionUrl": "https://codechef.com/problems/COOK82C"
     }
   ],
   "basics": [
@@ -332,6 +337,11 @@
       "questionDate": "08/07/2021",
       "questionTitle": "Number Mirror",
       "questionUrl": "https://codechef.com/problems/START01"
+    },
+    {
+      "questionDate": "09/07/2021",
+      "questionTitle": "Compress the List",
+      "questionUrl": "https://codechef.com/problems/CMPRSS"
     }
   ],
   "beta": [
@@ -499,6 +509,11 @@
       "questionDate": "08/07/2021",
       "questionTitle": "Recover Square",
       "questionUrl": "https://codechef.com/problems/RECOVER"
+    },
+    {
+      "questionDate": "09/07/2021",
+      "questionTitle": "Maze of Digits",
+      "questionUrl": "https://codechef.com/problems/K3"
     }
   ]
 }
