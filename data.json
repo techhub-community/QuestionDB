@@ -170,6 +170,11 @@
       "questionDate": "09/07/2021",
       "questionTitle": "Hussain Set",
       "questionUrl": "https://codechef.com/problems/COOK82C"
+    },
+    {
+      "questionDate": "10/07/2021",
+      "questionTitle": "Dish Owner",
+      "questionUrl": "https://codechef.com/problems/DISHOWN"
     }
   ],
   "basics": [
@@ -342,6 +347,11 @@
       "questionDate": "09/07/2021",
       "questionTitle": "Compress the List",
       "questionUrl": "https://codechef.com/problems/CMPRSS"
+    },
+    {
+      "questionDate": "10/07/2021",
+      "questionTitle": "Summer Heat",
+      "questionUrl": "https://codechef.com/problems/COCONUT"
     }
   ],
   "beta": [
@@ -514,6 +524,11 @@
       "questionDate": "09/07/2021",
       "questionTitle": "Maze of Digits",
       "questionUrl": "https://codechef.com/problems/K3"
+    },
+    {
+      "questionDate": "10/07/2021",
+      "questionTitle": "The Delicious Cake",
+      "questionUrl": "https://codechef.com/problems/CONTAIN"
     }
   ]
 }
