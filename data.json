@@ -175,6 +175,11 @@
       "questionDate": "10/07/2021",
       "questionTitle": "Dish Owner",
       "questionUrl": "https://codechef.com/problems/DISHOWN"
+    },
+    {
+      "questionDate": "11/07/2021",
+      "questionTitle": "Chef and His Friend",
+      "questionUrl": "https://codechef.com/problems/FRNDMTNG"
     }
   ],
   "basics": [
@@ -352,6 +357,11 @@
       "questionDate": "10/07/2021",
       "questionTitle": "Summer Heat",
       "questionUrl": "https://codechef.com/problems/COCONUT"
+    },
+    {
+      "questionDate": "11/07/2021",
+      "questionTitle": "Making a Meal",
+      "questionUrl": "https://codechef.com/problems/CFMM"
     }
   ],
   "beta": [
@@ -529,6 +539,11 @@
       "questionDate": "10/07/2021",
       "questionTitle": "The Delicious Cake",
       "questionUrl": "https://codechef.com/problems/CONTAIN"
+    },
+    {
+      "questionDate": "11/07/2021",
+      "questionTitle": "Choosing Cook Off Problems",
+      "questionUrl": "https://codechef.com/problems/COOKOFF"
     }
   ]
 }
