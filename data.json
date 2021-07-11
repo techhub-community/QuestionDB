@@ -180,6 +180,11 @@
       "questionDate": "11/07/2021",
       "questionTitle": "Chef and His Friend",
       "questionUrl": "https://codechef.com/problems/FRNDMTNG"
+    },
+    {
+      "questionDate": "12/07/2021",
+      "questionTitle": "Signature",
+      "questionUrl": "https://codechef.com/problems/SIGNTURE"
     }
   ],
   "basics": [
@@ -362,6 +367,11 @@
       "questionDate": "11/07/2021",
       "questionTitle": "Making a Meal",
       "questionUrl": "https://codechef.com/problems/CFMM"
+    },
+    {
+      "questionDate": "12/07/2021",
+      "questionTitle": "Valid Triangles",
+      "questionUrl": "https://codechef.com/problems/FLOW013"
     }
   ],
   "beta": [
@@ -544,6 +554,11 @@
       "questionDate": "11/07/2021",
       "questionTitle": "Choosing Cook Off Problems",
       "questionUrl": "https://codechef.com/problems/COOKOFF"
+    },
+    {
+      "questionDate": "12/07/2021",
+      "questionTitle": "Bytelandian gold coins",
+      "questionUrl": "https://codechef.com/problems/COINS"
     }
   ]
 }
