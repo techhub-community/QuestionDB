@@ -185,6 +185,11 @@
       "questionDate": "12/07/2021",
       "questionTitle": "Signature",
       "questionUrl": "https://codechef.com/problems/SIGNTURE"
+    },
+    {
+      "questionDate": "13/07/2021",
+      "questionTitle": "Moving Segments",
+      "questionUrl": "https://codechef.com/problems/SEGDIR"
     }
   ],
   "basics": [
@@ -372,6 +377,11 @@
       "questionDate": "12/07/2021",
       "questionTitle": "Valid Triangles",
       "questionUrl": "https://codechef.com/problems/FLOW013"
+    },
+    {
+      "questionDate": "13/07/2021",
+      "questionTitle": "ATM Machine",
+      "questionUrl": "https://codechef.com/problems/ATM2"
     }
   ],
   "beta": [
@@ -559,6 +569,11 @@
       "questionDate": "12/07/2021",
       "questionTitle": "Bytelandian gold coins",
       "questionUrl": "https://codechef.com/problems/COINS"
+    },
+    {
+      "questionDate": "13/07/2021",
+      "questionTitle": "ForbiddenSum",
+      "questionUrl": "https://codechef.com/problems/FRBSUM"
     }
   ]
 }
