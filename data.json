@@ -190,6 +190,11 @@
       "questionDate": "13/07/2021",
       "questionTitle": "Moving Segments",
       "questionUrl": "https://codechef.com/problems/SEGDIR"
+    },
+    {
+      "questionDate": "14/07/2021",
+      "questionTitle": "Lunchtime",
+      "questionUrl": "https://codechef.com/problems/LUNCHTIM"
     }
   ],
   "basics": [
@@ -382,6 +387,11 @@
       "questionDate": "13/07/2021",
       "questionTitle": "ATM Machine",
       "questionUrl": "https://codechef.com/problems/ATM2"
+    },
+    {
+      "questionDate": "14/07/2021",
+      "questionTitle": "Akhil And Colored Balls",
+      "questionUrl": "https://codechef.com/problems/ACBALL"
     }
   ],
   "beta": [
@@ -574,6 +584,11 @@
       "questionDate": "13/07/2021",
       "questionTitle": "ForbiddenSum",
       "questionUrl": "https://codechef.com/problems/FRBSUM"
+    },
+    {
+      "questionDate": "14/07/2021",
+      "questionTitle": "K - Raw Power",
+      "questionUrl": "https://codechef.com/problems/RAWPOWER"
     }
   ]
 }
