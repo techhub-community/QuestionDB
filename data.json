@@ -195,6 +195,11 @@
       "questionDate": "14/07/2021",
       "questionTitle": "Lunchtime",
       "questionUrl": "https://codechef.com/problems/LUNCHTIM"
+    },
+    {
+      "questionDate": "15/07/2021",
+      "questionTitle": "Parity Again",
+      "questionUrl": "https://codechef.com/problems/PRTAGN"
     }
   ],
   "basics": [
@@ -392,6 +397,11 @@
       "questionDate": "14/07/2021",
       "questionTitle": "Akhil And Colored Balls",
       "questionUrl": "https://codechef.com/problems/ACBALL"
+    },
+    {
+      "questionDate": "15/07/2021",
+      "questionTitle": "Chef and IPC Certificates",
+      "questionUrl": "https://codechef.com/problems/IPCCERT"
     }
   ],
   "beta": [
@@ -589,6 +599,11 @@
       "questionDate": "14/07/2021",
       "questionTitle": "K - Raw Power",
       "questionUrl": "https://codechef.com/problems/RAWPOWER"
+    },
+    {
+      "questionDate": "15/07/2021",
+      "questionTitle": "Chef and Substrings",
+      "questionUrl": "https://codechef.com/problems/GERALD3"
     }
   ]
 }
