@@ -200,6 +200,11 @@
       "questionDate": "15/07/2021",
       "questionTitle": "Parity Again",
       "questionUrl": "https://codechef.com/problems/PRTAGN"
+    },
+    {
+      "questionDate": "16/07/2021",
+      "questionTitle": "A Tale of Two Right Angled Triangles",
+      "questionUrl": "https://codechef.com/problems/TALETRI"
     }
   ],
   "basics": [
@@ -402,6 +407,11 @@
       "questionDate": "15/07/2021",
       "questionTitle": "Chef and IPC Certificates",
       "questionUrl": "https://codechef.com/problems/IPCCERT"
+    },
+    {
+      "questionDate": "16/07/2021",
+      "questionTitle": "Balsa For The Three",
+      "questionUrl": "https://codechef.com/problems/BFTT"
     }
   ],
   "beta": [
@@ -604,6 +614,11 @@
       "questionDate": "15/07/2021",
       "questionTitle": "Chef and Substrings",
       "questionUrl": "https://codechef.com/problems/GERALD3"
+    },
+    {
+      "questionDate": "16/07/2021",
+      "questionTitle": "Peaks",
+      "questionUrl": "https://codechef.com/problems/PEAKS"
     }
   ]
 }
