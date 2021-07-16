@@ -205,6 +205,11 @@
       "questionDate": "16/07/2021",
       "questionTitle": "A Tale of Two Right Angled Triangles",
       "questionUrl": "https://codechef.com/problems/TALETRI"
+    },
+    {
+      "questionDate": "17/07/2021",
+      "questionTitle": "Our Base is Under Attack",
+      "questionUrl": "https://codechef.com/problems/BASE"
     }
   ],
   "basics": [
@@ -412,6 +417,11 @@
       "questionDate": "16/07/2021",
       "questionTitle": "Balsa For The Three",
       "questionUrl": "https://codechef.com/problems/BFTT"
+    },
+    {
+      "questionDate": "17/07/2021",
+      "questionTitle": "Chef and Sequence",
+      "questionUrl": "https://codechef.com/problems/CHFAR"
     }
   ],
   "beta": [
@@ -619,6 +629,11 @@
       "questionDate": "16/07/2021",
       "questionTitle": "Peaks",
       "questionUrl": "https://codechef.com/problems/PEAKS"
+    },
+    {
+      "questionDate": "17/07/2021",
+      "questionTitle": "AND Square Subsegments",
+      "questionUrl": "https://codechef.com/problems/ANDSQR"
     }
   ]
 }
