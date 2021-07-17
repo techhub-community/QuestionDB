@@ -210,6 +210,11 @@
       "questionDate": "17/07/2021",
       "questionTitle": "Our Base is Under Attack",
       "questionUrl": "https://codechef.com/problems/BASE"
+    },
+    {
+      "questionDate": "18/07/2021",
+      "questionTitle": "Set Difference ",
+      "questionUrl": "https://codechef.com/problems/SETDIFF"
     }
   ],
   "basics": [
@@ -422,6 +427,11 @@
       "questionDate": "17/07/2021",
       "questionTitle": "Chef and Sequence",
       "questionUrl": "https://codechef.com/problems/CHFAR"
+    },
+    {
+      "questionDate": "18/07/2021",
+      "questionTitle": "Devu and friendship testing",
+      "questionUrl": "https://codechef.com/problems/CFRTEST"
     }
   ],
   "beta": [
@@ -634,6 +644,11 @@
       "questionDate": "17/07/2021",
       "questionTitle": "AND Square Subsegments",
       "questionUrl": "https://codechef.com/problems/ANDSQR"
+    },
+    {
+      "questionDate": "18/07/2021",
+      "questionTitle": "Finding Second Maximum",
+      "questionUrl": "https://codechef.com/problems/F2NDMAX"
     }
   ]
 }
