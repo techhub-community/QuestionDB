@@ -215,6 +215,11 @@
       "questionDate": "18/07/2021",
       "questionTitle": "Set Difference ",
       "questionUrl": "https://codechef.com/problems/SETDIFF"
+    },
+    {
+      "questionDate": "19/07/2021",
+      "questionTitle": "Steady tables",
+      "questionUrl": "https://codechef.com/problems/STDYTAB"
     }
   ],
   "basics": [
@@ -432,6 +437,11 @@
       "questionDate": "18/07/2021",
       "questionTitle": "Devu and friendship testing",
       "questionUrl": "https://codechef.com/problems/CFRTEST"
+    },
+    {
+      "questionDate": "19/07/2021",
+      "questionTitle": "Good and Bad Persons",
+      "questionUrl": "https://codechef.com/problems/GOODBAD"
     }
   ],
   "beta": [
@@ -649,6 +659,11 @@
       "questionDate": "18/07/2021",
       "questionTitle": "Finding Second Maximum",
       "questionUrl": "https://codechef.com/problems/F2NDMAX"
+    },
+    {
+      "questionDate": "19/07/2021",
+      "questionTitle": "Mixtures",
+      "questionUrl": "https://codechef.com/problems/MIXTURES"
     }
   ]
 }
