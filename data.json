@@ -220,6 +220,11 @@
       "questionDate": "19/07/2021",
       "questionTitle": "Steady tables",
       "questionUrl": "https://codechef.com/problems/STDYTAB"
+    },
+    {
+      "questionDate": "20/07/2021",
+      "questionTitle": "Permutation Split",
+      "questionUrl": "https://codechef.com/problems/PERMSPL"
     }
   ],
   "basics": [
@@ -442,6 +447,11 @@
       "questionDate": "19/07/2021",
       "questionTitle": "Good and Bad Persons",
       "questionUrl": "https://codechef.com/problems/GOODBAD"
+    },
+    {
+      "questionDate": "20/07/2021",
+      "questionTitle": "Cutting Recipes",
+      "questionUrl": "https://codechef.com/problems/RECIPE"
     }
   ],
   "beta": [
@@ -664,6 +674,11 @@
       "questionDate": "19/07/2021",
       "questionTitle": "Mixtures",
       "questionUrl": "https://codechef.com/problems/MIXTURES"
+    },
+    {
+      "questionDate": "20/07/2021",
+      "questionTitle": "Permute Digits",
+      "questionUrl": "https://codechef.com/problems/PERMDIG"
     }
   ]
 }
