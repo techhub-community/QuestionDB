@@ -225,6 +225,11 @@
       "questionDate": "20/07/2021",
       "questionTitle": "Permutation Split",
       "questionUrl": "https://codechef.com/problems/PERMSPL"
+    },
+    {
+      "questionDate": "21/07/2021",
+      "questionTitle": "Chef and cakes",
+      "questionUrl": "https://codechef.com/problems/EGRCAKE"
     }
   ],
   "basics": [
@@ -452,6 +457,11 @@
       "questionDate": "20/07/2021",
       "questionTitle": "Cutting Recipes",
       "questionUrl": "https://codechef.com/problems/RECIPE"
+    },
+    {
+      "questionDate": "21/07/2021",
+      "questionTitle": "Find Your Gift",
+      "questionUrl": "https://codechef.com/problems/GIFTSRC"
     }
   ],
   "beta": [
@@ -679,6 +689,11 @@
       "questionDate": "20/07/2021",
       "questionTitle": "Permute Digits",
       "questionUrl": "https://codechef.com/problems/PERMDIG"
+    },
+    {
+      "questionDate": "21/07/2021",
+      "questionTitle": "Cylinder",
+      "questionUrl": "https://codechef.com/problems/CYLINDER"
     }
   ]
 }
