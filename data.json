@@ -230,6 +230,11 @@
       "questionDate": "21/07/2021",
       "questionTitle": "Chef and cakes",
       "questionUrl": "https://codechef.com/problems/EGRCAKE"
+    },
+    {
+      "questionDate": "22/07/2021",
+      "questionTitle": "Sheokand and Number",
+      "questionUrl": "https://codechef.com/problems/SHKNUM"
     }
   ],
   "basics": [
@@ -462,6 +467,11 @@
       "questionDate": "21/07/2021",
       "questionTitle": "Find Your Gift",
       "questionUrl": "https://codechef.com/problems/GIFTSRC"
+    },
+    {
+      "questionDate": "22/07/2021",
+      "questionTitle": "When to take medicine",
+      "questionUrl": "https://codechef.com/problems/MEDIC"
     }
   ],
   "beta": [
@@ -694,6 +704,11 @@
       "questionDate": "21/07/2021",
       "questionTitle": "Cylinder",
       "questionUrl": "https://codechef.com/problems/CYLINDER"
+    },
+    {
+      "questionDate": "22/07/2021",
+      "questionTitle": "Glass Measurement",
+      "questionUrl": "https://codechef.com/problems/GLASS"
     }
   ]
 }
