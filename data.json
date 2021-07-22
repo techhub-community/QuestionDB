@@ -235,6 +235,11 @@
       "questionDate": "22/07/2021",
       "questionTitle": "Sheokand and Number",
       "questionUrl": "https://codechef.com/problems/SHKNUM"
+    },
+    {
+      "questionDate": "23/07/2021",
+      "questionTitle": "Skyscraper Equilibrium",
+      "questionUrl": "https://codechef.com/problems/SKYSCR"
     }
   ],
   "basics": [
@@ -472,6 +477,11 @@
       "questionDate": "22/07/2021",
       "questionTitle": "When to take medicine",
       "questionUrl": "https://codechef.com/problems/MEDIC"
+    },
+    {
+      "questionDate": "23/07/2021",
+      "questionTitle": "Chef and SnackDown",
+      "questionUrl": "https://codechef.com/problems/SNCKYEAR"
     }
   ],
   "beta": [
@@ -709,6 +719,11 @@
       "questionDate": "22/07/2021",
       "questionTitle": "Glass Measurement",
       "questionUrl": "https://codechef.com/problems/GLASS"
+    },
+    {
+      "questionDate": "23/07/2021",
+      "questionTitle": "Optimal BST Revisited",
+      "questionUrl": "https://codechef.com/problems/KOL16L"
     }
   ]
 }
