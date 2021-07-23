@@ -240,6 +240,11 @@
       "questionDate": "23/07/2021",
       "questionTitle": "Skyscraper Equilibrium",
       "questionUrl": "https://codechef.com/problems/SKYSCR"
+    },
+    {
+      "questionDate": "24/07/2021",
+      "questionTitle": "Chef and Cookies",
+      "questionUrl": "https://codechef.com/problems/PCJ18D"
     }
   ],
   "basics": [
@@ -482,6 +487,11 @@
       "questionDate": "23/07/2021",
       "questionTitle": "Chef and SnackDown",
       "questionUrl": "https://codechef.com/problems/SNCKYEAR"
+    },
+    {
+      "questionDate": "24/07/2021",
+      "questionTitle": "Chef and Meetings",
+      "questionUrl": "https://codechef.com/problems/MEET"
     }
   ],
   "beta": [
@@ -724,6 +734,11 @@
       "questionDate": "23/07/2021",
       "questionTitle": "Optimal BST Revisited",
       "questionUrl": "https://codechef.com/problems/KOL16L"
+    },
+    {
+      "questionDate": "24/07/2021",
+      "questionTitle": "Clamp Paths on Tree",
+      "questionUrl": "https://codechef.com/problems/CLAMPWAY"
     }
   ]
 }
