@@ -250,6 +250,11 @@
       "questionDate": "25/07/2021",
       "questionTitle": "Dessert Wizard",
       "questionUrl": "https://codechef.com/problems/DELISH"
+    },
+    {
+      "questionDate": "26/07/2021",
+      "questionTitle": "Antimatching",
+      "questionUrl": "https://codechef.com/problems/ANTMAT"
     }
   ],
   "basics": [
@@ -502,6 +507,11 @@
       "questionDate": "25/07/2021",
       "questionTitle": "Total Expenses",
       "questionUrl": "https://codechef.com/problems/FLOW009"
+    },
+    {
+      "questionDate": "26/07/2021",
+      "questionTitle": "Even-tual Reduction",
+      "questionUrl": "https://codechef.com/problems/EVENTUAL"
     }
   ],
   "beta": [
@@ -754,6 +764,11 @@
       "questionDate": "25/07/2021",
       "questionTitle": "Chef and Subsequences",
       "questionUrl": "https://codechef.com/problems/CHEFCODE"
+    },
+    {
+      "questionDate": "26/07/2021",
+      "questionTitle": "Queries on tree again",
+      "questionUrl": "https://codechef.com/problems/QTRAGAIN"
     }
   ]
 }
