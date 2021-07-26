@@ -255,6 +255,11 @@
       "questionDate": "26/07/2021",
       "questionTitle": "Antimatching",
       "questionUrl": "https://codechef.com/problems/ANTMAT"
+    },
+    {
+      "questionDate": "27/07/2021",
+      "questionTitle": "Reach The Point",
+      "questionUrl": "https://codechef.com/problems/RETPO"
     }
   ],
   "basics": [
@@ -512,6 +517,11 @@
       "questionDate": "26/07/2021",
       "questionTitle": "Even-tual Reduction",
       "questionUrl": "https://codechef.com/problems/EVENTUAL"
+    },
+    {
+      "questionDate": "27/07/2021",
+      "questionTitle": "A - Books",
+      "questionUrl": "https://codechef.com/problems/BIT2A"
     }
   ],
   "beta": [
@@ -769,6 +779,11 @@
       "questionDate": "26/07/2021",
       "questionTitle": "Queries on tree again",
       "questionUrl": "https://codechef.com/problems/QTRAGAIN"
+    },
+    {
+      "questionDate": "27/07/2021",
+      "questionTitle": "King Killing",
+      "questionUrl": "https://codechef.com/problems/KKLING"
     }
   ]
 }
