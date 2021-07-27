@@ -260,6 +260,11 @@
       "questionDate": "27/07/2021",
       "questionTitle": "Reach The Point",
       "questionUrl": "https://codechef.com/problems/RETPO"
+    },
+    {
+      "questionDate": "28/07/2021",
+      "questionTitle": "Corruption in Freedonia",
+      "questionUrl": "https://codechef.com/problems/MINIKILL"
     }
   ],
   "basics": [
@@ -522,6 +527,11 @@
       "questionDate": "27/07/2021",
       "questionTitle": "A - Books",
       "questionUrl": "https://codechef.com/problems/BIT2A"
+    },
+    {
+      "questionDate": "28/07/2021",
+      "questionTitle": "Vaccine Distribution",
+      "questionUrl": "https://codechef.com/problems/VACCINE2"
     }
   ],
   "beta": [
@@ -784,6 +794,11 @@
       "questionDate": "27/07/2021",
       "questionTitle": "King Killing",
       "questionUrl": "https://codechef.com/problems/KKLING"
+    },
+    {
+      "questionDate": "28/07/2021",
+      "questionTitle": "Chef and Queries",
+      "questionUrl": "https://codechef.com/problems/CHEFNUMK"
     }
   ]
 }
