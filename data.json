@@ -265,6 +265,11 @@
       "questionDate": "28/07/2021",
       "questionTitle": "Corruption in Freedonia",
       "questionUrl": "https://codechef.com/problems/MINIKILL"
+    },
+    {
+      "questionDate": "29/07/2021",
+      "questionTitle": "Biladerim Icin",
+      "questionUrl": "https://codechef.com/problems/LAPD"
     }
   ],
   "basics": [
@@ -532,6 +537,11 @@
       "questionDate": "28/07/2021",
       "questionTitle": "Vaccine Distribution",
       "questionUrl": "https://codechef.com/problems/VACCINE2"
+    },
+    {
+      "questionDate": "29/07/2021",
+      "questionTitle": "Chef and Demonetisation",
+      "questionUrl": "https://codechef.com/problems/CHFMOT18"
     }
   ],
   "beta": [
@@ -799,6 +809,11 @@
       "questionDate": "28/07/2021",
       "questionTitle": "Chef and Queries",
       "questionUrl": "https://codechef.com/problems/CHEFNUMK"
+    },
+    {
+      "questionDate": "29/07/2021",
+      "questionTitle": "Save Jewels",
+      "questionUrl": "https://codechef.com/problems/SAVJEW"
     }
   ]
 }
