@@ -270,6 +270,11 @@
       "questionDate": "29/07/2021",
       "questionTitle": "Biladerim Icin",
       "questionUrl": "https://codechef.com/problems/LAPD"
+    },
+    {
+      "questionDate": "30/07/2021",
+      "questionTitle": "Tojo hates probabilities",
+      "questionUrl": "https://codechef.com/problems/ANUTHM"
     }
   ],
   "basics": [
@@ -542,6 +547,11 @@
       "questionDate": "29/07/2021",
       "questionTitle": "Chef and Demonetisation",
       "questionUrl": "https://codechef.com/problems/CHFMOT18"
+    },
+    {
+      "questionDate": "30/07/2021",
+      "questionTitle": "Chef and Serves",
+      "questionUrl": "https://codechef.com/problems/CHSERVE"
     }
   ],
   "beta": [
@@ -814,6 +824,11 @@
       "questionDate": "29/07/2021",
       "questionTitle": "Save Jewels",
       "questionUrl": "https://codechef.com/problems/SAVJEW"
+    },
+    {
+      "questionDate": "30/07/2021",
+      "questionTitle": "Polo the Penguin and the XOR",
+      "questionUrl": "https://codechef.com/problems/PPXOR"
     }
   ]
 }
