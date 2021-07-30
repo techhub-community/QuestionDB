@@ -275,6 +275,11 @@
       "questionDate": "30/07/2021",
       "questionTitle": "Tojo hates probabilities",
       "questionUrl": "https://codechef.com/problems/ANUTHM"
+    },
+    {
+      "questionDate": "31/07/2021",
+      "questionTitle": "Collision in Space",
+      "questionUrl": "https://codechef.com/problems/COLLIDE"
     }
   ],
   "basics": [
@@ -552,6 +557,11 @@
       "questionDate": "30/07/2021",
       "questionTitle": "Chef and Serves",
       "questionUrl": "https://codechef.com/problems/CHSERVE"
+    },
+    {
+      "questionDate": "31/07/2021",
+      "questionTitle": "Chef and Cook-Off Contests",
+      "questionUrl": "https://codechef.com/problems/C00K0FF"
     }
   ],
   "beta": [
@@ -829,6 +839,11 @@
       "questionDate": "30/07/2021",
       "questionTitle": "Polo the Penguin and the XOR",
       "questionUrl": "https://codechef.com/problems/PPXOR"
+    },
+    {
+      "questionDate": "31/07/2021",
+      "questionTitle": "Catch Spider-Chef",
+      "questionUrl": "https://codechef.com/problems/CATCHSM"
     }
   ]
 }
