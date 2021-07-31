@@ -280,6 +280,11 @@
       "questionDate": "31/07/2021",
       "questionTitle": "Collision in Space",
       "questionUrl": "https://codechef.com/problems/COLLIDE"
+    },
+    {
+      "questionDate": "01/08/2021",
+      "questionTitle": "Uncle Johny",
+      "questionUrl": "https://codechef.com/problems/JOHNY"
     }
   ],
   "basics": [
@@ -562,6 +567,11 @@
       "questionDate": "31/07/2021",
       "questionTitle": "Chef and Cook-Off Contests",
       "questionUrl": "https://codechef.com/problems/C00K0FF"
+    },
+    {
+      "questionDate": "01/08/2021",
+      "questionTitle": "Lazy Jem",
+      "questionUrl": "https://codechef.com/problems/TALAZY"
     }
   ],
   "beta": [
@@ -844,6 +854,11 @@
       "questionDate": "31/07/2021",
       "questionTitle": "Catch Spider-Chef",
       "questionUrl": "https://codechef.com/problems/CATCHSM"
+    },
+    {
+      "questionDate": "01/08/2021",
+      "questionTitle": "Computer Network",
+      "questionUrl": "https://codechef.com/problems/EXNETWRK"
     }
   ]
 }
