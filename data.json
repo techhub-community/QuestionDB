@@ -285,6 +285,11 @@
       "questionDate": "01/08/2021",
       "questionTitle": "Uncle Johny",
       "questionUrl": "https://codechef.com/problems/JOHNY"
+    },
+    {
+      "questionDate": "02/08/2021",
+      "questionTitle": "Waiting in Queue",
+      "questionUrl": "https://codechef.com/problems/QUEUE2"
     }
   ],
   "basics": [
@@ -572,6 +577,11 @@
       "questionDate": "01/08/2021",
       "questionTitle": "Lazy Jem",
       "questionUrl": "https://codechef.com/problems/TALAZY"
+    },
+    {
+      "questionDate": "02/08/2021",
+      "questionTitle": "Strange operations",
+      "questionUrl": "https://codechef.com/problems/UTMOPR"
     }
   ],
   "beta": [
@@ -859,6 +869,11 @@
       "questionDate": "01/08/2021",
       "questionTitle": "Computer Network",
       "questionUrl": "https://codechef.com/problems/EXNETWRK"
+    },
+    {
+      "questionDate": "02/08/2021",
+      "questionTitle": "Chef and Math Test",
+      "questionUrl": "https://codechef.com/problems/CK87MEAD"
     }
   ]
 }
