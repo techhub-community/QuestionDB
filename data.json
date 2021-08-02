@@ -290,6 +290,11 @@
       "questionDate": "02/08/2021",
       "questionTitle": "Waiting in Queue",
       "questionUrl": "https://codechef.com/problems/QUEUE2"
+    },
+    {
+      "questionDate": "03/08/2021",
+      "questionTitle": "Chef and Balls",
+      "questionUrl": "https://codechef.com/problems/CHBLLS"
     }
   ],
   "basics": [
@@ -582,6 +587,11 @@
       "questionDate": "02/08/2021",
       "questionTitle": "Strange operations",
       "questionUrl": "https://codechef.com/problems/UTMOPR"
+    },
+    {
+      "questionDate": "03/08/2021",
+      "questionTitle": "Chef And his Cake",
+      "questionUrl": "https://codechef.com/problems/GIT01"
     }
   ],
   "beta": [
@@ -874,6 +884,11 @@
       "questionDate": "02/08/2021",
       "questionTitle": "Chef and Math Test",
       "questionUrl": "https://codechef.com/problems/CK87MEAD"
+    },
+    {
+      "questionDate": "03/08/2021",
+      "questionTitle": "Arigeom Beats",
+      "questionUrl": "https://codechef.com/problems/ARIGEOM"
     }
   ]
 }
