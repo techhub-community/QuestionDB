@@ -295,6 +295,11 @@
       "questionDate": "03/08/2021",
       "questionTitle": "Chef and Balls",
       "questionUrl": "https://codechef.com/problems/CHBLLS"
+    },
+    {
+      "questionDate": "04/08/2021",
+      "questionTitle": "Minimum Sum",
+      "questionUrl": "https://codechef.com/problems/MINARRS"
     }
   ],
   "basics": [
@@ -592,6 +597,11 @@
       "questionDate": "03/08/2021",
       "questionTitle": "Chef And his Cake",
       "questionUrl": "https://codechef.com/problems/GIT01"
+    },
+    {
+      "questionDate": "04/08/2021",
+      "questionTitle": "Vaccine Production",
+      "questionUrl": "https://codechef.com/problems/VACCINE1"
     }
   ],
   "beta": [
@@ -889,6 +899,11 @@
       "questionDate": "03/08/2021",
       "questionTitle": "Arigeom Beats",
       "questionUrl": "https://codechef.com/problems/ARIGEOM"
+    },
+    {
+      "questionDate": "04/08/2021",
+      "questionTitle": "Gap Filler Game",
+      "questionUrl": "https://codechef.com/problems/GAPFILL"
     }
   ]
 }
