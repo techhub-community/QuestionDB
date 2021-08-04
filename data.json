@@ -300,6 +300,11 @@
       "questionDate": "04/08/2021",
       "questionTitle": "Minimum Sum",
       "questionUrl": "https://codechef.com/problems/MINARRS"
+    },
+    {
+      "questionDate": "05/08/2021",
+      "questionTitle": "Book Exercises",
+      "questionUrl": "https://codechef.com/problems/BEX"
     }
   ],
   "basics": [
@@ -602,6 +607,11 @@
       "questionDate": "04/08/2021",
       "questionTitle": "Vaccine Production",
       "questionUrl": "https://codechef.com/problems/VACCINE1"
+    },
+    {
+      "questionDate": "05/08/2021",
+      "questionTitle": "From heaven to earth",
+      "questionUrl": "https://codechef.com/problems/ELEVSTRS"
     }
   ],
   "beta": [
@@ -904,6 +914,11 @@
       "questionDate": "04/08/2021",
       "questionTitle": "Gap Filler Game",
       "questionUrl": "https://codechef.com/problems/GAPFILL"
+    },
+    {
+      "questionDate": "05/08/2021",
+      "questionTitle": "Entangled Strings",
+      "questionUrl": "https://codechef.com/problems/TANGLED"
     }
   ]
 }
