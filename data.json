@@ -310,6 +310,11 @@
       "questionDate": "06/08/2021",
       "questionTitle": "Guess the Prime!",
       "questionUrl": "https://codechef.com/problems/GUESSPRM"
+    },
+    {
+      "questionDate": "07/08/2021",
+      "questionTitle": "Max Mex",
+      "questionUrl": "https://codechef.com/problems/MEX"
     }
   ],
   "basics": [
@@ -622,6 +627,11 @@
       "questionDate": "06/08/2021",
       "questionTitle": "Roots of a Quadratic Equation",
       "questionUrl": "https://codechef.com/problems/QUADROOT"
+    },
+    {
+      "questionDate": "07/08/2021",
+      "questionTitle": "Fit Squares in Triangle",
+      "questionUrl": "https://codechef.com/problems/TRISQ"
     }
   ],
   "beta": [
@@ -934,6 +944,11 @@
       "questionDate": "06/08/2021",
       "questionTitle": "Statements Checking",
       "questionUrl": "https://codechef.com/problems/CORRCHK"
+    },
+    {
+      "questionDate": "07/08/2021",
+      "questionTitle": "Bonus",
+      "questionUrl": "https://codechef.com/problems/ACMKANPB"
     }
   ]
 }
