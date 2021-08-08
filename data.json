@@ -320,6 +320,11 @@
       "questionDate": "08/08/2021",
       "questionTitle": "Maximum Special Sum",
       "questionUrl": "https://codechef.com/problems/MAXSPSUM"
+    },
+    {
+      "questionDate": "09/08/2021",
+      "questionTitle": "Flu Shot Lineup",
+      "questionUrl": "https://codechef.com/problems/FLUSHOT"
     }
   ],
   "basics": [
@@ -642,6 +647,11 @@
       "questionDate": "08/08/2021",
       "questionTitle": "Even Pair Sum",
       "questionUrl": "https://codechef.com/problems/EVENPSUM"
+    },
+    {
+      "questionDate": "09/08/2021",
+      "questionTitle": "Peak Finding",
+      "questionUrl": "https://codechef.com/problems/UWCOI20A"
     }
   ],
   "beta": [
@@ -964,6 +974,11 @@
       "questionDate": "08/08/2021",
       "questionTitle": "X and Two Groups",
       "questionUrl": "https://codechef.com/problems/XTGR"
+    },
+    {
+      "questionDate": "09/08/2021",
+      "questionTitle": "Binary Palindrome",
+      "questionUrl": "https://codechef.com/problems/BINPALIN"
     }
   ]
 }
