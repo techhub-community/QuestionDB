@@ -325,6 +325,11 @@
       "questionDate": "09/08/2021",
       "questionTitle": "Flu Shot Lineup",
       "questionUrl": "https://codechef.com/problems/FLUSHOT"
+    },
+    {
+      "questionDate": "10/08/2021",
+      "questionTitle": "Lucy and the Number Game",
+      "questionUrl": "https://codechef.com/problems/NUMBERS"
     }
   ],
   "basics": [
@@ -652,6 +657,11 @@
       "questionDate": "09/08/2021",
       "questionTitle": "Peak Finding",
       "questionUrl": "https://codechef.com/problems/UWCOI20A"
+    },
+    {
+      "questionDate": "10/08/2021",
+      "questionTitle": "Chef and Way",
+      "questionUrl": "https://codechef.com/problems/CHRL4"
     }
   ],
   "beta": [
@@ -979,6 +989,11 @@
       "questionDate": "09/08/2021",
       "questionTitle": "Binary Palindrome",
       "questionUrl": "https://codechef.com/problems/BINPALIN"
+    },
+    {
+      "questionDate": "10/08/2021",
+      "questionTitle": "4 - Collapse The Array",
+      "questionUrl": "https://codechef.com/problems/CLPS"
     }
   ]
 }
