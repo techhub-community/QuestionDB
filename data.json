@@ -330,6 +330,11 @@
       "questionDate": "10/08/2021",
       "questionTitle": "Lucy and the Number Game",
       "questionUrl": "https://codechef.com/problems/NUMBERS"
+    },
+    {
+      "questionDate": "11/08/2021",
+      "questionTitle": "4 - Palindrome and antipalindrome",
+      "questionUrl": "https://codechef.com/problems/STRSPL"
     }
   ],
   "basics": [
@@ -662,6 +667,11 @@
       "questionDate": "10/08/2021",
       "questionTitle": "Chef and Way",
       "questionUrl": "https://codechef.com/problems/CHRL4"
+    },
+    {
+      "questionDate": "11/08/2021",
+      "questionTitle": "Farmer And His Plot",
+      "questionUrl": "https://codechef.com/problems/RECTSQ"
     }
   ],
   "beta": [
@@ -994,6 +1004,11 @@
       "questionDate": "10/08/2021",
       "questionTitle": "4 - Collapse The Array",
       "questionUrl": "https://codechef.com/problems/CLPS"
+    },
+    {
+      "questionDate": "11/08/2021",
+      "questionTitle": "Buying a New String",
+      "questionUrl": "https://codechef.com/problems/TWOSTRS"
     }
   ]
 }
