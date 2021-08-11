@@ -335,6 +335,11 @@
       "questionDate": "11/08/2021",
       "questionTitle": "4 - Palindrome and antipalindrome",
       "questionUrl": "https://codechef.com/problems/STRSPL"
+    },
+    {
+      "questionDate": "12/08/2021",
+      "questionTitle": "Space Arrays",
+      "questionUrl": "https://codechef.com/problems/SPACEARR"
     }
   ],
   "basics": [
@@ -672,6 +677,11 @@
       "questionDate": "11/08/2021",
       "questionTitle": "Farmer And His Plot",
       "questionUrl": "https://codechef.com/problems/RECTSQ"
+    },
+    {
+      "questionDate": "12/08/2021",
+      "questionTitle": "Collisions",
+      "questionUrl": "https://codechef.com/problems/LCOLLIS"
     }
   ],
   "beta": [
@@ -1009,6 +1019,11 @@
       "questionDate": "11/08/2021",
       "questionTitle": "Buying a New String",
       "questionUrl": "https://codechef.com/problems/TWOSTRS"
+    },
+    {
+      "questionDate": "12/08/2021",
+      "questionTitle": "Chef Anup",
+      "questionUrl": "https://codechef.com/problems/CHEFANUP"
     }
   ]
 }
