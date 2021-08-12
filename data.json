@@ -340,6 +340,11 @@
       "questionDate": "12/08/2021",
       "questionTitle": "Space Arrays",
       "questionUrl": "https://codechef.com/problems/SPACEARR"
+    },
+    {
+      "questionDate": "13/08/2021",
+      "questionTitle": "Chef and Segment Game",
+      "questionUrl": "https://codechef.com/problems/CHEFSEG"
     }
   ],
   "basics": [
@@ -682,6 +687,11 @@
       "questionDate": "12/08/2021",
       "questionTitle": "Collisions",
       "questionUrl": "https://codechef.com/problems/LCOLLIS"
+    },
+    {
+      "questionDate": "13/08/2021",
+      "questionTitle": "Chef and his Sequence",
+      "questionUrl": "https://codechef.com/problems/CHEFSQ"
     }
   ],
   "beta": [
@@ -1024,6 +1034,11 @@
       "questionDate": "12/08/2021",
       "questionTitle": "Chef Anup",
       "questionUrl": "https://codechef.com/problems/CHEFANUP"
+    },
+    {
+      "questionDate": "13/08/2021",
+      "questionTitle": "Animesh has a war with tribal leader Malvika",
+      "questionUrl": "https://codechef.com/problems/CHN11"
     }
   ]
 }
