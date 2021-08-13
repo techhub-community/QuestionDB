@@ -345,6 +345,11 @@
       "questionDate": "13/08/2021",
       "questionTitle": "Chef and Segment Game",
       "questionUrl": "https://codechef.com/problems/CHEFSEG"
+    },
+    {
+      "questionDate": "14/08/2021",
+      "questionTitle": "Game with numbers",
+      "questionUrl": "https://codechef.com/problems/GAMENUMB"
     }
   ],
   "basics": [
@@ -692,6 +697,11 @@
       "questionDate": "13/08/2021",
       "questionTitle": "Chef and his Sequence",
       "questionUrl": "https://codechef.com/problems/CHEFSQ"
+    },
+    {
+      "questionDate": "14/08/2021",
+      "questionTitle": "Chef and Gift",
+      "questionUrl": "https://codechef.com/problems/PRGIFT"
     }
   ],
   "beta": [
@@ -1039,6 +1049,11 @@
       "questionDate": "13/08/2021",
       "questionTitle": "Animesh has a war with tribal leader Malvika",
       "questionUrl": "https://codechef.com/problems/CHN11"
+    },
+    {
+      "questionDate": "14/08/2021",
+      "questionTitle": "Binary Strings",
+      "questionUrl": "https://codechef.com/problems/BINSTR"
     }
   ]
 }
