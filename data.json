@@ -350,6 +350,11 @@
       "questionDate": "14/08/2021",
       "questionTitle": "Game with numbers",
       "questionUrl": "https://codechef.com/problems/GAMENUMB"
+    },
+    {
+      "questionDate": "15/08/2021",
+      "questionTitle": "XOR-ORED",
+      "questionUrl": "https://codechef.com/problems/XORORED"
     }
   ],
   "basics": [
@@ -702,6 +707,11 @@
       "questionDate": "14/08/2021",
       "questionTitle": "Chef and Gift",
       "questionUrl": "https://codechef.com/problems/PRGIFT"
+    },
+    {
+      "questionDate": "15/08/2021",
+      "questionTitle": "Chef and Steps",
+      "questionUrl": "https://codechef.com/problems/CHEFSTEP"
     }
   ],
   "beta": [
@@ -1054,6 +1064,11 @@
       "questionDate": "14/08/2021",
       "questionTitle": "Binary Strings",
       "questionUrl": "https://codechef.com/problems/BINSTR"
+    },
+    {
+      "questionDate": "15/08/2021",
+      "questionTitle": "Beautiful Sandwich",
+      "questionUrl": "https://codechef.com/problems/BEAUTY"
     }
   ]
 }
