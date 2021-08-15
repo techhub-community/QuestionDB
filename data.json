@@ -355,6 +355,11 @@
       "questionDate": "15/08/2021",
       "questionTitle": "XOR-ORED",
       "questionUrl": "https://codechef.com/problems/XORORED"
+    },
+    {
+      "questionDate": "16/08/2021",
+      "questionTitle": "CAO Stage-2",
+      "questionUrl": "https://codechef.com/problems/CAOS2"
     }
   ],
   "basics": [
@@ -712,6 +717,11 @@
       "questionDate": "15/08/2021",
       "questionTitle": "Chef and Steps",
       "questionUrl": "https://codechef.com/problems/CHEFSTEP"
+    },
+    {
+      "questionDate": "16/08/2021",
+      "questionTitle": "Three Friends",
+      "questionUrl": "https://codechef.com/problems/THREEFR"
     }
   ],
   "beta": [
@@ -1069,6 +1079,11 @@
       "questionDate": "15/08/2021",
       "questionTitle": "Beautiful Sandwich",
       "questionUrl": "https://codechef.com/problems/BEAUTY"
+    },
+    {
+      "questionDate": "16/08/2021",
+      "questionTitle": "Ancient Magic",
+      "questionUrl": "https://codechef.com/problems/ANCT"
     }
   ]
 }
