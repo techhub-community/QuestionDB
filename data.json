@@ -360,6 +360,11 @@
       "questionDate": "16/08/2021",
       "questionTitle": "CAO Stage-2",
       "questionUrl": "https://codechef.com/problems/CAOS2"
+    },
+    {
+      "questionDate": "17/08/2021",
+      "questionTitle": "Node Codon",
+      "questionUrl": "https://codechef.com/problems/CODON"
     }
   ],
   "basics": [
@@ -722,6 +727,11 @@
       "questionDate": "16/08/2021",
       "questionTitle": "Three Friends",
       "questionUrl": "https://codechef.com/problems/THREEFR"
+    },
+    {
+      "questionDate": "17/08/2021",
+      "questionTitle": "Chef and Rainbow Array",
+      "questionUrl": "https://codechef.com/problems/RAINBOWA"
     }
   ],
   "beta": [
@@ -1084,6 +1094,11 @@
       "questionDate": "16/08/2021",
       "questionTitle": "Ancient Magic",
       "questionUrl": "https://codechef.com/problems/ANCT"
+    },
+    {
+      "questionDate": "17/08/2021",
+      "questionTitle": "Super Factor Sum",
+      "questionUrl": "https://codechef.com/problems/FACTSUM"
     }
   ]
 }
