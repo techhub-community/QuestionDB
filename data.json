@@ -365,6 +365,11 @@
       "questionDate": "17/08/2021",
       "questionTitle": "Node Codon",
       "questionUrl": "https://codechef.com/problems/CODON"
+    },
+    {
+      "questionDate": "18/08/2021",
+      "questionTitle": "Palindromic number",
+      "questionUrl": "https://codechef.com/problems/PALNUM"
     }
   ],
   "basics": [
@@ -732,6 +737,11 @@
       "questionDate": "17/08/2021",
       "questionTitle": "Chef and Rainbow Array",
       "questionUrl": "https://codechef.com/problems/RAINBOWA"
+    },
+    {
+      "questionDate": "18/08/2021",
+      "questionTitle": "Closing the Tweets",
+      "questionUrl": "https://codechef.com/problems/TWTCLOSE"
     }
   ],
   "beta": [
@@ -1099,6 +1109,11 @@
       "questionDate": "17/08/2021",
       "questionTitle": "Super Factor Sum",
       "questionUrl": "https://codechef.com/problems/FACTSUM"
+    },
+    {
+      "questionDate": "18/08/2021",
+      "questionTitle": "Shifted Palindrome",
+      "questionUrl": "https://codechef.com/problems/SHIFTPAL"
     }
   ]
 }
