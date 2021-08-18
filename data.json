@@ -370,6 +370,11 @@
       "questionDate": "18/08/2021",
       "questionTitle": "Palindromic number",
       "questionUrl": "https://codechef.com/problems/PALNUM"
+    },
+    {
+      "questionDate": "19/08/2021",
+      "questionTitle": "Chef and Dynamo",
+      "questionUrl": "https://codechef.com/problems/DYNAMO"
     }
   ],
   "basics": [
@@ -742,6 +747,11 @@
       "questionDate": "18/08/2021",
       "questionTitle": "Closing the Tweets",
       "questionUrl": "https://codechef.com/problems/TWTCLOSE"
+    },
+    {
+      "questionDate": "19/08/2021",
+      "questionTitle": "Chef and An Ideal Problem",
+      "questionUrl": "https://codechef.com/problems/CHFIDEAL"
     }
   ],
   "beta": [
@@ -1114,6 +1124,11 @@
       "questionDate": "18/08/2021",
       "questionTitle": "Shifted Palindrome",
       "questionUrl": "https://codechef.com/problems/SHIFTPAL"
+    },
+    {
+      "questionDate": "19/08/2021",
+      "questionTitle": "A Complex Graph Problem",
+      "questionUrl": "https://codechef.com/problems/COMPLEXG"
     }
   ]
 }
