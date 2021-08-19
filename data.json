@@ -375,6 +375,11 @@
       "questionDate": "19/08/2021",
       "questionTitle": "Chef and Dynamo",
       "questionUrl": "https://codechef.com/problems/DYNAMO"
+    },
+    {
+      "questionDate": "20/08/2021",
+      "questionTitle": "Chef and Adventures",
+      "questionUrl": "https://codechef.com/problems/CHEFADV"
     }
   ],
   "basics": [
@@ -752,6 +757,11 @@
       "questionDate": "19/08/2021",
       "questionTitle": "Chef and An Ideal Problem",
       "questionUrl": "https://codechef.com/problems/CHFIDEAL"
+    },
+    {
+      "questionDate": "20/08/2021",
+      "questionTitle": "The Block Game",
+      "questionUrl": "https://codechef.com/problems/PALL01"
     }
   ],
   "beta": [
@@ -1129,6 +1139,11 @@
       "questionDate": "19/08/2021",
       "questionTitle": "A Complex Graph Problem",
       "questionUrl": "https://codechef.com/problems/COMPLEXG"
+    },
+    {
+      "questionDate": "20/08/2021",
+      "questionTitle": "Chef and The Colored Grid",
+      "questionUrl": "https://codechef.com/problems/GRIDCOL"
     }
   ]
 }
