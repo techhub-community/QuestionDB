@@ -380,6 +380,11 @@
       "questionDate": "20/08/2021",
       "questionTitle": "Chef and Adventures",
       "questionUrl": "https://codechef.com/problems/CHEFADV"
+    },
+    {
+      "questionDate": "21/08/2021",
+      "questionTitle": "Awkward Pairs",
+      "questionUrl": "https://codechef.com/problems/PROC18C"
     }
   ],
   "basics": [
@@ -762,6 +767,11 @@
       "questionDate": "20/08/2021",
       "questionTitle": "The Block Game",
       "questionUrl": "https://codechef.com/problems/PALL01"
+    },
+    {
+      "questionDate": "21/08/2021",
+      "questionTitle": "1 - Cakezoned",
+      "questionUrl": "https://codechef.com/problems/BENDSP2"
     }
   ],
   "beta": [
@@ -1144,6 +1154,11 @@
       "questionDate": "20/08/2021",
       "questionTitle": "Chef and The Colored Grid",
       "questionUrl": "https://codechef.com/problems/GRIDCOL"
+    },
+    {
+      "questionDate": "21/08/2021",
+      "questionTitle": "Offer for Chef",
+      "questionUrl": "https://codechef.com/problems/CHEFOFR"
     }
   ]
 }
