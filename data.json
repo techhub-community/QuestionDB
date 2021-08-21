@@ -385,6 +385,11 @@
       "questionDate": "21/08/2021",
       "questionTitle": "Awkward Pairs",
       "questionUrl": "https://codechef.com/problems/PROC18C"
+    },
+    {
+      "questionDate": "22/08/2021",
+      "questionTitle": "Knight Covering",
+      "questionUrl": "https://codechef.com/problems/KNICOV"
     }
   ],
   "basics": [
@@ -772,6 +777,11 @@
       "questionDate": "21/08/2021",
       "questionTitle": "1 - Cakezoned",
       "questionUrl": "https://codechef.com/problems/BENDSP2"
+    },
+    {
+      "questionDate": "22/08/2021",
+      "questionTitle": "Guddu on a Date",
+      "questionUrl": "https://codechef.com/problems/KS2"
     }
   ],
   "beta": [
@@ -1159,6 +1169,11 @@
       "questionDate": "21/08/2021",
       "questionTitle": "Offer for Chef",
       "questionUrl": "https://codechef.com/problems/CHEFOFR"
+    },
+    {
+      "questionDate": "22/08/2021",
+      "questionTitle": "Isomorphic Morphism",
+      "questionUrl": "https://codechef.com/problems/MORPH21"
     }
   ]
 }
