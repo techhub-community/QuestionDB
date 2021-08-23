@@ -395,6 +395,11 @@
       "questionDate": "23/08/2021",
       "questionTitle": "Iron, Magnet and Wall",
       "questionUrl": "https://codechef.com/problems/FEMA2"
+    },
+    {
+      "questionDate": "24/08/2021",
+      "questionTitle": "Fibonacci concatenation",
+      "questionUrl": "https://codechef.com/problems/FIBOSEQ"
     }
   ],
   "basics": [
@@ -792,6 +797,11 @@
       "questionDate": "23/08/2021",
       "questionTitle": "Cut the Board",
       "questionUrl": "https://codechef.com/problems/CUTBOARD"
+    },
+    {
+      "questionDate": "24/08/2021",
+      "questionTitle": "Small factorials",
+      "questionUrl": "https://codechef.com/problems/FCTRL2"
     }
   ],
   "beta": [
@@ -1189,6 +1199,11 @@
       "questionDate": "23/08/2021",
       "questionTitle": "Bacterial Reproduction",
       "questionUrl": "https://codechef.com/problems/BACREP"
+    },
+    {
+      "questionDate": "24/08/2021",
+      "questionTitle": "Recover Array",
+      "questionUrl": "https://codechef.com/problems/RECARR"
     }
   ]
 }
