@@ -400,6 +400,11 @@
       "questionDate": "24/08/2021",
       "questionTitle": "Fibonacci concatenation",
       "questionUrl": "https://codechef.com/problems/FIBOSEQ"
+    },
+    {
+      "questionDate": "25/08/2021",
+      "questionTitle": "Let us play with rank list",
+      "questionUrl": "https://codechef.com/problems/RANKLIST"
     }
   ],
   "basics": [
@@ -802,6 +807,11 @@
       "questionDate": "24/08/2021",
       "questionTitle": "Small factorials",
       "questionUrl": "https://codechef.com/problems/FCTRL2"
+    },
+    {
+      "questionDate": "25/08/2021",
+      "questionTitle": "Football",
+      "questionUrl": "https://codechef.com/problems/MSNSADM1"
     }
   ],
   "beta": [
@@ -1204,6 +1214,11 @@
       "questionDate": "24/08/2021",
       "questionTitle": "Recover Array",
       "questionUrl": "https://codechef.com/problems/RECARR"
+    },
+    {
+      "questionDate": "25/08/2021",
+      "questionTitle": "Money Matters",
+      "questionUrl": "https://codechef.com/problems/MONEY"
     }
   ]
 }
