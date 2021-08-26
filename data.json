@@ -410,6 +410,11 @@
       "questionDate": "26/08/2021",
       "questionTitle": "Chef and GCD Game ",
       "questionUrl": "https://codechef.com/problems/CHGCDG"
+    },
+    {
+      "questionDate": "27/08/2021",
+      "questionTitle": "Colliding Balls",
+      "questionUrl": "https://codechef.com/problems/BALLCOL"
     }
   ],
   "basics": [
@@ -822,6 +827,11 @@
       "questionDate": "26/08/2021",
       "questionTitle": "Marathon",
       "questionUrl": "https://codechef.com/problems/MARARUN"
+    },
+    {
+      "questionDate": "27/08/2021",
+      "questionTitle": "Chef Diet",
+      "questionUrl": "https://codechef.com/problems/DIET"
     }
   ],
   "beta": [
@@ -1234,6 +1244,11 @@
       "questionDate": "26/08/2021",
       "questionTitle": "Divide the Set",
       "questionUrl": "https://codechef.com/problems/DIVSET"
+    },
+    {
+      "questionDate": "27/08/2021",
+      "questionTitle": "Pairs of Pairs",
+      "questionUrl": "https://codechef.com/problems/POFP"
     }
   ]
 }
