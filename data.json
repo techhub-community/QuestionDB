@@ -415,6 +415,11 @@
       "questionDate": "27/08/2021",
       "questionTitle": "Colliding Balls",
       "questionUrl": "https://codechef.com/problems/BALLCOL"
+    },
+    {
+      "questionDate": "28/08/2021",
+      "questionTitle": "A String Game",
+      "questionUrl": "https://codechef.com/problems/ASTRGAME"
     }
   ],
   "basics": [
@@ -832,6 +837,11 @@
       "questionDate": "27/08/2021",
       "questionTitle": "Chef Diet",
       "questionUrl": "https://codechef.com/problems/DIET"
+    },
+    {
+      "questionDate": "28/08/2021",
+      "questionTitle": "Ada King",
+      "questionUrl": "https://codechef.com/problems/ADAKNG"
     }
   ],
   "beta": [
@@ -1249,6 +1259,11 @@
       "questionDate": "27/08/2021",
       "questionTitle": "Pairs of Pairs",
       "questionUrl": "https://codechef.com/problems/POFP"
+    },
+    {
+      "questionDate": "28/08/2021",
+      "questionTitle": "Chef and Points",
+      "questionUrl": "https://codechef.com/problems/KOL16K"
     }
   ]
 }
