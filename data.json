@@ -420,6 +420,11 @@
       "questionDate": "28/08/2021",
       "questionTitle": "A String Game",
       "questionUrl": "https://codechef.com/problems/ASTRGAME"
+    },
+    {
+      "questionDate": "29/08/2021",
+      "questionTitle": "All Substrings",
+      "questionUrl": "https://codechef.com/problems/ALLSUB"
     }
   ],
   "basics": [
@@ -842,6 +847,11 @@
       "questionDate": "28/08/2021",
       "questionTitle": "Ada King",
       "questionUrl": "https://codechef.com/problems/ADAKNG"
+    },
+    {
+      "questionDate": "29/08/2021",
+      "questionTitle": "Is This a Give Away",
+      "questionUrl": "https://codechef.com/problems/GVAWAY"
     }
   ],
   "beta": [
@@ -1264,6 +1274,11 @@
       "questionDate": "28/08/2021",
       "questionTitle": "Chef and Points",
       "questionUrl": "https://codechef.com/problems/KOL16K"
+    },
+    {
+      "questionDate": "29/08/2021",
+      "questionTitle": "Coin Partition",
+      "questionUrl": "https://codechef.com/problems/COINPART"
     }
   ]
 }
