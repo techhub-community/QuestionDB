@@ -425,6 +425,11 @@
       "questionDate": "29/08/2021",
       "questionTitle": "All Substrings",
       "questionUrl": "https://codechef.com/problems/ALLSUB"
+    },
+    {
+      "questionDate": "30/08/2021",
+      "questionTitle": "Chef and Segments",
+      "questionUrl": "https://codechef.com/problems/CHMOD"
     }
   ],
   "basics": [
@@ -852,6 +857,11 @@
       "questionDate": "29/08/2021",
       "questionTitle": "Is This a Give Away",
       "questionUrl": "https://codechef.com/problems/GVAWAY"
+    },
+    {
+      "questionDate": "30/08/2021",
+      "questionTitle": "Chef Judges a Competition",
+      "questionUrl": "https://codechef.com/problems/CO92JUDG"
     }
   ],
   "beta": [
@@ -1279,6 +1289,11 @@
       "questionDate": "29/08/2021",
       "questionTitle": "Coin Partition",
       "questionUrl": "https://codechef.com/problems/COINPART"
+    },
+    {
+      "questionDate": "30/08/2021",
+      "questionTitle": "Ingredients",
+      "questionUrl": "https://codechef.com/problems/CHEFSHOP"
     }
   ]
 }
