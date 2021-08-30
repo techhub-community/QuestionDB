@@ -430,6 +430,11 @@
       "questionDate": "30/08/2021",
       "questionTitle": "Chef and Segments",
       "questionUrl": "https://codechef.com/problems/CHMOD"
+    },
+    {
+      "questionDate": "31/08/2021",
+      "questionTitle": "Subtract Leading Digit",
+      "questionUrl": "https://codechef.com/problems/SUBLD"
     }
   ],
   "basics": [
@@ -862,6 +867,11 @@
       "questionDate": "30/08/2021",
       "questionTitle": "Chef Judges a Competition",
       "questionUrl": "https://codechef.com/problems/CO92JUDG"
+    },
+    {
+      "questionDate": "31/08/2021",
+      "questionTitle": "A Problem on Sticks",
+      "questionUrl": "https://codechef.com/problems/TREE2"
     }
   ],
   "beta": [
@@ -1294,6 +1304,11 @@
       "questionDate": "30/08/2021",
       "questionTitle": "Ingredients",
       "questionUrl": "https://codechef.com/problems/CHEFSHOP"
+    },
+    {
+      "questionDate": "31/08/2021",
+      "questionTitle": "Unique Substring",
+      "questionUrl": "https://codechef.com/problems/CLUNQUE"
     }
   ]
 }
