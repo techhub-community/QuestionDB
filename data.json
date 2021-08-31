@@ -435,6 +435,11 @@
       "questionDate": "31/08/2021",
       "questionTitle": "Subtract Leading Digit",
       "questionUrl": "https://codechef.com/problems/SUBLD"
+    },
+    {
+      "questionDate": "01/09/2021",
+      "questionTitle": "Dividing Machine",
+      "questionUrl": "https://codechef.com/problems/DIVMAC"
     }
   ],
   "basics": [
@@ -872,6 +877,11 @@
       "questionDate": "31/08/2021",
       "questionTitle": "A Problem on Sticks",
       "questionUrl": "https://codechef.com/problems/TREE2"
+    },
+    {
+      "questionDate": "01/09/2021",
+      "questionTitle": "Football Match",
+      "questionUrl": "https://codechef.com/problems/FBMT"
     }
   ],
   "beta": [
@@ -1309,6 +1319,11 @@
       "questionDate": "31/08/2021",
       "questionTitle": "Unique Substring",
       "questionUrl": "https://codechef.com/problems/CLUNQUE"
+    },
+    {
+      "questionDate": "01/09/2021",
+      "questionTitle": "Adi and the Tree",
+      "questionUrl": "https://codechef.com/problems/ADITREE"
     }
   ]
 }
