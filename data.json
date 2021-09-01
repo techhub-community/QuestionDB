@@ -440,6 +440,11 @@
       "questionDate": "01/09/2021",
       "questionTitle": "Dividing Machine",
       "questionUrl": "https://codechef.com/problems/DIVMAC"
+    },
+    {
+      "questionDate": "02/09/2021",
+      "questionTitle": "Lighthouses",
+      "questionUrl": "https://codechef.com/problems/LIGHTHSE"
     }
   ],
   "basics": [
@@ -882,6 +887,11 @@
       "questionDate": "01/09/2021",
       "questionTitle": "Football Match",
       "questionUrl": "https://codechef.com/problems/FBMT"
+    },
+    {
+      "questionDate": "02/09/2021",
+      "questionTitle": "Coldplay",
+      "questionUrl": "https://codechef.com/problems/SLOOP"
     }
   ],
   "beta": [
@@ -1324,6 +1334,11 @@
       "questionDate": "01/09/2021",
       "questionTitle": "Adi and the Tree",
       "questionUrl": "https://codechef.com/problems/ADITREE"
+    },
+    {
+      "questionDate": "02/09/2021",
+      "questionTitle": "Almost Palindromic",
+      "questionUrl": "https://codechef.com/problems/PLIND"
     }
   ]
 }
