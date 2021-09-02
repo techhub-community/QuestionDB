@@ -445,6 +445,11 @@
       "questionDate": "02/09/2021",
       "questionTitle": "Lighthouses",
       "questionUrl": "https://codechef.com/problems/LIGHTHSE"
+    },
+    {
+      "questionDate": "03/09/2021",
+      "questionTitle": "Cleaning Up",
+      "questionUrl": "https://codechef.com/problems/CLEANUP"
     }
   ],
   "basics": [
@@ -892,6 +897,11 @@
       "questionDate": "02/09/2021",
       "questionTitle": "Coldplay",
       "questionUrl": "https://codechef.com/problems/SLOOP"
+    },
+    {
+      "questionDate": "03/09/2021",
+      "questionTitle": "Magic Set",
+      "questionUrl": "https://codechef.com/problems/MGCSET"
     }
   ],
   "beta": [
@@ -1339,6 +1349,11 @@
       "questionDate": "02/09/2021",
       "questionTitle": "Almost Palindromic",
       "questionUrl": "https://codechef.com/problems/PLIND"
+    },
+    {
+      "questionDate": "03/09/2021",
+      "questionTitle": "Rotate the String",
+      "questionUrl": "https://codechef.com/problems/ROTSTRNG"
     }
   ]
 }
