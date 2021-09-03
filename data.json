@@ -450,6 +450,11 @@
       "questionDate": "03/09/2021",
       "questionTitle": "Cleaning Up",
       "questionUrl": "https://codechef.com/problems/CLEANUP"
+    },
+    {
+      "questionDate": "04/09/2021",
+      "questionTitle": "Discrepancies in the Voters List",
+      "questionUrl": "https://codechef.com/problems/VOTERS"
     }
   ],
   "basics": [
@@ -902,6 +907,11 @@
       "questionDate": "03/09/2021",
       "questionTitle": "Magic Set",
       "questionUrl": "https://codechef.com/problems/MGCSET"
+    },
+    {
+      "questionDate": "04/09/2021",
+      "questionTitle": "Kitchen Timetable",
+      "questionUrl": "https://codechef.com/problems/KTTABLE"
     }
   ],
   "beta": [
@@ -1354,6 +1364,11 @@
       "questionDate": "03/09/2021",
       "questionTitle": "Rotate the String",
       "questionUrl": "https://codechef.com/problems/ROTSTRNG"
+    },
+    {
+      "questionDate": "04/09/2021",
+      "questionTitle": "Sequence Creation",
+      "questionUrl": "https://codechef.com/problems/ARCRT"
     }
   ]
 }
