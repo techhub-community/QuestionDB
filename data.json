@@ -455,6 +455,11 @@
       "questionDate": "04/09/2021",
       "questionTitle": "Discrepancies in the Voters List",
       "questionUrl": "https://codechef.com/problems/VOTERS"
+    },
+    {
+      "questionDate": "05/09/2021",
+      "questionTitle": "Chef and Triangles",
+      "questionUrl": "https://codechef.com/problems/LTM40CD"
     }
   ],
   "basics": [
@@ -912,6 +917,11 @@
       "questionDate": "04/09/2021",
       "questionTitle": "Kitchen Timetable",
       "questionUrl": "https://codechef.com/problems/KTTABLE"
+    },
+    {
+      "questionDate": "05/09/2021",
+      "questionTitle": "Cats and Dogs",
+      "questionUrl": "https://codechef.com/problems/CATSDOGS"
     }
   ],
   "beta": [
@@ -1369,6 +1379,11 @@
       "questionDate": "04/09/2021",
       "questionTitle": "Sequence Creation",
       "questionUrl": "https://codechef.com/problems/ARCRT"
+    },
+    {
+      "questionDate": "05/09/2021",
+      "questionTitle": "Digit Matrix",
+      "questionUrl": "https://codechef.com/problems/DGMATRIX"
     }
   ]
 }
