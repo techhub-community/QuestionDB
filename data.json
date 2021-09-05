@@ -460,6 +460,11 @@
       "questionDate": "05/09/2021",
       "questionTitle": "Chef and Triangles",
       "questionUrl": "https://codechef.com/problems/LTM40CD"
+    },
+    {
+      "questionDate": "06/09/2021",
+      "questionTitle": "Grid Path",
+      "questionUrl": "https://codechef.com/problems/GRIDPA"
     }
   ],
   "basics": [
@@ -922,6 +927,11 @@
       "questionDate": "05/09/2021",
       "questionTitle": "Cats and Dogs",
       "questionUrl": "https://codechef.com/problems/CATSDOGS"
+    },
+    {
+      "questionDate": "06/09/2021",
+      "questionTitle": "Strong Language",
+      "questionUrl": "https://codechef.com/problems/SSCRIPT"
     }
   ],
   "beta": [
@@ -1384,6 +1394,11 @@
       "questionDate": "05/09/2021",
       "questionTitle": "Digit Matrix",
       "questionUrl": "https://codechef.com/problems/DGMATRIX"
+    },
+    {
+      "questionDate": "06/09/2021",
+      "questionTitle": "Anticommutative implication",
+      "questionUrl": "https://codechef.com/problems/ANCOIMP"
     }
   ]
 }
