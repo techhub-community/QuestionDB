@@ -465,6 +465,11 @@
       "questionDate": "06/09/2021",
       "questionTitle": "Grid Path",
       "questionUrl": "https://codechef.com/problems/GRIDPA"
+    },
+    {
+      "questionDate": "07/09/2021",
+      "questionTitle": "Red-blue Trees",
+      "questionUrl": "https://codechef.com/problems/RBTREES"
     }
   ],
   "basics": [
@@ -932,6 +937,11 @@
       "questionDate": "06/09/2021",
       "questionTitle": "Strong Language",
       "questionUrl": "https://codechef.com/problems/SSCRIPT"
+    },
+    {
+      "questionDate": "07/09/2021",
+      "questionTitle": "Distribute Apples",
+      "questionUrl": "https://codechef.com/problems/DSTAPLS"
     }
   ],
   "beta": [
@@ -1399,6 +1409,11 @@
       "questionDate": "06/09/2021",
       "questionTitle": "Anticommutative implication",
       "questionUrl": "https://codechef.com/problems/ANCOIMP"
+    },
+    {
+      "questionDate": "07/09/2021",
+      "questionTitle": "XOR Sum",
+      "questionUrl": "https://codechef.com/problems/AMXOR"
     }
   ]
 }
