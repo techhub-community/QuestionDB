@@ -475,6 +475,11 @@
       "questionDate": "08/09/2021",
       "questionTitle": "Chef and Closure",
       "questionUrl": "https://codechef.com/problems/CLOSCHEF"
+    },
+    {
+      "questionDate": "09/09/2021",
+      "questionTitle": "Sed Max",
+      "questionUrl": "https://codechef.com/problems/SEDMAX"
     }
   ],
   "basics": [
@@ -952,6 +957,11 @@
       "questionDate": "08/09/2021",
       "questionTitle": "XOR! Wait for it",
       "questionUrl": "https://codechef.com/problems/XORNEY"
+    },
+    {
+      "questionDate": "09/09/2021",
+      "questionTitle": "Chef and Two Strings",
+      "questionUrl": "https://codechef.com/problems/CHEFSTLT"
     }
   ],
   "beta": [
@@ -1429,6 +1439,11 @@
       "questionDate": "08/09/2021",
       "questionTitle": "Chef and Words",
       "questionUrl": "https://codechef.com/problems/LTM40EF"
+    },
+    {
+      "questionDate": "09/09/2021",
+      "questionTitle": "Red-Black Boolean Expression",
+      "questionUrl": "https://codechef.com/problems/RB2CNF"
     }
   ]
 }
