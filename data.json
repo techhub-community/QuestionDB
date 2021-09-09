@@ -480,6 +480,11 @@
       "questionDate": "09/09/2021",
       "questionTitle": "Sed Max",
       "questionUrl": "https://codechef.com/problems/SEDMAX"
+    },
+    {
+      "questionDate": "10/09/2021",
+      "questionTitle": "Maximise Subsequence Value",
+      "questionUrl": "https://codechef.com/problems/MVAL"
     }
   ],
   "basics": [
@@ -962,6 +967,11 @@
       "questionDate": "09/09/2021",
       "questionTitle": "Chef and Two Strings",
       "questionUrl": "https://codechef.com/problems/CHEFSTLT"
+    },
+    {
+      "questionDate": "10/09/2021",
+      "questionTitle": "Sticks",
+      "questionUrl": "https://codechef.com/problems/STICKS"
     }
   ],
   "beta": [
@@ -1444,6 +1454,11 @@
       "questionDate": "09/09/2021",
       "questionTitle": "Red-Black Boolean Expression",
       "questionUrl": "https://codechef.com/problems/RB2CNF"
+    },
+    {
+      "questionDate": "10/09/2021",
+      "questionTitle": "Palindrome Pairs",
+      "questionUrl": "https://codechef.com/problems/PP"
     }
   ]
 }
