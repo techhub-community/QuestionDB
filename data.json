@@ -485,6 +485,11 @@
       "questionDate": "10/09/2021",
       "questionTitle": "Maximise Subsequence Value",
       "questionUrl": "https://codechef.com/problems/MVAL"
+    },
+    {
+      "questionDate": "11/09/2021",
+      "questionTitle": "Deja Vu",
+      "questionUrl": "https://codechef.com/problems/DEJAVU"
     }
   ],
   "basics": [
@@ -972,6 +977,11 @@
       "questionDate": "10/09/2021",
       "questionTitle": "Sticks",
       "questionUrl": "https://codechef.com/problems/STICKS"
+    },
+    {
+      "questionDate": "11/09/2021",
+      "questionTitle": "Tweedle-Dee and Tweedle-Dum ",
+      "questionUrl": "https://codechef.com/problems/TWEED"
     }
   ],
   "beta": [
@@ -1459,6 +1469,11 @@
       "questionDate": "10/09/2021",
       "questionTitle": "Palindrome Pairs",
       "questionUrl": "https://codechef.com/problems/PP"
+    },
+    {
+      "questionDate": "11/09/2021",
+      "questionTitle": "Euler Sum",
+      "questionUrl": "https://codechef.com/problems/ES"
     }
   ]
 }
