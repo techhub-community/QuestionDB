@@ -490,6 +490,11 @@
       "questionDate": "11/09/2021",
       "questionTitle": "Deja Vu",
       "questionUrl": "https://codechef.com/problems/DEJAVU"
+    },
+    {
+      "questionDate": "12/09/2021",
+      "questionTitle": "Valid String",
+      "questionUrl": "https://codechef.com/problems/VSTRING"
     }
   ],
   "basics": [
@@ -982,6 +987,11 @@
       "questionDate": "11/09/2021",
       "questionTitle": "Tweedle-Dee and Tweedle-Dum ",
       "questionUrl": "https://codechef.com/problems/TWEED"
+    },
+    {
+      "questionDate": "12/09/2021",
+      "questionTitle": "Bear and Segment 01",
+      "questionUrl": "https://codechef.com/problems/SEGM01"
     }
   ],
   "beta": [
@@ -1474,6 +1484,11 @@
       "questionDate": "11/09/2021",
       "questionTitle": "Euler Sum",
       "questionUrl": "https://codechef.com/problems/ES"
+    },
+    {
+      "questionDate": "12/09/2021",
+      "questionTitle": "Tree Flow",
+      "questionUrl": "https://codechef.com/problems/TREF"
     }
   ]
 }
