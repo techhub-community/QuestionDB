@@ -500,6 +500,11 @@
       "questionDate": "13/09/2021",
       "questionTitle": "Modular GCD",
       "questionUrl": "https://codechef.com/problems/GCDMOD"
+    },
+    {
+      "questionDate": "14/09/2021",
+      "questionTitle": "Chef And The Patents",
+      "questionUrl": "https://codechef.com/problems/CHEFPTNT"
     }
   ],
   "basics": [
@@ -1002,6 +1007,11 @@
       "questionDate": "13/09/2021",
       "questionTitle": "Interesting XOR!",
       "questionUrl": "https://codechef.com/problems/IRSTXOR"
+    },
+    {
+      "questionDate": "14/09/2021",
+      "questionTitle": "Packaging Cupcakes",
+      "questionUrl": "https://codechef.com/problems/MUFFINS3"
     }
   ],
   "beta": [
@@ -1504,6 +1514,11 @@
       "questionDate": "13/09/2021",
       "questionTitle": "Prime Cycle",
       "questionUrl": "https://codechef.com/problems/PRIMECYC"
+    },
+    {
+      "questionDate": "14/09/2021",
+      "questionTitle": "Coloured Pairings",
+      "questionUrl": "https://codechef.com/problems/COPAIR"
     }
   ]
 }
