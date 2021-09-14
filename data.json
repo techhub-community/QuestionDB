@@ -505,6 +505,11 @@
       "questionDate": "14/09/2021",
       "questionTitle": "Chef And The Patents",
       "questionUrl": "https://codechef.com/problems/CHEFPTNT"
+    },
+    {
+      "questionDate": "15/09/2021",
+      "questionTitle": "Opposite Cites",
+      "questionUrl": "https://codechef.com/problems/OPPOSITE"
     }
   ],
   "basics": [
@@ -1012,6 +1017,11 @@
       "questionDate": "14/09/2021",
       "questionTitle": "Packaging Cupcakes",
       "questionUrl": "https://codechef.com/problems/MUFFINS3"
+    },
+    {
+      "questionDate": "15/09/2021",
+      "questionTitle": "Lucky Four",
+      "questionUrl": "https://codechef.com/problems/LUCKFOUR"
     }
   ],
   "beta": [
@@ -1519,6 +1529,11 @@
       "questionDate": "14/09/2021",
       "questionTitle": "Coloured Pairings",
       "questionUrl": "https://codechef.com/problems/COPAIR"
+    },
+    {
+      "questionDate": "15/09/2021",
+      "questionTitle": "Circle Coloring",
+      "questionUrl": "https://codechef.com/problems/CIRCOLOR"
     }
   ]
 }
