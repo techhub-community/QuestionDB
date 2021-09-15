@@ -510,6 +510,11 @@
       "questionDate": "15/09/2021",
       "questionTitle": "Opposite Cites",
       "questionUrl": "https://codechef.com/problems/OPPOSITE"
+    },
+    {
+      "questionDate": "16/09/2021",
+      "questionTitle": "The Gray-Similar Code",
+      "questionUrl": "https://codechef.com/problems/GRAYSC"
     }
   ],
   "basics": [
@@ -1022,6 +1027,11 @@
       "questionDate": "15/09/2021",
       "questionTitle": "Lucky Four",
       "questionUrl": "https://codechef.com/problems/LUCKFOUR"
+    },
+    {
+      "questionDate": "16/09/2021",
+      "questionTitle": "Solubility",
+      "questionUrl": "https://codechef.com/problems/SOLBLTY"
     }
   ],
   "beta": [
@@ -1534,6 +1544,11 @@
       "questionDate": "15/09/2021",
       "questionTitle": "Circle Coloring",
       "questionUrl": "https://codechef.com/problems/CIRCOLOR"
+    },
+    {
+      "questionDate": "16/09/2021",
+      "questionTitle": "5 - Ideal octopuses",
+      "questionUrl": "https://codechef.com/problems/OCTOPUS"
     }
   ]
 }
