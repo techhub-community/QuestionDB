@@ -515,6 +515,11 @@
       "questionDate": "16/09/2021",
       "questionTitle": "The Gray-Similar Code",
       "questionUrl": "https://codechef.com/problems/GRAYSC"
+    },
+    {
+      "questionDate": "17/09/2021",
+      "questionTitle": "Treeversion",
+      "questionUrl": "https://codechef.com/problems/TREEVERS"
     }
   ],
   "basics": [
@@ -1032,6 +1037,11 @@
       "questionDate": "16/09/2021",
       "questionTitle": "Solubility",
       "questionUrl": "https://codechef.com/problems/SOLBLTY"
+    },
+    {
+      "questionDate": "17/09/2021",
+      "questionTitle": "Chef-Detective",
+      "questionUrl": "https://codechef.com/problems/CHEFDETE"
     }
   ],
   "beta": [
@@ -1549,6 +1559,11 @@
       "questionDate": "16/09/2021",
       "questionTitle": "5 - Ideal octopuses",
       "questionUrl": "https://codechef.com/problems/OCTOPUS"
+    },
+    {
+      "questionDate": "17/09/2021",
+      "questionTitle": "Hill Jumping",
+      "questionUrl": "https://codechef.com/problems/HILLJUMP"
     }
   ]
 }
