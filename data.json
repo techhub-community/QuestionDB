@@ -520,6 +520,11 @@
       "questionDate": "17/09/2021",
       "questionTitle": "Treeversion",
       "questionUrl": "https://codechef.com/problems/TREEVERS"
+    },
+    {
+      "questionDate": "18/09/2021",
+      "questionTitle": "Maximum Scoring Position",
+      "questionUrl": "https://codechef.com/problems/MAXSCRAB"
     }
   ],
   "basics": [
@@ -1042,6 +1047,11 @@
       "questionDate": "17/09/2021",
       "questionTitle": "Chef-Detective",
       "questionUrl": "https://codechef.com/problems/CHEFDETE"
+    },
+    {
+      "questionDate": "18/09/2021",
+      "questionTitle": "Chef and Fruits",
+      "questionUrl": "https://codechef.com/problems/FRUITS"
     }
   ],
   "beta": [
@@ -1564,6 +1574,11 @@
       "questionDate": "17/09/2021",
       "questionTitle": "Hill Jumping",
       "questionUrl": "https://codechef.com/problems/HILLJUMP"
+    },
+    {
+      "questionDate": "18/09/2021",
+      "questionTitle": "Counting Strings",
+      "questionUrl": "https://codechef.com/problems/TACNTSTR"
     }
   ]
 }
