@@ -525,6 +525,11 @@
       "questionDate": "18/09/2021",
       "questionTitle": "Maximum Scoring Position",
       "questionUrl": "https://codechef.com/problems/MAXSCRAB"
+    },
+    {
+      "questionDate": "19/09/2021",
+      "questionTitle": "Count palindromes",
+      "questionUrl": "https://codechef.com/problems/COUNTPAL"
     }
   ],
   "basics": [
@@ -1052,6 +1057,11 @@
       "questionDate": "18/09/2021",
       "questionTitle": "Chef and Fruits",
       "questionUrl": "https://codechef.com/problems/FRUITS"
+    },
+    {
+      "questionDate": "19/09/2021",
+      "questionTitle": "Ada and crayons",
+      "questionUrl": "https://codechef.com/problems/ADACRA"
     }
   ],
   "beta": [
@@ -1579,6 +1589,11 @@
       "questionDate": "18/09/2021",
       "questionTitle": "Counting Strings",
       "questionUrl": "https://codechef.com/problems/TACNTSTR"
+    },
+    {
+      "questionDate": "19/09/2021",
+      "questionTitle": "Rain vs City",
+      "questionUrl": "https://codechef.com/problems/RAINFALL"
     }
   ]
 }
