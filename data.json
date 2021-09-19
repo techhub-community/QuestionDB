@@ -530,6 +530,11 @@
       "questionDate": "19/09/2021",
       "questionTitle": "Count palindromes",
       "questionUrl": "https://codechef.com/problems/COUNTPAL"
+    },
+    {
+      "questionDate": "20/09/2021",
+      "questionTitle": "Independent Set",
+      "questionUrl": "https://codechef.com/problems/INDEP"
     }
   ],
   "basics": [
@@ -1062,6 +1067,11 @@
       "questionDate": "19/09/2021",
       "questionTitle": "Ada and crayons",
       "questionUrl": "https://codechef.com/problems/ADACRA"
+    },
+    {
+      "questionDate": "20/09/2021",
+      "questionTitle": "Chain Reaction",
+      "questionUrl": "https://codechef.com/problems/REACTION"
     }
   ],
   "beta": [
@@ -1594,6 +1604,11 @@
       "questionDate": "19/09/2021",
       "questionTitle": "Rain vs City",
       "questionUrl": "https://codechef.com/problems/RAINFALL"
+    },
+    {
+      "questionDate": "20/09/2021",
+      "questionTitle": "Tasty Dishes",
+      "questionUrl": "https://codechef.com/problems/TASTYD"
     }
   ]
 }
