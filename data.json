@@ -535,6 +535,11 @@
       "questionDate": "20/09/2021",
       "questionTitle": "Independent Set",
       "questionUrl": "https://codechef.com/problems/INDEP"
+    },
+    {
+      "questionDate": "21/09/2021",
+      "questionTitle": "Boolean Game",
+      "questionUrl": "https://codechef.com/problems/BOOLGAME"
     }
   ],
   "basics": [
@@ -1072,6 +1077,11 @@
       "questionDate": "20/09/2021",
       "questionTitle": "Chain Reaction",
       "questionUrl": "https://codechef.com/problems/REACTION"
+    },
+    {
+      "questionDate": "21/09/2021",
+      "questionTitle": "Recruit Villagers",
+      "questionUrl": "https://codechef.com/problems/VILLINE"
     }
   ],
   "beta": [
@@ -1609,6 +1619,11 @@
       "questionDate": "20/09/2021",
       "questionTitle": "Tasty Dishes",
       "questionUrl": "https://codechef.com/problems/TASTYD"
+    },
+    {
+      "questionDate": "21/09/2021",
+      "questionTitle": "MEX and Ranges",
+      "questionUrl": "https://codechef.com/problems/MEXRNG"
     }
   ]
 }
