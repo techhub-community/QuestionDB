@@ -540,6 +540,11 @@
       "questionDate": "21/09/2021",
       "questionTitle": "Boolean Game",
       "questionUrl": "https://codechef.com/problems/BOOLGAME"
+    },
+    {
+      "questionDate": "22/09/2021",
+      "questionTitle": "Algebra Score",
+      "questionUrl": "https://codechef.com/problems/PROC18D"
     }
   ],
   "basics": [
@@ -1082,6 +1087,11 @@
       "questionDate": "21/09/2021",
       "questionTitle": "Recruit Villagers",
       "questionUrl": "https://codechef.com/problems/VILLINE"
+    },
+    {
+      "questionDate": "22/09/2021",
+      "questionTitle": "Survive in ChocoLand",
+      "questionUrl": "https://codechef.com/problems/SURVIVE"
     }
   ],
   "beta": [
@@ -1624,6 +1634,11 @@
       "questionDate": "21/09/2021",
       "questionTitle": "MEX and Ranges",
       "questionUrl": "https://codechef.com/problems/MEXRNG"
+    },
+    {
+      "questionDate": "22/09/2021",
+      "questionTitle": "Stable market",
+      "questionUrl": "https://codechef.com/problems/SMARKET"
     }
   ]
 }
