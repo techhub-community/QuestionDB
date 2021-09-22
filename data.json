@@ -545,6 +545,11 @@
       "questionDate": "22/09/2021",
       "questionTitle": "Algebra Score",
       "questionUrl": "https://codechef.com/problems/PROC18D"
+    },
+    {
+      "questionDate": "23/09/2021",
+      "questionTitle": "Positive Spewing",
+      "questionUrl": "https://codechef.com/problems/POSSPEW"
     }
   ],
   "basics": [
@@ -1092,6 +1097,11 @@
       "questionDate": "22/09/2021",
       "questionTitle": "Survive in ChocoLand",
       "questionUrl": "https://codechef.com/problems/SURVIVE"
+    },
+    {
+      "questionDate": "23/09/2021",
+      "questionTitle": "Tom And Jerry 1",
+      "questionUrl": "https://codechef.com/problems/TANDJ1"
     }
   ],
   "beta": [
@@ -1639,6 +1649,11 @@
       "questionDate": "22/09/2021",
       "questionTitle": "Stable market",
       "questionUrl": "https://codechef.com/problems/SMARKET"
+    },
+    {
+      "questionDate": "23/09/2021",
+      "questionTitle": "I Hate Symbo-LIS-m",
+      "questionUrl": "https://codechef.com/problems/EXTREME"
     }
   ]
 }
