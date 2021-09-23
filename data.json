@@ -550,6 +550,11 @@
       "questionDate": "23/09/2021",
       "questionTitle": "Positive Spewing",
       "questionUrl": "https://codechef.com/problems/POSSPEW"
+    },
+    {
+      "questionDate": "24/09/2021",
+      "questionTitle": "Operations on a Matrix",
+      "questionUrl": "https://codechef.com/problems/SAKTAN"
     }
   ],
   "basics": [
@@ -1102,6 +1107,11 @@
       "questionDate": "23/09/2021",
       "questionTitle": "Tom And Jerry 1",
       "questionUrl": "https://codechef.com/problems/TANDJ1"
+    },
+    {
+      "questionDate": "24/09/2021",
+      "questionTitle": "J - Reached Safely Or Not",
+      "questionUrl": "https://codechef.com/problems/ZUBREACH"
     }
   ],
   "beta": [
@@ -1654,6 +1664,11 @@
       "questionDate": "23/09/2021",
       "questionTitle": "I Hate Symbo-LIS-m",
       "questionUrl": "https://codechef.com/problems/EXTREME"
+    },
+    {
+      "questionDate": "24/09/2021",
+      "questionTitle": "Chef and Gcd Queries",
+      "questionUrl": "https://codechef.com/problems/GCDCNT"
     }
   ]
 }
