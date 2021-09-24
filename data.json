@@ -555,6 +555,11 @@
       "questionDate": "24/09/2021",
       "questionTitle": "Operations on a Matrix",
       "questionUrl": "https://codechef.com/problems/SAKTAN"
+    },
+    {
+      "questionDate": "25/09/2021",
+      "questionTitle": "Chef and Round Run",
+      "questionUrl": "https://codechef.com/problems/CHEFRRUN"
     }
   ],
   "basics": [
@@ -1112,6 +1117,11 @@
       "questionDate": "24/09/2021",
       "questionTitle": "J - Reached Safely Or Not",
       "questionUrl": "https://codechef.com/problems/ZUBREACH"
+    },
+    {
+      "questionDate": "25/09/2021",
+      "questionTitle": "Nobel Prize",
+      "questionUrl": "https://codechef.com/problems/NOBEL"
     }
   ],
   "beta": [
@@ -1669,6 +1679,11 @@
       "questionDate": "24/09/2021",
       "questionTitle": "Chef and Gcd Queries",
       "questionUrl": "https://codechef.com/problems/GCDCNT"
+    },
+    {
+      "questionDate": "25/09/2021",
+      "questionTitle": "Bear and Haircut",
+      "questionUrl": "https://codechef.com/problems/HAIRCUT"
     }
   ]
 }
