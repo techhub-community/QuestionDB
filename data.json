@@ -560,6 +560,11 @@
       "questionDate": "25/09/2021",
       "questionTitle": "Chef and Round Run",
       "questionUrl": "https://codechef.com/problems/CHEFRRUN"
+    },
+    {
+      "questionDate": "26/09/2021",
+      "questionTitle": "The making of a cake",
+      "questionUrl": "https://codechef.com/problems/KOL1504"
     }
   ],
   "basics": [
@@ -1122,6 +1127,11 @@
       "questionDate": "25/09/2021",
       "questionTitle": "Nobel Prize",
       "questionUrl": "https://codechef.com/problems/NOBEL"
+    },
+    {
+      "questionDate": "26/09/2021",
+      "questionTitle": "Chef and Chocolate",
+      "questionUrl": "https://codechef.com/problems/CHCHCL"
     }
   ],
   "beta": [
@@ -1684,6 +1694,11 @@
       "questionDate": "25/09/2021",
       "questionTitle": "Bear and Haircut",
       "questionUrl": "https://codechef.com/problems/HAIRCUT"
+    },
+    {
+      "questionDate": "26/09/2021",
+      "questionTitle": "Chefina and Strange Tree",
+      "questionUrl": "https://codechef.com/problems/CHEFCOMP"
     }
   ]
 }
