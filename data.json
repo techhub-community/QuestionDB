@@ -565,6 +565,11 @@
       "questionDate": "26/09/2021",
       "questionTitle": "The making of a cake",
       "questionUrl": "https://codechef.com/problems/KOL1504"
+    },
+    {
+      "questionDate": "27/09/2021",
+      "questionTitle": "Just a simple sum",
+      "questionUrl": "https://codechef.com/problems/H4"
     }
   ],
   "basics": [
@@ -1132,6 +1137,11 @@
       "questionDate": "26/09/2021",
       "questionTitle": "Chef and Chocolate",
       "questionUrl": "https://codechef.com/problems/CHCHCL"
+    },
+    {
+      "questionDate": "27/09/2021",
+      "questionTitle": "Snake Procession",
+      "questionUrl": "https://codechef.com/problems/SNAKPROC"
     }
   ],
   "beta": [
@@ -1699,6 +1709,11 @@
       "questionDate": "26/09/2021",
       "questionTitle": "Chefina and Strange Tree",
       "questionUrl": "https://codechef.com/problems/CHEFCOMP"
+    },
+    {
+      "questionDate": "27/09/2021",
+      "questionTitle": "Good pairs of substrings",
+      "questionUrl": "https://codechef.com/problems/ICM0010"
     }
   ]
 }
