@@ -570,6 +570,11 @@
       "questionDate": "27/09/2021",
       "questionTitle": "Just a simple sum",
       "questionUrl": "https://codechef.com/problems/H4"
+    },
+    {
+      "questionDate": "28/09/2021",
+      "questionTitle": "GCD2",
+      "questionUrl": "https://codechef.com/problems/GCD2"
     }
   ],
   "basics": [
@@ -1142,6 +1147,11 @@
       "questionDate": "27/09/2021",
       "questionTitle": "Snake Procession",
       "questionUrl": "https://codechef.com/problems/SNAKPROC"
+    },
+    {
+      "questionDate": "28/09/2021",
+      "questionTitle": "Chef Swaps Digits",
+      "questionUrl": "https://codechef.com/problems/SWPDGT"
     }
   ],
   "beta": [
@@ -1714,6 +1724,11 @@
       "questionDate": "27/09/2021",
       "questionTitle": "Good pairs of substrings",
       "questionUrl": "https://codechef.com/problems/ICM0010"
+    },
+    {
+      "questionDate": "28/09/2021",
+      "questionTitle": "Soccer League",
+      "questionUrl": "https://codechef.com/problems/M3"
     }
   ]
 }
