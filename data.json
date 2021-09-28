@@ -575,6 +575,11 @@
       "questionDate": "28/09/2021",
       "questionTitle": "GCD2",
       "questionUrl": "https://codechef.com/problems/GCD2"
+    },
+    {
+      "questionDate": "29/09/2021",
+      "questionTitle": "Summary Power",
+      "questionUrl": "https://codechef.com/problems/SUMPOWER"
     }
   ],
   "basics": [
@@ -1152,6 +1157,11 @@
       "questionDate": "28/09/2021",
       "questionTitle": "Chef Swaps Digits",
       "questionUrl": "https://codechef.com/problems/SWPDGT"
+    },
+    {
+      "questionDate": "29/09/2021",
+      "questionTitle": "Split Stones",
+      "questionUrl": "https://codechef.com/problems/SPLST"
     }
   ],
   "beta": [
@@ -1729,6 +1739,11 @@
       "questionDate": "28/09/2021",
       "questionTitle": "Soccer League",
       "questionUrl": "https://codechef.com/problems/M3"
+    },
+    {
+      "questionDate": "29/09/2021",
+      "questionTitle": "Min-Max Path",
+      "questionUrl": "https://codechef.com/problems/MMP"
     }
   ]
 }
