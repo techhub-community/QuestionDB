@@ -580,6 +580,11 @@
       "questionDate": "29/09/2021",
       "questionTitle": "Summary Power",
       "questionUrl": "https://codechef.com/problems/SUMPOWER"
+    },
+    {
+      "questionDate": "30/09/2021",
+      "questionTitle": "Make a Permutation",
+      "questionUrl": "https://codechef.com/problems/MAKPERM"
     }
   ],
   "basics": [
@@ -1162,6 +1167,11 @@
       "questionDate": "29/09/2021",
       "questionTitle": "Split Stones",
       "questionUrl": "https://codechef.com/problems/SPLST"
+    },
+    {
+      "questionDate": "30/09/2021",
+      "questionTitle": "Maximise Function",
+      "questionUrl": "https://codechef.com/problems/MAXFUN"
     }
   ],
   "beta": [
@@ -1744,6 +1754,11 @@
       "questionDate": "29/09/2021",
       "questionTitle": "Min-Max Path",
       "questionUrl": "https://codechef.com/problems/MMP"
+    },
+    {
+      "questionDate": "30/09/2021",
+      "questionTitle": "Hackerman",
+      "questionUrl": "https://codechef.com/problems/HKRMAN"
     }
   ]
 }
