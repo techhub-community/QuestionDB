@@ -585,6 +585,11 @@
       "questionDate": "30/09/2021",
       "questionTitle": "Make a Permutation",
       "questionUrl": "https://codechef.com/problems/MAKPERM"
+    },
+    {
+      "questionDate": "01/10/2021",
+      "questionTitle": "Chefs Homework Dilemma",
+      "questionUrl": "https://codechef.com/problems/HMWPRB"
     }
   ],
   "basics": [
@@ -1172,6 +1177,11 @@
       "questionDate": "30/09/2021",
       "questionTitle": "Maximise Function",
       "questionUrl": "https://codechef.com/problems/MAXFUN"
+    },
+    {
+      "questionDate": "01/10/2021",
+      "questionTitle": "Minimum Maximum",
+      "questionUrl": "https://codechef.com/problems/MNMX"
     }
   ],
   "beta": [
@@ -1759,6 +1769,11 @@
       "questionDate": "30/09/2021",
       "questionTitle": "Hackerman",
       "questionUrl": "https://codechef.com/problems/HKRMAN"
+    },
+    {
+      "questionDate": "01/10/2021",
+      "questionTitle": "Good Speech",
+      "questionUrl": "https://codechef.com/problems/PROC18E"
     }
   ]
 }
