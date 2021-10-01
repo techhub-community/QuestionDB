@@ -590,6 +590,11 @@
       "questionDate": "01/10/2021",
       "questionTitle": "Chefs Homework Dilemma",
       "questionUrl": "https://codechef.com/problems/HMWPRB"
+    },
+    {
+      "questionDate": "02/10/2021",
+      "questionTitle": "Treasure Hunt",
+      "questionUrl": "https://codechef.com/problems/TREHUNT"
     }
   ],
   "basics": [
@@ -1182,6 +1187,11 @@
       "questionDate": "01/10/2021",
       "questionTitle": "Minimum Maximum",
       "questionUrl": "https://codechef.com/problems/MNMX"
+    },
+    {
+      "questionDate": "02/10/2021",
+      "questionTitle": "Plus Multiply",
+      "questionUrl": "https://codechef.com/problems/PLMU"
     }
   ],
   "beta": [
@@ -1774,6 +1784,11 @@
       "questionDate": "01/10/2021",
       "questionTitle": "Good Speech",
       "questionUrl": "https://codechef.com/problems/PROC18E"
+    },
+    {
+      "questionDate": "02/10/2021",
+      "questionTitle": "Longest Arithmetic Progressions",
+      "questionUrl": "https://codechef.com/problems/ARITHPR"
     }
   ]
 }
