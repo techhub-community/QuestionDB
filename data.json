@@ -595,6 +595,11 @@
       "questionDate": "02/10/2021",
       "questionTitle": "Treasure Hunt",
       "questionUrl": "https://codechef.com/problems/TREHUNT"
+    },
+    {
+      "questionDate": "03/10/2021",
+      "questionTitle": "Xenny and Coin Rankings",
+      "questionUrl": "https://codechef.com/problems/XENRANK"
     }
   ],
   "basics": [
@@ -1192,6 +1197,11 @@
       "questionDate": "02/10/2021",
       "questionTitle": "Plus Multiply",
       "questionUrl": "https://codechef.com/problems/PLMU"
+    },
+    {
+      "questionDate": "03/10/2021",
+      "questionTitle": "Travel Pass",
+      "questionUrl": "https://codechef.com/problems/TRAVELPS"
     }
   ],
   "beta": [
@@ -1789,6 +1799,11 @@
       "questionDate": "02/10/2021",
       "questionTitle": "Longest Arithmetic Progressions",
       "questionUrl": "https://codechef.com/problems/ARITHPR"
+    },
+    {
+      "questionDate": "03/10/2021",
+      "questionTitle": "Hotel Balifornia 2",
+      "questionUrl": "https://codechef.com/problems/HOB2"
     }
   ]
 }
