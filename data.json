@@ -600,6 +600,11 @@
       "questionDate": "03/10/2021",
       "questionTitle": "Xenny and Coin Rankings",
       "questionUrl": "https://codechef.com/problems/XENRANK"
+    },
+    {
+      "questionDate": "04/10/2021",
+      "questionTitle": "Battle Royale",
+      "questionUrl": "https://codechef.com/problems/BTTLRYL"
     }
   ],
   "basics": [
@@ -1202,6 +1207,11 @@
       "questionDate": "03/10/2021",
       "questionTitle": "Travel Pass",
       "questionUrl": "https://codechef.com/problems/TRAVELPS"
+    },
+    {
+      "questionDate": "04/10/2021",
+      "questionTitle": "Sebi and the highway",
+      "questionUrl": "https://codechef.com/problems/SEBIHWY"
     }
   ],
   "beta": [
@@ -1804,6 +1814,11 @@
       "questionDate": "03/10/2021",
       "questionTitle": "Hotel Balifornia 2",
       "questionUrl": "https://codechef.com/problems/HOB2"
+    },
+    {
+      "questionDate": "04/10/2021",
+      "questionTitle": "Tree Walk",
+      "questionUrl": "https://codechef.com/problems/TREEWLK2"
     }
   ]
 }
