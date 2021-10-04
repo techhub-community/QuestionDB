@@ -605,6 +605,11 @@
       "questionDate": "04/10/2021",
       "questionTitle": "Battle Royale",
       "questionUrl": "https://codechef.com/problems/BTTLRYL"
+    },
+    {
+      "questionDate": "05/10/2021",
+      "questionTitle": "Exam Cheating",
+      "questionUrl": "https://codechef.com/problems/EXAMCHT"
     }
   ],
   "basics": [
@@ -1212,6 +1217,11 @@
       "questionDate": "04/10/2021",
       "questionTitle": "Sebi and the highway",
       "questionUrl": "https://codechef.com/problems/SEBIHWY"
+    },
+    {
+      "questionDate": "05/10/2021",
+      "questionTitle": "At the Gates",
+      "questionUrl": "https://codechef.com/problems/POPGATES"
     }
   ],
   "beta": [
@@ -1819,6 +1829,11 @@
       "questionDate": "04/10/2021",
       "questionTitle": "Tree Walk",
       "questionUrl": "https://codechef.com/problems/TREEWLK2"
+    },
+    {
+      "questionDate": "05/10/2021",
+      "questionTitle": "Counting Spaghetti",
+      "questionUrl": "https://codechef.com/problems/CDSUMS"
     }
   ]
 }
