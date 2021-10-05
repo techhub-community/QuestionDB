@@ -610,6 +610,11 @@
       "questionDate": "05/10/2021",
       "questionTitle": "Exam Cheating",
       "questionUrl": "https://codechef.com/problems/EXAMCHT"
+    },
+    {
+      "questionDate": "06/10/2021",
+      "questionTitle": "Alice vs Bob Faceoff",
+      "questionUrl": "https://codechef.com/problems/ALBOFACE"
     }
   ],
   "basics": [
@@ -1222,6 +1227,11 @@
       "questionDate": "05/10/2021",
       "questionTitle": "At the Gates",
       "questionUrl": "https://codechef.com/problems/POPGATES"
+    },
+    {
+      "questionDate": "06/10/2021",
+      "questionTitle": "Two vs Ten",
+      "questionUrl": "https://codechef.com/problems/TWOVSTEN"
     }
   ],
   "beta": [
@@ -1834,6 +1844,11 @@
       "questionDate": "05/10/2021",
       "questionTitle": "Counting Spaghetti",
       "questionUrl": "https://codechef.com/problems/CDSUMS"
+    },
+    {
+      "questionDate": "06/10/2021",
+      "questionTitle": "Solve what you want",
+      "questionUrl": "https://codechef.com/problems/NPORP"
     }
   ]
 }
