@@ -615,6 +615,11 @@
       "questionDate": "06/10/2021",
       "questionTitle": "Alice vs Bob Faceoff",
       "questionUrl": "https://codechef.com/problems/ALBOFACE"
+    },
+    {
+      "questionDate": "07/10/2021",
+      "questionTitle": "Pseudo Sorting Algorithm",
+      "questionUrl": "https://codechef.com/problems/SORTALGO"
     }
   ],
   "basics": [
@@ -1232,6 +1237,11 @@
       "questionDate": "06/10/2021",
       "questionTitle": "Two vs Ten",
       "questionUrl": "https://codechef.com/problems/TWOVSTEN"
+    },
+    {
+      "questionDate": "07/10/2021",
+      "questionTitle": "Second Largest",
+      "questionUrl": "https://codechef.com/problems/FLOW017"
     }
   ],
   "beta": [
@@ -1849,6 +1859,11 @@
       "questionDate": "06/10/2021",
       "questionTitle": "Solve what you want",
       "questionUrl": "https://codechef.com/problems/NPORP"
+    },
+    {
+      "questionDate": "07/10/2021",
+      "questionTitle": "Smallest Beautiful Number",
+      "questionUrl": "https://codechef.com/problems/LSTBTF"
     }
   ]
 }
