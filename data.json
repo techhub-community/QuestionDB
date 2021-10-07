@@ -620,6 +620,11 @@
       "questionDate": "07/10/2021",
       "questionTitle": "Pseudo Sorting Algorithm",
       "questionUrl": "https://codechef.com/problems/SORTALGO"
+    },
+    {
+      "questionDate": "08/10/2021",
+      "questionTitle": "Highway Crossing",
+      "questionUrl": "https://codechef.com/problems/HIGHWAYC"
     }
   ],
   "basics": [
@@ -1242,6 +1247,11 @@
       "questionDate": "07/10/2021",
       "questionTitle": "Second Largest",
       "questionUrl": "https://codechef.com/problems/FLOW017"
+    },
+    {
+      "questionDate": "08/10/2021",
+      "questionTitle": "College Life 4",
+      "questionUrl": "https://codechef.com/problems/COLGLF4"
     }
   ],
   "beta": [
@@ -1864,6 +1874,11 @@
       "questionDate": "07/10/2021",
       "questionTitle": "Smallest Beautiful Number",
       "questionUrl": "https://codechef.com/problems/LSTBTF"
+    },
+    {
+      "questionDate": "08/10/2021",
+      "questionTitle": "Candy Collecting Game",
+      "questionUrl": "https://codechef.com/problems/CANDYGAM"
     }
   ]
 }
