@@ -625,6 +625,11 @@
       "questionDate": "08/10/2021",
       "questionTitle": "Highway Crossing",
       "questionUrl": "https://codechef.com/problems/HIGHWAYC"
+    },
+    {
+      "questionDate": "09/10/2021",
+      "questionTitle": "maximize the sum",
+      "questionUrl": "https://codechef.com/problems/MAXISUM"
     }
   ],
   "basics": [
@@ -1252,6 +1257,11 @@
       "questionDate": "08/10/2021",
       "questionTitle": "College Life 4",
       "questionUrl": "https://codechef.com/problems/COLGLF4"
+    },
+    {
+      "questionDate": "09/10/2021",
+      "questionTitle": "The Smallest Pair",
+      "questionUrl": "https://codechef.com/problems/SMPAIR"
     }
   ],
   "beta": [
@@ -1879,6 +1889,11 @@
       "questionDate": "08/10/2021",
       "questionTitle": "Candy Collecting Game",
       "questionUrl": "https://codechef.com/problems/CANDYGAM"
+    },
+    {
+      "questionDate": "09/10/2021",
+      "questionTitle": "LCM Constraints",
+      "questionUrl": "https://codechef.com/problems/LCMCONST"
     }
   ]
 }
