@@ -630,6 +630,11 @@
       "questionDate": "09/10/2021",
       "questionTitle": "maximize the sum",
       "questionUrl": "https://codechef.com/problems/MAXISUM"
+    },
+    {
+      "questionDate": "10/10/2021",
+      "questionTitle": "Planting Trees",
+      "questionUrl": "https://codechef.com/problems/DEADEND"
     }
   ],
   "basics": [
@@ -1262,6 +1267,11 @@
       "questionDate": "09/10/2021",
       "questionTitle": "The Smallest Pair",
       "questionUrl": "https://codechef.com/problems/SMPAIR"
+    },
+    {
+      "questionDate": "10/10/2021",
+      "questionTitle": "Hard Cash",
+      "questionUrl": "https://codechef.com/problems/CASH"
     }
   ],
   "beta": [
@@ -1894,6 +1904,11 @@
       "questionDate": "09/10/2021",
       "questionTitle": "LCM Constraints",
       "questionUrl": "https://codechef.com/problems/LCMCONST"
+    },
+    {
+      "questionDate": "10/10/2021",
+      "questionTitle": "Chef Chooses a Subset",
+      "questionUrl": "https://codechef.com/problems/CO92TREE"
     }
   ]
 }
