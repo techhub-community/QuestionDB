@@ -635,6 +635,11 @@
       "questionDate": "10/10/2021",
       "questionTitle": "Planting Trees",
       "questionUrl": "https://codechef.com/problems/DEADEND"
+    },
+    {
+      "questionDate": "11/10/2021",
+      "questionTitle": "Little Elephant and Permutations",
+      "questionUrl": "https://codechef.com/problems/LEPERMUT"
     }
   ],
   "basics": [
@@ -1272,6 +1277,11 @@
       "questionDate": "10/10/2021",
       "questionTitle": "Hard Cash",
       "questionUrl": "https://codechef.com/problems/CASH"
+    },
+    {
+      "questionDate": "11/10/2021",
+      "questionTitle": "Workers",
+      "questionUrl": "https://codechef.com/problems/CHEFWORK"
     }
   ],
   "beta": [
@@ -1909,6 +1919,11 @@
       "questionDate": "10/10/2021",
       "questionTitle": "Chef Chooses a Subset",
       "questionUrl": "https://codechef.com/problems/CO92TREE"
+    },
+    {
+      "questionDate": "11/10/2021",
+      "questionTitle": "Maximum GCD Subset",
+      "questionUrl": "https://codechef.com/problems/TREESUB"
     }
   ]
 }
