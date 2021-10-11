@@ -640,6 +640,11 @@
       "questionDate": "11/10/2021",
       "questionTitle": "Little Elephant and Permutations",
       "questionUrl": "https://codechef.com/problems/LEPERMUT"
+    },
+    {
+      "questionDate": "12/10/2021",
+      "questionTitle": "Safe Robot",
+      "questionUrl": "https://codechef.com/problems/ROBOTG"
     }
   ],
   "basics": [
@@ -1282,6 +1287,11 @@
       "questionDate": "11/10/2021",
       "questionTitle": "Workers",
       "questionUrl": "https://codechef.com/problems/CHEFWORK"
+    },
+    {
+      "questionDate": "12/10/2021",
+      "questionTitle": "Problem Difficulties",
+      "questionUrl": "https://codechef.com/problems/PROBDIFF"
     }
   ],
   "beta": [
@@ -1924,6 +1934,11 @@
       "questionDate": "11/10/2021",
       "questionTitle": "Maximum GCD Subset",
       "questionUrl": "https://codechef.com/problems/TREESUB"
+    },
+    {
+      "questionDate": "12/10/2021",
+      "questionTitle": "Lowest Common Ancestor",
+      "questionUrl": "https://codechef.com/problems/TALCA"
     }
   ]
 }
