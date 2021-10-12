@@ -645,6 +645,11 @@
       "questionDate": "12/10/2021",
       "questionTitle": "Safe Robot",
       "questionUrl": "https://codechef.com/problems/ROBOTG"
+    },
+    {
+      "questionDate": "13/10/2021",
+      "questionTitle": "Chef and the XORed Number ",
+      "questionUrl": "https://codechef.com/problems/XORNUBER"
     }
   ],
   "basics": [
@@ -1292,6 +1297,11 @@
       "questionDate": "12/10/2021",
       "questionTitle": "Problem Difficulties",
       "questionUrl": "https://codechef.com/problems/PROBDIFF"
+    },
+    {
+      "questionDate": "13/10/2021",
+      "questionTitle": "ATM",
+      "questionUrl": "https://codechef.com/problems/HS08TEST"
     }
   ],
   "beta": [
@@ -1939,6 +1949,11 @@
       "questionDate": "12/10/2021",
       "questionTitle": "Lowest Common Ancestor",
       "questionUrl": "https://codechef.com/problems/TALCA"
+    },
+    {
+      "questionDate": "13/10/2021",
+      "questionTitle": "Exponential Sub-Palindromes",
+      "questionUrl": "https://codechef.com/problems/EXPALIN"
     }
   ]
 }
