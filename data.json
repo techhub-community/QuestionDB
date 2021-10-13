@@ -650,6 +650,11 @@
       "questionDate": "13/10/2021",
       "questionTitle": "Chef and the XORed Number ",
       "questionUrl": "https://codechef.com/problems/XORNUBER"
+    },
+    {
+      "questionDate": "14/10/2021",
+      "questionTitle": "Prime-partite Graph",
+      "questionUrl": "https://codechef.com/problems/PRMPRT"
     }
   ],
   "basics": [
@@ -1302,6 +1307,11 @@
       "questionDate": "13/10/2021",
       "questionTitle": "ATM",
       "questionUrl": "https://codechef.com/problems/HS08TEST"
+    },
+    {
+      "questionDate": "14/10/2021",
+      "questionTitle": "Medel",
+      "questionUrl": "https://codechef.com/problems/MDL"
     }
   ],
   "beta": [
@@ -1954,6 +1964,11 @@
       "questionDate": "13/10/2021",
       "questionTitle": "Exponential Sub-Palindromes",
       "questionUrl": "https://codechef.com/problems/EXPALIN"
+    },
+    {
+      "questionDate": "14/10/2021",
+      "questionTitle": "Shooting on the array",
+      "questionUrl": "https://codechef.com/problems/SHTARR"
     }
   ]
 }
