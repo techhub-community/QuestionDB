@@ -655,6 +655,11 @@
       "questionDate": "14/10/2021",
       "questionTitle": "Prime-partite Graph",
       "questionUrl": "https://codechef.com/problems/PRMPRT"
+    },
+    {
+      "questionDate": "15/10/2021",
+      "questionTitle": "Base Plans",
+      "questionUrl": "https://codechef.com/problems/UWCOI20D"
     }
   ],
   "basics": [
@@ -1312,6 +1317,11 @@
       "questionDate": "14/10/2021",
       "questionTitle": "Medel",
       "questionUrl": "https://codechef.com/problems/MDL"
+    },
+    {
+      "questionDate": "15/10/2021",
+      "questionTitle": "Chef in Fantasy League",
+      "questionUrl": "https://codechef.com/problems/FFL"
     }
   ],
   "beta": [
@@ -1969,6 +1979,11 @@
       "questionDate": "14/10/2021",
       "questionTitle": "Shooting on the array",
       "questionUrl": "https://codechef.com/problems/SHTARR"
+    },
+    {
+      "questionDate": "15/10/2021",
+      "questionTitle": "Zombinatorial",
+      "questionUrl": "https://codechef.com/problems/FOMBRO"
     }
   ]
 }
