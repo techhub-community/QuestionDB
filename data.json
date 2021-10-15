@@ -660,6 +660,11 @@
       "questionDate": "15/10/2021",
       "questionTitle": "Base Plans",
       "questionUrl": "https://codechef.com/problems/UWCOI20D"
+    },
+    {
+      "questionDate": "16/10/2021",
+      "questionTitle": "Hello Hello",
+      "questionUrl": "https://codechef.com/problems/HELLO"
     }
   ],
   "basics": [
@@ -1322,6 +1327,11 @@
       "questionDate": "15/10/2021",
       "questionTitle": "Chef in Fantasy League",
       "questionUrl": "https://codechef.com/problems/FFL"
+    },
+    {
+      "questionDate": "16/10/2021",
+      "questionTitle": "Byte to Bit",
+      "questionUrl": "https://codechef.com/problems/BITOBYT"
     }
   ],
   "beta": [
@@ -1984,6 +1994,11 @@
       "questionDate": "15/10/2021",
       "questionTitle": "Zombinatorial",
       "questionUrl": "https://codechef.com/problems/FOMBRO"
+    },
+    {
+      "questionDate": "16/10/2021",
+      "questionTitle": "Juno Puzzle for May",
+      "questionUrl": "https://codechef.com/problems/JUNONGF"
     }
   ]
 }
