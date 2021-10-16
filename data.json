@@ -665,6 +665,11 @@
       "questionDate": "16/10/2021",
       "questionTitle": "Hello Hello",
       "questionUrl": "https://codechef.com/problems/HELLO"
+    },
+    {
+      "questionDate": "17/10/2021",
+      "questionTitle": "C - Club of Riders",
+      "questionUrl": "https://codechef.com/problems/ZUBRIDER"
     }
   ],
   "basics": [
@@ -1332,6 +1337,11 @@
       "questionDate": "16/10/2021",
       "questionTitle": "Byte to Bit",
       "questionUrl": "https://codechef.com/problems/BITOBYT"
+    },
+    {
+      "questionDate": "17/10/2021",
+      "questionTitle": "Richie Rich",
+      "questionUrl": "https://codechef.com/problems/CHFRICH"
     }
   ],
   "beta": [
@@ -1999,6 +2009,11 @@
       "questionDate": "16/10/2021",
       "questionTitle": "Juno Puzzle for May",
       "questionUrl": "https://codechef.com/problems/JUNONGF"
+    },
+    {
+      "questionDate": "17/10/2021",
+      "questionTitle": "Compress all Subsegments",
+      "questionUrl": "https://codechef.com/problems/SEGCOMPR"
     }
   ]
 }
