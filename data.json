@@ -670,6 +670,11 @@
       "questionDate": "17/10/2021",
       "questionTitle": "C - Club of Riders",
       "questionUrl": "https://codechef.com/problems/ZUBRIDER"
+    },
+    {
+      "questionDate": "18/10/2021",
+      "questionTitle": "Closest Power",
+      "questionUrl": "https://codechef.com/problems/CLSPWR"
     }
   ],
   "basics": [
@@ -1342,6 +1347,11 @@
       "questionDate": "17/10/2021",
       "questionTitle": "Richie Rich",
       "questionUrl": "https://codechef.com/problems/CHFRICH"
+    },
+    {
+      "questionDate": "18/10/2021",
+      "questionTitle": "Playing with Matches",
+      "questionUrl": "https://codechef.com/problems/MATCHES"
     }
   ],
   "beta": [
@@ -2014,6 +2024,11 @@
       "questionDate": "17/10/2021",
       "questionTitle": "Compress all Subsegments",
       "questionUrl": "https://codechef.com/problems/SEGCOMPR"
+    },
+    {
+      "questionDate": "18/10/2021",
+      "questionTitle": "Array Transform",
+      "questionUrl": "https://codechef.com/problems/ARRAYTRM"
     }
   ]
 }
