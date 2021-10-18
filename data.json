@@ -675,6 +675,11 @@
       "questionDate": "18/10/2021",
       "questionTitle": "Closest Power",
       "questionUrl": "https://codechef.com/problems/CLSPWR"
+    },
+    {
+      "questionDate": "19/10/2021",
+      "questionTitle": "Mex Subsequence",
+      "questionUrl": "https://codechef.com/problems/MEXSUB"
     }
   ],
   "basics": [
@@ -1352,6 +1357,11 @@
       "questionDate": "18/10/2021",
       "questionTitle": "Playing with Matches",
       "questionUrl": "https://codechef.com/problems/MATCHES"
+    },
+    {
+      "questionDate": "19/10/2021",
+      "questionTitle": "The Lead Game",
+      "questionUrl": "https://codechef.com/problems/TLG"
     }
   ],
   "beta": [
@@ -2029,6 +2039,11 @@
       "questionDate": "18/10/2021",
       "questionTitle": "Array Transform",
       "questionUrl": "https://codechef.com/problems/ARRAYTRM"
+    },
+    {
+      "questionDate": "19/10/2021",
+      "questionTitle": "Little Elephant and Filling",
+      "questionUrl": "https://codechef.com/problems/LUCKFILL"
     }
   ]
 }
