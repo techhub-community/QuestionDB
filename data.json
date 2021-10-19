@@ -680,6 +680,11 @@
       "questionDate": "19/10/2021",
       "questionTitle": "Mex Subsequence",
       "questionUrl": "https://codechef.com/problems/MEXSUB"
+    },
+    {
+      "questionDate": "20/10/2021",
+      "questionTitle": "Distinct Characters Subsequence",
+      "questionUrl": "https://codechef.com/problems/DISCHAR"
     }
   ],
   "basics": [
@@ -1362,6 +1367,11 @@
       "questionDate": "19/10/2021",
       "questionTitle": "The Lead Game",
       "questionUrl": "https://codechef.com/problems/TLG"
+    },
+    {
+      "questionDate": "20/10/2021",
+      "questionTitle": "Chef Drinks Coke",
+      "questionUrl": "https://codechef.com/problems/COKE"
     }
   ],
   "beta": [
@@ -2044,6 +2054,11 @@
       "questionDate": "19/10/2021",
       "questionTitle": "Little Elephant and Filling",
       "questionUrl": "https://codechef.com/problems/LUCKFILL"
+    },
+    {
+      "questionDate": "20/10/2021",
+      "questionTitle": "Xortest Path",
+      "questionUrl": "https://codechef.com/problems/XORPATH"
     }
   ]
 }
