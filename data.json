@@ -685,6 +685,11 @@
       "questionDate": "20/10/2021",
       "questionTitle": "Distinct Characters Subsequence",
       "questionUrl": "https://codechef.com/problems/DISCHAR"
+    },
+    {
+      "questionDate": "21/10/2021",
+      "questionTitle": "Chef and Rainbow Array - 2",
+      "questionUrl": "https://codechef.com/problems/RAINBOWB"
     }
   ],
   "basics": [
@@ -1372,6 +1377,11 @@
       "questionDate": "20/10/2021",
       "questionTitle": "Chef Drinks Coke",
       "questionUrl": "https://codechef.com/problems/COKE"
+    },
+    {
+      "questionDate": "21/10/2021",
+      "questionTitle": "Chef On Island",
+      "questionUrl": "https://codechef.com/problems/CCISLAND"
     }
   ],
   "beta": [
@@ -2059,6 +2069,11 @@
       "questionDate": "20/10/2021",
       "questionTitle": "Xortest Path",
       "questionUrl": "https://codechef.com/problems/XORPATH"
+    },
+    {
+      "questionDate": "21/10/2021",
+      "questionTitle": "Heavy-light Decompositions",
+      "questionUrl": "https://codechef.com/problems/HLDOTS"
     }
   ]
 }
