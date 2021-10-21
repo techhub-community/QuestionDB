@@ -690,6 +690,11 @@
       "questionDate": "21/10/2021",
       "questionTitle": "Chef and Rainbow Array - 2",
       "questionUrl": "https://codechef.com/problems/RAINBOWB"
+    },
+    {
+      "questionDate": "22/10/2021",
+      "questionTitle": "Birthday Gift Again",
+      "questionUrl": "https://codechef.com/problems/BDGFT"
     }
   ],
   "basics": [
@@ -1382,6 +1387,11 @@
       "questionDate": "21/10/2021",
       "questionTitle": "Chef On Island",
       "questionUrl": "https://codechef.com/problems/CCISLAND"
+    },
+    {
+      "questionDate": "22/10/2021",
+      "questionTitle": "Secret Recipe",
+      "questionUrl": "https://codechef.com/problems/CHEFRUN"
     }
   ],
   "beta": [
@@ -2074,6 +2084,11 @@
       "questionDate": "21/10/2021",
       "questionTitle": "Heavy-light Decompositions",
       "questionUrl": "https://codechef.com/problems/HLDOTS"
+    },
+    {
+      "questionDate": "22/10/2021",
+      "questionTitle": "Closest points queries",
+      "questionUrl": "https://codechef.com/problems/CLOSESTQ"
     }
   ]
 }
