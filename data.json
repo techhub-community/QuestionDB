@@ -695,6 +695,11 @@
       "questionDate": "22/10/2021",
       "questionTitle": "Birthday Gift Again",
       "questionUrl": "https://codechef.com/problems/BDGFT"
+    },
+    {
+      "questionDate": "23/10/2021",
+      "questionTitle": "Make the Sum Even",
+      "questionUrl": "https://codechef.com/problems/MKSMEVN"
     }
   ],
   "basics": [
@@ -1392,6 +1397,11 @@
       "questionDate": "22/10/2021",
       "questionTitle": "Secret Recipe",
       "questionUrl": "https://codechef.com/problems/CHEFRUN"
+    },
+    {
+      "questionDate": "23/10/2021",
+      "questionTitle": "Hardest Problem Bet",
+      "questionUrl": "https://codechef.com/problems/HARDBET"
     }
   ],
   "beta": [
@@ -2089,6 +2099,11 @@
       "questionDate": "22/10/2021",
       "questionTitle": "Closest points queries",
       "questionUrl": "https://codechef.com/problems/CLOSESTQ"
+    },
+    {
+      "questionDate": "23/10/2021",
+      "questionTitle": "Poetic word",
+      "questionUrl": "https://codechef.com/problems/AMLEX"
     }
   ]
 }
