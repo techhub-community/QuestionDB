@@ -700,6 +700,11 @@
       "questionDate": "23/10/2021",
       "questionTitle": "Make the Sum Even",
       "questionUrl": "https://codechef.com/problems/MKSMEVN"
+    },
+    {
+      "questionDate": "24/10/2021",
+      "questionTitle": "Chef and Patients",
+      "questionUrl": "https://codechef.com/problems/CHEFPAT"
     }
   ],
   "basics": [
@@ -1402,6 +1407,11 @@
       "questionDate": "23/10/2021",
       "questionTitle": "Hardest Problem Bet",
       "questionUrl": "https://codechef.com/problems/HARDBET"
+    },
+    {
+      "questionDate": "24/10/2021",
+      "questionTitle": "First and Last Digit",
+      "questionUrl": "https://codechef.com/problems/FLOW004"
     }
   ],
   "beta": [
@@ -2104,6 +2114,11 @@
       "questionDate": "23/10/2021",
       "questionTitle": "Poetic word",
       "questionUrl": "https://codechef.com/problems/AMLEX"
+    },
+    {
+      "questionDate": "24/10/2021",
+      "questionTitle": "Sum Of Binomial Coefficent ",
+      "questionUrl": "https://codechef.com/problems/TASUMOBC"
     }
   ]
 }
