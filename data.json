@@ -705,6 +705,11 @@
       "questionDate": "24/10/2021",
       "questionTitle": "Chef and Patients",
       "questionUrl": "https://codechef.com/problems/CHEFPAT"
+    },
+    {
+      "questionDate": "25/10/2021",
+      "questionTitle": "Sereja and Graph",
+      "questionUrl": "https://codechef.com/problems/SEAGRP"
     }
   ],
   "basics": [
@@ -1412,6 +1417,11 @@
       "questionDate": "24/10/2021",
       "questionTitle": "First and Last Digit",
       "questionUrl": "https://codechef.com/problems/FLOW004"
+    },
+    {
+      "questionDate": "25/10/2021",
+      "questionTitle": "Daanish and Problems",
+      "questionUrl": "https://codechef.com/problems/DIV03"
     }
   ],
   "beta": [
@@ -2119,6 +2129,11 @@
       "questionDate": "24/10/2021",
       "questionTitle": "Sum Of Binomial Coefficent ",
       "questionUrl": "https://codechef.com/problems/TASUMOBC"
+    },
+    {
+      "questionDate": "25/10/2021",
+      "questionTitle": "Sereja and Bubble Sort",
+      "questionUrl": "https://codechef.com/problems/SEABUB"
     }
   ]
 }
