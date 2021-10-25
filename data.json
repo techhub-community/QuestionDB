@@ -710,6 +710,11 @@
       "questionDate": "25/10/2021",
       "questionTitle": "Sereja and Graph",
       "questionUrl": "https://codechef.com/problems/SEAGRP"
+    },
+    {
+      "questionDate": "26/10/2021",
+      "questionTitle": "Gravel",
+      "questionUrl": "https://codechef.com/problems/SPREAD"
     }
   ],
   "basics": [
@@ -1422,6 +1427,11 @@
       "questionDate": "25/10/2021",
       "questionTitle": "Daanish and Problems",
       "questionUrl": "https://codechef.com/problems/DIV03"
+    },
+    {
+      "questionDate": "26/10/2021",
+      "questionTitle": "Chang and Bitwise OR",
+      "questionUrl": "https://codechef.com/problems/CHNGOR"
     }
   ],
   "beta": [
@@ -2134,6 +2144,11 @@
       "questionDate": "25/10/2021",
       "questionTitle": "Sereja and Bubble Sort",
       "questionUrl": "https://codechef.com/problems/SEABUB"
+    },
+    {
+      "questionDate": "26/10/2021",
+      "questionTitle": "Chef and Uniqueness",
+      "questionUrl": "https://codechef.com/problems/UNIQUE"
     }
   ]
 }
