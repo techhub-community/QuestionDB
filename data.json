@@ -715,6 +715,11 @@
       "questionDate": "26/10/2021",
       "questionTitle": "Gravel",
       "questionUrl": "https://codechef.com/problems/SPREAD"
+    },
+    {
+      "questionDate": "27/10/2021",
+      "questionTitle": "The Grid Fill Problem",
+      "questionUrl": "https://codechef.com/problems/FILLGRID"
     }
   ],
   "basics": [
@@ -1432,6 +1437,11 @@
       "questionDate": "26/10/2021",
       "questionTitle": "Chang and Bitwise OR",
       "questionUrl": "https://codechef.com/problems/CHNGOR"
+    },
+    {
+      "questionDate": "27/10/2021",
+      "questionTitle": "Chef and Pairing Slippers",
+      "questionUrl": "https://codechef.com/problems/CHEFSLP"
     }
   ],
   "beta": [
@@ -2149,6 +2159,11 @@
       "questionDate": "26/10/2021",
       "questionTitle": "Chef and Uniqueness",
       "questionUrl": "https://codechef.com/problems/UNIQUE"
+    },
+    {
+      "questionDate": "27/10/2021",
+      "questionTitle": "Min-Max String",
+      "questionUrl": "https://codechef.com/problems/MINMXSTR"
     }
   ]
 }
