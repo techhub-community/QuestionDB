@@ -720,6 +720,11 @@
       "questionDate": "27/10/2021",
       "questionTitle": "The Grid Fill Problem",
       "questionUrl": "https://codechef.com/problems/FILLGRID"
+    },
+    {
+      "questionDate": "28/10/2021",
+      "questionTitle": "Maximum Score",
+      "questionUrl": "https://codechef.com/problems/MAXSC"
     }
   ],
   "basics": [
@@ -1442,6 +1447,11 @@
       "questionDate": "27/10/2021",
       "questionTitle": "Chef and Pairing Slippers",
       "questionUrl": "https://codechef.com/problems/CHEFSLP"
+    },
+    {
+      "questionDate": "28/10/2021",
+      "questionTitle": "Chef and Work",
+      "questionUrl": "https://codechef.com/problems/CHEFNWRK"
     }
   ],
   "beta": [
@@ -2164,6 +2174,11 @@
       "questionDate": "27/10/2021",
       "questionTitle": "Min-Max String",
       "questionUrl": "https://codechef.com/problems/MINMXSTR"
+    },
+    {
+      "questionDate": "28/10/2021",
+      "questionTitle": "Random Chocolates",
+      "questionUrl": "https://codechef.com/problems/RANDCHCL"
     }
   ]
 }
