@@ -725,6 +725,11 @@
       "questionDate": "28/10/2021",
       "questionTitle": "Maximum Score",
       "questionUrl": "https://codechef.com/problems/MAXSC"
+    },
+    {
+      "questionDate": "29/10/2021",
+      "questionTitle": "Johnny and the Beanstalk",
+      "questionUrl": "https://codechef.com/problems/A2"
     }
   ],
   "basics": [
@@ -1452,6 +1457,11 @@
       "questionDate": "28/10/2021",
       "questionTitle": "Chef and Work",
       "questionUrl": "https://codechef.com/problems/CHEFNWRK"
+    },
+    {
+      "questionDate": "29/10/2021",
+      "questionTitle": "A Balanced Contest",
+      "questionUrl": "https://codechef.com/problems/PERFCONT"
     }
   ],
   "beta": [
@@ -2179,6 +2189,11 @@
       "questionDate": "28/10/2021",
       "questionTitle": "Random Chocolates",
       "questionUrl": "https://codechef.com/problems/RANDCHCL"
+    },
+    {
+      "questionDate": "29/10/2021",
+      "questionTitle": "Chef and DAG",
+      "questionUrl": "https://codechef.com/problems/CHEFDAG"
     }
   ]
 }
