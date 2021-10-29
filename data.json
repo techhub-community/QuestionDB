@@ -730,6 +730,11 @@
       "questionDate": "29/10/2021",
       "questionTitle": "Johnny and the Beanstalk",
       "questionUrl": "https://codechef.com/problems/A2"
+    },
+    {
+      "questionDate": "30/10/2021",
+      "questionTitle": "The Minimum Number Of Moves",
+      "questionUrl": "https://codechef.com/problems/SALARY"
     }
   ],
   "basics": [
@@ -1462,6 +1467,11 @@
       "questionDate": "29/10/2021",
       "questionTitle": "A Balanced Contest",
       "questionUrl": "https://codechef.com/problems/PERFCONT"
+    },
+    {
+      "questionDate": "30/10/2021",
+      "questionTitle": "Yet another SOD problem",
+      "questionUrl": "https://codechef.com/problems/SOD3"
     }
   ],
   "beta": [
@@ -2194,6 +2204,11 @@
       "questionDate": "29/10/2021",
       "questionTitle": "Chef and DAG",
       "questionUrl": "https://codechef.com/problems/CHEFDAG"
+    },
+    {
+      "questionDate": "30/10/2021",
+      "questionTitle": "Snakes and Graph",
+      "questionUrl": "https://codechef.com/problems/SNGRAPH"
     }
   ]
 }
