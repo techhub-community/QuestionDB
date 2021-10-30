@@ -735,6 +735,11 @@
       "questionDate": "30/10/2021",
       "questionTitle": "The Minimum Number Of Moves",
       "questionUrl": "https://codechef.com/problems/SALARY"
+    },
+    {
+      "questionDate": "31/10/2021",
+      "questionTitle": "Chef and Reversing",
+      "questionUrl": "https://codechef.com/problems/REVERSE"
     }
   ],
   "basics": [
@@ -1472,6 +1477,11 @@
       "questionDate": "30/10/2021",
       "questionTitle": "Yet another SOD problem",
       "questionUrl": "https://codechef.com/problems/SOD3"
+    },
+    {
+      "questionDate": "31/10/2021",
+      "questionTitle": "A puzzle game",
+      "questionUrl": "https://codechef.com/problems/H1"
     }
   ],
   "beta": [
@@ -2209,6 +2219,11 @@
       "questionDate": "30/10/2021",
       "questionTitle": "Snakes and Graph",
       "questionUrl": "https://codechef.com/problems/SNGRAPH"
+    },
+    {
+      "questionDate": "31/10/2021",
+      "questionTitle": "Ciel and Quiz Game",
+      "questionUrl": "https://codechef.com/problems/CIELQUIZ"
     }
   ]
 }
