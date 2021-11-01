@@ -745,6 +745,11 @@
       "questionDate": "01/11/2021",
       "questionTitle": "Missing some chairs",
       "questionUrl": "https://codechef.com/problems/MCHAIRS"
+    },
+    {
+      "questionDate": "02/11/2021",
+      "questionTitle": "Chef and Strings",
+      "questionUrl": "https://codechef.com/problems/STRQ"
     }
   ],
   "basics": [
@@ -1492,6 +1497,11 @@
       "questionDate": "01/11/2021",
       "questionTitle": "Chef and Interesting Subsequences ",
       "questionUrl": "https://codechef.com/problems/CHEFINSQ"
+    },
+    {
+      "questionDate": "02/11/2021",
+      "questionTitle": "Chef and Price Control",
+      "questionUrl": "https://codechef.com/problems/PRICECON"
     }
   ],
   "beta": [
@@ -2239,6 +2249,11 @@
       "questionDate": "01/11/2021",
       "questionTitle": "Palindromes Machine",
       "questionUrl": "https://codechef.com/problems/PALMACH"
+    },
+    {
+      "questionDate": "02/11/2021",
+      "questionTitle": "Coffee Breaks",
+      "questionUrl": "https://codechef.com/problems/COFFEE"
     }
   ]
 }
