@@ -750,6 +750,11 @@
       "questionDate": "02/11/2021",
       "questionTitle": "Chef and Strings",
       "questionUrl": "https://codechef.com/problems/STRQ"
+    },
+    {
+      "questionDate": "03/11/2021",
+      "questionTitle": "Painting",
+      "questionUrl": "https://codechef.com/problems/PNTNG"
     }
   ],
   "basics": [
@@ -1502,6 +1507,11 @@
       "questionDate": "02/11/2021",
       "questionTitle": "Chef and Price Control",
       "questionUrl": "https://codechef.com/problems/PRICECON"
+    },
+    {
+      "questionDate": "03/11/2021",
+      "questionTitle": "IPL and RCB",
+      "questionUrl": "https://codechef.com/problems/CLIPLX"
     }
   ],
   "beta": [
@@ -2254,6 +2264,11 @@
       "questionDate": "02/11/2021",
       "questionTitle": "Coffee Breaks",
       "questionUrl": "https://codechef.com/problems/COFFEE"
+    },
+    {
+      "questionDate": "03/11/2021",
+      "questionTitle": "Four Points",
+      "questionUrl": "https://codechef.com/problems/FOURPTS"
     }
   ]
 }
