@@ -755,6 +755,11 @@
       "questionDate": "03/11/2021",
       "questionTitle": "Painting",
       "questionUrl": "https://codechef.com/problems/PNTNG"
+    },
+    {
+      "questionDate": "04/11/2021",
+      "questionTitle": "AND Plus OR",
+      "questionUrl": "https://codechef.com/problems/ANDOR"
     }
   ],
   "basics": [
@@ -1512,6 +1517,11 @@
       "questionDate": "03/11/2021",
       "questionTitle": "IPL and RCB",
       "questionUrl": "https://codechef.com/problems/CLIPLX"
+    },
+    {
+      "questionDate": "04/11/2021",
+      "questionTitle": "Smallest Numbers of Notes",
+      "questionUrl": "https://codechef.com/problems/FLOW005"
     }
   ],
   "beta": [
@@ -2269,6 +2279,11 @@
       "questionDate": "03/11/2021",
       "questionTitle": "Four Points",
       "questionUrl": "https://codechef.com/problems/FOURPTS"
+    },
+    {
+      "questionDate": "04/11/2021",
+      "questionTitle": "Chef Raffle",
+      "questionUrl": "https://codechef.com/problems/RAFFLE"
     }
   ]
 }
