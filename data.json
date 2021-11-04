@@ -760,6 +760,11 @@
       "questionDate": "04/11/2021",
       "questionTitle": "AND Plus OR",
       "questionUrl": "https://codechef.com/problems/ANDOR"
+    },
+    {
+      "questionDate": "05/11/2021",
+      "questionTitle": "Stupid Machine",
+      "questionUrl": "https://codechef.com/problems/STUPMACH"
     }
   ],
   "basics": [
@@ -1522,6 +1527,11 @@
       "questionDate": "04/11/2021",
       "questionTitle": "Smallest Numbers of Notes",
       "questionUrl": "https://codechef.com/problems/FLOW005"
+    },
+    {
+      "questionDate": "05/11/2021",
+      "questionTitle": "Print Pattern",
+      "questionUrl": "https://codechef.com/problems/PPATTERN"
     }
   ],
   "beta": [
@@ -2284,6 +2294,11 @@
       "questionDate": "04/11/2021",
       "questionTitle": "Chef Raffle",
       "questionUrl": "https://codechef.com/problems/RAFFLE"
+    },
+    {
+      "questionDate": "05/11/2021",
+      "questionTitle": "Polo the Penguin and the Lucky String",
+      "questionUrl": "https://codechef.com/problems/PPLUCKY"
     }
   ]
 }
