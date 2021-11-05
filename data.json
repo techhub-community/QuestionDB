@@ -765,6 +765,11 @@
       "questionDate": "05/11/2021",
       "questionTitle": "Stupid Machine",
       "questionUrl": "https://codechef.com/problems/STUPMACH"
+    },
+    {
+      "questionDate": "06/11/2021",
+      "questionTitle": "Chef and Pairwise Distances",
+      "questionUrl": "https://codechef.com/problems/PAIRDIST"
     }
   ],
   "basics": [
@@ -1532,6 +1537,11 @@
       "questionDate": "05/11/2021",
       "questionTitle": "Print Pattern",
       "questionUrl": "https://codechef.com/problems/PPATTERN"
+    },
+    {
+      "questionDate": "06/11/2021",
+      "questionTitle": "Sell All the Cars",
+      "questionUrl": "https://codechef.com/problems/CARSELL"
     }
   ],
   "beta": [
@@ -2299,6 +2309,11 @@
       "questionDate": "05/11/2021",
       "questionTitle": "Polo the Penguin and the Lucky String",
       "questionUrl": "https://codechef.com/problems/PPLUCKY"
+    },
+    {
+      "questionDate": "06/11/2021",
+      "questionTitle": "Communication Channel",
+      "questionUrl": "https://codechef.com/problems/COMMCHA"
     }
   ]
 }
