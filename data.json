@@ -770,6 +770,11 @@
       "questionDate": "06/11/2021",
       "questionTitle": "Chef and Pairwise Distances",
       "questionUrl": "https://codechef.com/problems/PAIRDIST"
+    },
+    {
+      "questionDate": "07/11/2021",
+      "questionTitle": "Banana String",
+      "questionUrl": "https://codechef.com/problems/BANSTR"
     }
   ],
   "basics": [
@@ -1542,6 +1547,11 @@
       "questionDate": "06/11/2021",
       "questionTitle": "Sell All the Cars",
       "questionUrl": "https://codechef.com/problems/CARSELL"
+    },
+    {
+      "questionDate": "07/11/2021",
+      "questionTitle": "False Number",
+      "questionUrl": "https://codechef.com/problems/FALSNUM"
     }
   ],
   "beta": [
@@ -2314,6 +2324,11 @@
       "questionDate": "06/11/2021",
       "questionTitle": "Communication Channel",
       "questionUrl": "https://codechef.com/problems/COMMCHA"
+    },
+    {
+      "questionDate": "07/11/2021",
+      "questionTitle": "Chef and Secret Recipe",
+      "questionUrl": "https://codechef.com/problems/SCRRCP"
     }
   ]
 }
