@@ -775,6 +775,11 @@
       "questionDate": "07/11/2021",
       "questionTitle": "Banana String",
       "questionUrl": "https://codechef.com/problems/BANSTR"
+    },
+    {
+      "questionDate": "08/11/2021",
+      "questionTitle": "Sign Wave",
+      "questionUrl": "https://codechef.com/problems/SIGNWAVE"
     }
   ],
   "basics": [
@@ -1552,6 +1557,11 @@
       "questionDate": "07/11/2021",
       "questionTitle": "False Number",
       "questionUrl": "https://codechef.com/problems/FALSNUM"
+    },
+    {
+      "questionDate": "08/11/2021",
+      "questionTitle": "COVID Pandemic and Long Queue",
+      "questionUrl": "https://codechef.com/problems/COVIDLQ"
     }
   ],
   "beta": [
@@ -2329,6 +2339,11 @@
       "questionDate": "07/11/2021",
       "questionTitle": "Chef and Secret Recipe",
       "questionUrl": "https://codechef.com/problems/SCRRCP"
+    },
+    {
+      "questionDate": "08/11/2021",
+      "questionTitle": "Little Elephant and Median",
+      "questionUrl": "https://codechef.com/problems/MEDIAN"
     }
   ]
 }
