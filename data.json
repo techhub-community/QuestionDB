@@ -780,6 +780,11 @@
       "questionDate": "08/11/2021",
       "questionTitle": "Sign Wave",
       "questionUrl": "https://codechef.com/problems/SIGNWAVE"
+    },
+    {
+      "questionDate": "09/11/2021",
+      "questionTitle": "Arranging the Appetizers",
+      "questionUrl": "https://codechef.com/problems/ARRANGE"
     }
   ],
   "basics": [
@@ -1562,6 +1567,11 @@
       "questionDate": "08/11/2021",
       "questionTitle": "COVID Pandemic and Long Queue",
       "questionUrl": "https://codechef.com/problems/COVIDLQ"
+    },
+    {
+      "questionDate": "09/11/2021",
+      "questionTitle": "HTML Tags",
+      "questionUrl": "https://codechef.com/problems/HTMLTAGS"
     }
   ],
   "beta": [
@@ -2344,6 +2354,11 @@
       "questionDate": "08/11/2021",
       "questionTitle": "Little Elephant and Median",
       "questionUrl": "https://codechef.com/problems/MEDIAN"
+    },
+    {
+      "questionDate": "09/11/2021",
+      "questionTitle": "Save the nature",
+      "questionUrl": "https://codechef.com/problems/SVNTR"
     }
   ]
 }
