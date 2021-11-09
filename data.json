@@ -785,6 +785,11 @@
       "questionDate": "09/11/2021",
       "questionTitle": "Arranging the Appetizers",
       "questionUrl": "https://codechef.com/problems/ARRANGE"
+    },
+    {
+      "questionDate": "10/11/2021",
+      "questionTitle": "Houses and Restaurants",
+      "questionUrl": "https://codechef.com/problems/RHOUSE"
     }
   ],
   "basics": [
@@ -1572,6 +1577,11 @@
       "questionDate": "09/11/2021",
       "questionTitle": "HTML Tags",
       "questionUrl": "https://codechef.com/problems/HTMLTAGS"
+    },
+    {
+      "questionDate": "10/11/2021",
+      "questionTitle": "Event",
+      "questionUrl": "https://codechef.com/problems/EVENT"
     }
   ],
   "beta": [
@@ -2359,6 +2369,11 @@
       "questionDate": "09/11/2021",
       "questionTitle": "Save the nature",
       "questionUrl": "https://codechef.com/problems/SVNTR"
+    },
+    {
+      "questionDate": "10/11/2021",
+      "questionTitle": "Trees and Degrees",
+      "questionUrl": "https://codechef.com/problems/TREDEG"
     }
   ]
 }
