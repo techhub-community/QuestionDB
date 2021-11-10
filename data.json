@@ -790,6 +790,11 @@
       "questionDate": "10/11/2021",
       "questionTitle": "Houses and Restaurants",
       "questionUrl": "https://codechef.com/problems/RHOUSE"
+    },
+    {
+      "questionDate": "11/11/2021",
+      "questionTitle": "Hiring Workers",
+      "questionUrl": "https://codechef.com/problems/HIRINGWO"
     }
   ],
   "basics": [
@@ -1582,6 +1587,11 @@
       "questionDate": "10/11/2021",
       "questionTitle": "Event",
       "questionUrl": "https://codechef.com/problems/EVENT"
+    },
+    {
+      "questionDate": "11/11/2021",
+      "questionTitle": "Chocolate Monger",
+      "questionUrl": "https://codechef.com/problems/CM164364"
     }
   ],
   "beta": [
@@ -2374,6 +2384,11 @@
       "questionDate": "10/11/2021",
       "questionTitle": "Trees and Degrees",
       "questionUrl": "https://codechef.com/problems/TREDEG"
+    },
+    {
+      "questionDate": "11/11/2021",
+      "questionTitle": "Prefix borders",
+      "questionUrl": "https://codechef.com/problems/BORDER"
     }
   ]
 }
