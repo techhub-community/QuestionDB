@@ -795,6 +795,11 @@
       "questionDate": "11/11/2021",
       "questionTitle": "Hiring Workers",
       "questionUrl": "https://codechef.com/problems/HIRINGWO"
+    },
+    {
+      "questionDate": "12/11/2021",
+      "questionTitle": "Long Contest and Cook Off Overlaps",
+      "questionUrl": "https://codechef.com/problems/LONGCOOK"
     }
   ],
   "basics": [
@@ -1592,6 +1597,11 @@
       "questionDate": "11/11/2021",
       "questionTitle": "Chocolate Monger",
       "questionUrl": "https://codechef.com/problems/CM164364"
+    },
+    {
+      "questionDate": "12/11/2021",
+      "questionTitle": "Gregorian Calendar",
+      "questionUrl": "https://codechef.com/problems/FLOW015"
     }
   ],
   "beta": [
@@ -2389,6 +2399,11 @@
       "questionDate": "11/11/2021",
       "questionTitle": "Prefix borders",
       "questionUrl": "https://codechef.com/problems/BORDER"
+    },
+    {
+      "questionDate": "12/11/2021",
+      "questionTitle": "Two Closest",
+      "questionUrl": "https://codechef.com/problems/PAIRCLST"
     }
   ]
 }
