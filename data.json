@@ -800,6 +800,11 @@
       "questionDate": "12/11/2021",
       "questionTitle": "Long Contest and Cook Off Overlaps",
       "questionUrl": "https://codechef.com/problems/LONGCOOK"
+    },
+    {
+      "questionDate": "13/11/2021",
+      "questionTitle": "Matrix Decomposition",
+      "questionUrl": "https://codechef.com/problems/MATBREAK"
     }
   ],
   "basics": [
@@ -1602,6 +1607,11 @@
       "questionDate": "12/11/2021",
       "questionTitle": "Gregorian Calendar",
       "questionUrl": "https://codechef.com/problems/FLOW015"
+    },
+    {
+      "questionDate": "13/11/2021",
+      "questionTitle": "Test Match Series",
+      "questionUrl": "https://codechef.com/problems/TESTSERIES"
     }
   ],
   "beta": [
@@ -2404,6 +2414,11 @@
       "questionDate": "12/11/2021",
       "questionTitle": "Two Closest",
       "questionUrl": "https://codechef.com/problems/PAIRCLST"
+    },
+    {
+      "questionDate": "13/11/2021",
+      "questionTitle": "Game of Theory",
+      "questionUrl": "https://codechef.com/problems/MINIMAX2"
     }
   ]
 }
