@@ -805,6 +805,11 @@
       "questionDate": "13/11/2021",
       "questionTitle": "Matrix Decomposition",
       "questionUrl": "https://codechef.com/problems/MATBREAK"
+    },
+    {
+      "questionDate": "14/11/2021",
+      "questionTitle": "Gru is Handing Out Bananas",
+      "questionUrl": "https://codechef.com/problems/GRUBAN"
     }
   ],
   "basics": [
@@ -1612,6 +1617,11 @@
       "questionDate": "13/11/2021",
       "questionTitle": "Test Match Series",
       "questionUrl": "https://codechef.com/problems/TESTSERIES"
+    },
+    {
+      "questionDate": "14/11/2021",
+      "questionTitle": "Chef and Number Game",
+      "questionUrl": "https://codechef.com/problems/CHNUM"
     }
   ],
   "beta": [
@@ -2419,6 +2429,11 @@
       "questionDate": "13/11/2021",
       "questionTitle": "Game of Theory",
       "questionUrl": "https://codechef.com/problems/MINIMAX2"
+    },
+    {
+      "questionDate": "14/11/2021",
+      "questionTitle": "Make It",
+      "questionUrl": "https://codechef.com/problems/MKIT"
     }
   ]
 }
