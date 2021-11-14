@@ -810,6 +810,11 @@
       "questionDate": "14/11/2021",
       "questionTitle": "Gru is Handing Out Bananas",
       "questionUrl": "https://codechef.com/problems/GRUBAN"
+    },
+    {
+      "questionDate": "15/11/2021",
+      "questionTitle": "Maximum Weight Difference",
+      "questionUrl": "https://codechef.com/problems/MAXDIFF"
     }
   ],
   "basics": [
@@ -1622,6 +1627,11 @@
       "questionDate": "14/11/2021",
       "questionTitle": "Chef and Number Game",
       "questionUrl": "https://codechef.com/problems/CHNUM"
+    },
+    {
+      "questionDate": "15/11/2021",
+      "questionTitle": "Count Subarrays",
+      "questionUrl": "https://codechef.com/problems/SUBINC"
     }
   ],
   "beta": [
@@ -2434,6 +2444,11 @@
       "questionDate": "14/11/2021",
       "questionTitle": "Make It",
       "questionUrl": "https://codechef.com/problems/MKIT"
+    },
+    {
+      "questionDate": "15/11/2021",
+      "questionTitle": "Sphere in a tetrahedron",
+      "questionUrl": "https://codechef.com/problems/TETRA"
     }
   ]
 }
