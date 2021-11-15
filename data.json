@@ -815,6 +815,11 @@
       "questionDate": "15/11/2021",
       "questionTitle": "Maximum Weight Difference",
       "questionUrl": "https://codechef.com/problems/MAXDIFF"
+    },
+    {
+      "questionDate": "16/11/2021",
+      "questionTitle": "Code",
+      "questionUrl": "https://codechef.com/problems/RRCODE"
     }
   ],
   "basics": [
@@ -1632,6 +1637,11 @@
       "questionDate": "15/11/2021",
       "questionTitle": "Count Subarrays",
       "questionUrl": "https://codechef.com/problems/SUBINC"
+    },
+    {
+      "questionDate": "16/11/2021",
+      "questionTitle": "Weight Balance",
+      "questionUrl": "https://codechef.com/problems/WEIGHTBL"
     }
   ],
   "beta": [
@@ -2449,6 +2459,11 @@
       "questionDate": "15/11/2021",
       "questionTitle": "Sphere in a tetrahedron",
       "questionUrl": "https://codechef.com/problems/TETRA"
+    },
+    {
+      "questionDate": "16/11/2021",
+      "questionTitle": "Candidate walk",
+      "questionUrl": "https://codechef.com/problems/LCH15CD"
     }
   ]
 }
