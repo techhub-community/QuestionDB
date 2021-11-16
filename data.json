@@ -820,6 +820,11 @@
       "questionDate": "16/11/2021",
       "questionTitle": "Code",
       "questionUrl": "https://codechef.com/problems/RRCODE"
+    },
+    {
+      "questionDate": "17/11/2021",
+      "questionTitle": "Helping Lira",
+      "questionUrl": "https://codechef.com/problems/HELPLIRA"
     }
   ],
   "basics": [
@@ -1642,6 +1647,11 @@
       "questionDate": "16/11/2021",
       "questionTitle": "Weight Balance",
       "questionUrl": "https://codechef.com/problems/WEIGHTBL"
+    },
+    {
+      "questionDate": "17/11/2021",
+      "questionTitle": "Food Chain",
+      "questionUrl": "https://codechef.com/problems/FODCHAIN"
     }
   ],
   "beta": [
@@ -2464,6 +2474,11 @@
       "questionDate": "16/11/2021",
       "questionTitle": "Candidate walk",
       "questionUrl": "https://codechef.com/problems/LCH15CD"
+    },
+    {
+      "questionDate": "17/11/2021",
+      "questionTitle": "Nikitosh and xor",
+      "questionUrl": "https://codechef.com/problems/REBXOR"
     }
   ]
 }
