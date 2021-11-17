@@ -825,6 +825,11 @@
       "questionDate": "17/11/2021",
       "questionTitle": "Helping Lira",
       "questionUrl": "https://codechef.com/problems/HELPLIRA"
+    },
+    {
+      "questionDate": "18/11/2021",
+      "questionTitle": "Surgical Strikes",
+      "questionUrl": "https://codechef.com/problems/DEM2019A"
     }
   ],
   "basics": [
@@ -1652,6 +1657,11 @@
       "questionDate": "17/11/2021",
       "questionTitle": "Food Chain",
       "questionUrl": "https://codechef.com/problems/FODCHAIN"
+    },
+    {
+      "questionDate": "18/11/2021",
+      "questionTitle": "Program Your Own CALCULATOR",
+      "questionUrl": "https://codechef.com/problems/URCALC"
     }
   ],
   "beta": [
@@ -2479,6 +2489,11 @@
       "questionDate": "17/11/2021",
       "questionTitle": "Nikitosh and xor",
       "questionUrl": "https://codechef.com/problems/REBXOR"
+    },
+    {
+      "questionDate": "18/11/2021",
+      "questionTitle": "Chef and Problems",
+      "questionUrl": "https://codechef.com/problems/QCHEF"
     }
   ]
 }
