@@ -830,6 +830,11 @@
       "questionDate": "18/11/2021",
       "questionTitle": "Surgical Strikes",
       "questionUrl": "https://codechef.com/problems/DEM2019A"
+    },
+    {
+      "questionDate": "19/11/2021",
+      "questionTitle": "Good Grid",
+      "questionUrl": "https://codechef.com/problems/GOODGRID"
     }
   ],
   "basics": [
@@ -1662,6 +1667,11 @@
       "questionDate": "18/11/2021",
       "questionTitle": "Program Your Own CALCULATOR",
       "questionUrl": "https://codechef.com/problems/URCALC"
+    },
+    {
+      "questionDate": "19/11/2021",
+      "questionTitle": "Chef Chick",
+      "questionUrl": "https://codechef.com/problems/CHFCHK"
     }
   ],
   "beta": [
@@ -2494,6 +2504,11 @@
       "questionDate": "18/11/2021",
       "questionTitle": "Chef and Problems",
       "questionUrl": "https://codechef.com/problems/QCHEF"
+    },
+    {
+      "questionDate": "19/11/2021",
+      "questionTitle": "Box and Ball System",
+      "questionUrl": "https://codechef.com/problems/BBSYSTEM"
     }
   ]
 }
