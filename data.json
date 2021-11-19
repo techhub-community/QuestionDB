@@ -835,6 +835,11 @@
       "questionDate": "19/11/2021",
       "questionTitle": "Good Grid",
       "questionUrl": "https://codechef.com/problems/GOODGRID"
+    },
+    {
+      "questionDate": "20/11/2021",
+      "questionTitle": "Fly height mode",
+      "questionUrl": "https://codechef.com/problems/FLYMODE"
     }
   ],
   "basics": [
@@ -1672,6 +1677,11 @@
       "questionDate": "19/11/2021",
       "questionTitle": "Chef Chick",
       "questionUrl": "https://codechef.com/problems/CHFCHK"
+    },
+    {
+      "questionDate": "20/11/2021",
+      "questionTitle": "Chef and Friends",
+      "questionUrl": "https://codechef.com/problems/FRK"
     }
   ],
   "beta": [
@@ -2509,6 +2519,11 @@
       "questionDate": "19/11/2021",
       "questionTitle": "Box and Ball System",
       "questionUrl": "https://codechef.com/problems/BBSYSTEM"
+    },
+    {
+      "questionDate": "20/11/2021",
+      "questionTitle": "GCD Subsequences",
+      "questionUrl": "https://codechef.com/problems/GCDS"
     }
   ]
 }
