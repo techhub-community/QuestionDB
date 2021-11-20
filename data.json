@@ -840,6 +840,11 @@
       "questionDate": "20/11/2021",
       "questionTitle": "Fly height mode",
       "questionUrl": "https://codechef.com/problems/FLYMODE"
+    },
+    {
+      "questionDate": "21/11/2021",
+      "questionTitle": "Yet Another Balanced Parenthesis Problem",
+      "questionUrl": "https://codechef.com/problems/UNBAL"
     }
   ],
   "basics": [
@@ -1682,6 +1687,11 @@
       "questionDate": "20/11/2021",
       "questionTitle": "Chef and Friends",
       "questionUrl": "https://codechef.com/problems/FRK"
+    },
+    {
+      "questionDate": "21/11/2021",
+      "questionTitle": "Pintu and Fruits",
+      "questionUrl": "https://codechef.com/problems/CHPINTU"
     }
   ],
   "beta": [
@@ -2524,6 +2534,11 @@
       "questionDate": "20/11/2021",
       "questionTitle": "GCD Subsequences",
       "questionUrl": "https://codechef.com/problems/GCDS"
+    },
+    {
+      "questionDate": "21/11/2021",
+      "questionTitle": "Sereja and Arrays",
+      "questionUrl": "https://codechef.com/problems/SEARRAYS"
     }
   ]
 }
