@@ -845,6 +845,11 @@
       "questionDate": "21/11/2021",
       "questionTitle": "Yet Another Balanced Parenthesis Problem",
       "questionUrl": "https://codechef.com/problems/UNBAL"
+    },
+    {
+      "questionDate": "22/11/2021",
+      "questionTitle": "Hiring Test",
+      "questionUrl": "https://codechef.com/problems/HIRETEST"
     }
   ],
   "basics": [
@@ -1692,6 +1697,11 @@
       "questionDate": "21/11/2021",
       "questionTitle": "Pintu and Fruits",
       "questionUrl": "https://codechef.com/problems/CHPINTU"
+    },
+    {
+      "questionDate": "22/11/2021",
+      "questionTitle": "Chef and Card Game",
+      "questionUrl": "https://codechef.com/problems/CRDGAME"
     }
   ],
   "beta": [
@@ -2539,6 +2549,11 @@
       "questionDate": "21/11/2021",
       "questionTitle": "Sereja and Arrays",
       "questionUrl": "https://codechef.com/problems/SEARRAYS"
+    },
+    {
+      "questionDate": "22/11/2021",
+      "questionTitle": "Almost Friends",
+      "questionUrl": "https://codechef.com/problems/ALFRED"
     }
   ]
 }
