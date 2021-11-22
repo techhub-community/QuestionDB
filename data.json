@@ -850,6 +850,11 @@
       "questionDate": "22/11/2021",
       "questionTitle": "Hiring Test",
       "questionUrl": "https://codechef.com/problems/HIRETEST"
+    },
+    {
+      "questionDate": "23/11/2021",
+      "questionTitle": "Chef and Integers ",
+      "questionUrl": "https://codechef.com/problems/INTEG"
     }
   ],
   "basics": [
@@ -1702,6 +1707,11 @@
       "questionDate": "22/11/2021",
       "questionTitle": "Chef and Card Game",
       "questionUrl": "https://codechef.com/problems/CRDGAME"
+    },
+    {
+      "questionDate": "23/11/2021",
+      "questionTitle": "A Subtask Problem",
+      "questionUrl": "https://codechef.com/problems/SUBTASK"
     }
   ],
   "beta": [
@@ -2554,6 +2564,11 @@
       "questionDate": "22/11/2021",
       "questionTitle": "Almost Friends",
       "questionUrl": "https://codechef.com/problems/ALFRED"
+    },
+    {
+      "questionDate": "23/11/2021",
+      "questionTitle": "Devu and good strings",
+      "questionUrl": "https://codechef.com/problems/DEVGOSTR"
     }
   ]
 }
