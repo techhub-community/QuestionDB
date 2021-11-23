@@ -855,6 +855,11 @@
       "questionDate": "23/11/2021",
       "questionTitle": "Chef and Integers ",
       "questionUrl": "https://codechef.com/problems/INTEG"
+    },
+    {
+      "questionDate": "24/11/2021",
+      "questionTitle": "Malvika conducts a Programming Camp",
+      "questionUrl": "https://codechef.com/problems/CHN05"
     }
   ],
   "basics": [
@@ -1712,6 +1717,11 @@
       "questionDate": "23/11/2021",
       "questionTitle": "A Subtask Problem",
       "questionUrl": "https://codechef.com/problems/SUBTASK"
+    },
+    {
+      "questionDate": "24/11/2021",
+      "questionTitle": "Disabled King",
+      "questionUrl": "https://codechef.com/problems/DISABLEDKING"
     }
   ],
   "beta": [
@@ -2569,6 +2579,11 @@
       "questionDate": "23/11/2021",
       "questionTitle": "Devu and good strings",
       "questionUrl": "https://codechef.com/problems/DEVGOSTR"
+    },
+    {
+      "questionDate": "24/11/2021",
+      "questionTitle": "Squirrel and chestnut",
+      "questionUrl": "https://codechef.com/problems/SQUIRREL"
     }
   ]
 }
