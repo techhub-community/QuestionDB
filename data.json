@@ -860,6 +860,11 @@
       "questionDate": "24/11/2021",
       "questionTitle": "Malvika conducts a Programming Camp",
       "questionUrl": "https://codechef.com/problems/CHN05"
+    },
+    {
+      "questionDate": "25/11/2021",
+      "questionTitle": "Fencing",
+      "questionUrl": "https://codechef.com/problems/FENCE"
     }
   ],
   "basics": [
@@ -1722,6 +1727,11 @@
       "questionDate": "24/11/2021",
       "questionTitle": "Disabled King",
       "questionUrl": "https://codechef.com/problems/DISABLEDKING"
+    },
+    {
+      "questionDate": "25/11/2021",
+      "questionTitle": "Chef and Glove",
+      "questionUrl": "https://codechef.com/problems/CHEGLOVE"
     }
   ],
   "beta": [
@@ -2584,6 +2594,11 @@
       "questionDate": "24/11/2021",
       "questionTitle": "Squirrel and chestnut",
       "questionUrl": "https://codechef.com/problems/SQUIRREL"
+    },
+    {
+      "questionDate": "25/11/2021",
+      "questionTitle": "Cyclist Race",
+      "questionUrl": "https://codechef.com/problems/CYCLRACE"
     }
   ]
 }
