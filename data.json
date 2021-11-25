@@ -865,6 +865,11 @@
       "questionDate": "25/11/2021",
       "questionTitle": "Fencing",
       "questionUrl": "https://codechef.com/problems/FENCE"
+    },
+    {
+      "questionDate": "26/11/2021",
+      "questionTitle": "Chef and Cycled Cycles",
+      "questionUrl": "https://codechef.com/problems/CHEFCCYL"
     }
   ],
   "basics": [
@@ -1732,6 +1737,11 @@
       "questionDate": "25/11/2021",
       "questionTitle": "Chef and Glove",
       "questionUrl": "https://codechef.com/problems/CHEGLOVE"
+    },
+    {
+      "questionDate": "26/11/2021",
+      "questionTitle": "Smart Strategy",
+      "questionUrl": "https://codechef.com/problems/SMRSTR"
     }
   ],
   "beta": [
@@ -2599,6 +2609,11 @@
       "questionDate": "25/11/2021",
       "questionTitle": "Cyclist Race",
       "questionUrl": "https://codechef.com/problems/CYCLRACE"
+    },
+    {
+      "questionDate": "26/11/2021",
+      "questionTitle": "Collecting Magical Berries",
+      "questionUrl": "https://codechef.com/problems/COLLECT"
     }
   ]
 }
