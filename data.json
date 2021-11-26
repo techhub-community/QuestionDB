@@ -870,6 +870,11 @@
       "questionDate": "26/11/2021",
       "questionTitle": "Chef and Cycled Cycles",
       "questionUrl": "https://codechef.com/problems/CHEFCCYL"
+    },
+    {
+      "questionDate": "27/11/2021",
+      "questionTitle": "The New Scheme",
+      "questionUrl": "https://codechef.com/problems/NEWSCH"
     }
   ],
   "basics": [
@@ -1742,6 +1747,11 @@
       "questionDate": "26/11/2021",
       "questionTitle": "Smart Strategy",
       "questionUrl": "https://codechef.com/problems/SMRSTR"
+    },
+    {
+      "questionDate": "27/11/2021",
+      "questionTitle": "Finding Square Roots",
+      "questionUrl": "https://codechef.com/problems/FSQRT"
     }
   ],
   "beta": [
@@ -2614,6 +2624,11 @@
       "questionDate": "26/11/2021",
       "questionTitle": "Collecting Magical Berries",
       "questionUrl": "https://codechef.com/problems/COLLECT"
+    },
+    {
+      "questionDate": "27/11/2021",
+      "questionTitle": "Bored of Nim",
+      "questionUrl": "https://codechef.com/problems/ANKNIM2"
     }
   ]
 }
