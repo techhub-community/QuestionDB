@@ -875,6 +875,11 @@
       "questionDate": "27/11/2021",
       "questionTitle": "The New Scheme",
       "questionUrl": "https://codechef.com/problems/NEWSCH"
+    },
+    {
+      "questionDate": "28/11/2021",
+      "questionTitle": "Chef and Subarrays",
+      "questionUrl": "https://codechef.com/problems/CSUBS"
     }
   ],
   "basics": [
@@ -1752,6 +1757,11 @@
       "questionDate": "27/11/2021",
       "questionTitle": "Finding Square Roots",
       "questionUrl": "https://codechef.com/problems/FSQRT"
+    },
+    {
+      "questionDate": "28/11/2021",
+      "questionTitle": "Turn It",
+      "questionUrl": "https://codechef.com/problems/NFS"
     }
   ],
   "beta": [
@@ -2629,6 +2639,11 @@
       "questionDate": "27/11/2021",
       "questionTitle": "Bored of Nim",
       "questionUrl": "https://codechef.com/problems/ANKNIM2"
+    },
+    {
+      "questionDate": "28/11/2021",
+      "questionTitle": "Closest Ranking",
+      "questionUrl": "https://codechef.com/problems/VOTING"
     }
   ]
 }
