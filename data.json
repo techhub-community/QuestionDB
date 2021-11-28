@@ -880,6 +880,11 @@
       "questionDate": "28/11/2021",
       "questionTitle": "Chef and Subarrays",
       "questionUrl": "https://codechef.com/problems/CSUBS"
+    },
+    {
+      "questionDate": "29/11/2021",
+      "questionTitle": "Road Signs",
+      "questionUrl": "https://codechef.com/problems/RSIGNS"
     }
   ],
   "basics": [
@@ -1762,6 +1767,11 @@
       "questionDate": "28/11/2021",
       "questionTitle": "Turn It",
       "questionUrl": "https://codechef.com/problems/NFS"
+    },
+    {
+      "questionDate": "29/11/2021",
+      "questionTitle": "Distinct Pair Sums",
+      "questionUrl": "https://codechef.com/problems/MANYSUMS"
     }
   ],
   "beta": [
@@ -2644,6 +2654,11 @@
       "questionDate": "28/11/2021",
       "questionTitle": "Closest Ranking",
       "questionUrl": "https://codechef.com/problems/VOTING"
+    },
+    {
+      "questionDate": "29/11/2021",
+      "questionTitle": "Fossil in the Ice",
+      "questionUrl": "https://codechef.com/problems/TFOSS"
     }
   ]
 }
