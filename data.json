@@ -885,6 +885,11 @@
       "questionDate": "29/11/2021",
       "questionTitle": "Road Signs",
       "questionUrl": "https://codechef.com/problems/RSIGNS"
+    },
+    {
+      "questionDate": "30/11/2021",
+      "questionTitle": "Ross goes for Shopping",
+      "questionUrl": "https://codechef.com/problems/ENG5"
     }
   ],
   "basics": [
@@ -1772,6 +1777,11 @@
       "questionDate": "29/11/2021",
       "questionTitle": "Distinct Pair Sums",
       "questionUrl": "https://codechef.com/problems/MANYSUMS"
+    },
+    {
+      "questionDate": "30/11/2021",
+      "questionTitle": "Chef and Coupon",
+      "questionUrl": "https://codechef.com/problems/COUPON2"
     }
   ],
   "beta": [
@@ -2659,6 +2669,11 @@
       "questionDate": "29/11/2021",
       "questionTitle": "Fossil in the Ice",
       "questionUrl": "https://codechef.com/problems/TFOSS"
+    },
+    {
+      "questionDate": "30/11/2021",
+      "questionTitle": "Weak in the Middle",
+      "questionUrl": "https://codechef.com/problems/WEAKMID"
     }
   ]
 }
