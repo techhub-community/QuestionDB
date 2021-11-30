@@ -890,6 +890,11 @@
       "questionDate": "30/11/2021",
       "questionTitle": "Ross goes for Shopping",
       "questionUrl": "https://codechef.com/problems/ENG5"
+    },
+    {
+      "questionDate": "01/12/2021",
+      "questionTitle": "Chef and Meatballs",
+      "questionUrl": "https://codechef.com/problems/COMAS"
     }
   ],
   "basics": [
@@ -1782,6 +1787,11 @@
       "questionDate": "30/11/2021",
       "questionTitle": "Chef and Coupon",
       "questionUrl": "https://codechef.com/problems/COUPON2"
+    },
+    {
+      "questionDate": "01/12/2021",
+      "questionTitle": "Chef And Salary Pay",
+      "questionUrl": "https://codechef.com/problems/HCAGMAM1"
     }
   ],
   "beta": [
@@ -2674,6 +2684,11 @@
       "questionDate": "30/11/2021",
       "questionTitle": "Weak in the Middle",
       "questionUrl": "https://codechef.com/problems/WEAKMID"
+    },
+    {
+      "questionDate": "01/12/2021",
+      "questionTitle": "Bear and Random Grid",
+      "questionUrl": "https://codechef.com/problems/RNDGRID"
     }
   ]
 }
