@@ -895,6 +895,11 @@
       "questionDate": "01/12/2021",
       "questionTitle": "Chef and Meatballs",
       "questionUrl": "https://codechef.com/problems/COMAS"
+    },
+    {
+      "questionDate": "02/12/2021",
+      "questionTitle": "Positive AND",
+      "questionUrl": "https://codechef.com/problems/POSAND"
     }
   ],
   "basics": [
@@ -1792,6 +1797,11 @@
       "questionDate": "01/12/2021",
       "questionTitle": "Chef And Salary Pay",
       "questionUrl": "https://codechef.com/problems/HCAGMAM1"
+    },
+    {
+      "questionDate": "02/12/2021",
+      "questionTitle": "Judging Delay",
+      "questionUrl": "https://codechef.com/problems/JDELAY"
     }
   ],
   "beta": [
@@ -2689,6 +2699,11 @@
       "questionDate": "01/12/2021",
       "questionTitle": "Bear and Random Grid",
       "questionUrl": "https://codechef.com/problems/RNDGRID"
+    },
+    {
+      "questionDate": "02/12/2021",
+      "questionTitle": "Swap Sort",
+      "questionUrl": "https://codechef.com/problems/ICM2005"
     }
   ]
 }
