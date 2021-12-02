@@ -900,6 +900,11 @@
       "questionDate": "02/12/2021",
       "questionTitle": "Positive AND",
       "questionUrl": "https://codechef.com/problems/POSAND"
+    },
+    {
+      "questionDate": "03/12/2021",
+      "questionTitle": "Byteknights and Byteknaves",
+      "questionUrl": "https://codechef.com/problems/BYTEISLE"
     }
   ],
   "basics": [
@@ -1802,6 +1807,11 @@
       "questionDate": "02/12/2021",
       "questionTitle": "Judging Delay",
       "questionUrl": "https://codechef.com/problems/JDELAY"
+    },
+    {
+      "questionDate": "03/12/2021",
+      "questionTitle": "Red Alert",
+      "questionUrl": "https://codechef.com/problems/REDALERT"
     }
   ],
   "beta": [
@@ -2704,6 +2714,11 @@
       "questionDate": "02/12/2021",
       "questionTitle": "Swap Sort",
       "questionUrl": "https://codechef.com/problems/ICM2005"
+    },
+    {
+      "questionDate": "03/12/2021",
+      "questionTitle": "Carry Bed",
+      "questionUrl": "https://codechef.com/problems/EZRMQ"
     }
   ]
 }
