@@ -905,6 +905,11 @@
       "questionDate": "03/12/2021",
       "questionTitle": "Byteknights and Byteknaves",
       "questionUrl": "https://codechef.com/problems/BYTEISLE"
+    },
+    {
+      "questionDate": "04/12/2021",
+      "questionTitle": "Cheating Time",
+      "questionUrl": "https://codechef.com/problems/CTIME"
     }
   ],
   "basics": [
@@ -1812,6 +1817,11 @@
       "questionDate": "03/12/2021",
       "questionTitle": "Red Alert",
       "questionUrl": "https://codechef.com/problems/REDALERT"
+    },
+    {
+      "questionDate": "04/12/2021",
+      "questionTitle": "Tickets",
+      "questionUrl": "https://codechef.com/problems/TICKETS5"
     }
   ],
   "beta": [
@@ -2719,6 +2729,11 @@
       "questionDate": "03/12/2021",
       "questionTitle": "Carry Bed",
       "questionUrl": "https://codechef.com/problems/EZRMQ"
+    },
+    {
+      "questionDate": "04/12/2021",
+      "questionTitle": "Lucky Ali",
+      "questionUrl": "https://codechef.com/problems/LCKALI"
     }
   ]
 }
