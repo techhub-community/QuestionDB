@@ -910,6 +910,11 @@
       "questionDate": "04/12/2021",
       "questionTitle": "Cheating Time",
       "questionUrl": "https://codechef.com/problems/CTIME"
+    },
+    {
+      "questionDate": "05/12/2021",
+      "questionTitle": "Chef and Deque",
+      "questionUrl": "https://codechef.com/problems/CHEFDQE"
     }
   ],
   "basics": [
@@ -1822,6 +1827,11 @@
       "questionDate": "04/12/2021",
       "questionTitle": "Tickets",
       "questionUrl": "https://codechef.com/problems/TICKETS5"
+    },
+    {
+      "questionDate": "05/12/2021",
+      "questionTitle": "Truth and Dare",
+      "questionUrl": "https://codechef.com/problems/TRUEDARE"
     }
   ],
   "beta": [
@@ -2734,6 +2744,11 @@
       "questionDate": "04/12/2021",
       "questionTitle": "Lucky Ali",
       "questionUrl": "https://codechef.com/problems/LCKALI"
+    },
+    {
+      "questionDate": "05/12/2021",
+      "questionTitle": "Data Pipelines",
+      "questionUrl": "https://codechef.com/problems/DATAPIPE"
     }
   ]
 }
