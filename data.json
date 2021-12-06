@@ -920,6 +920,11 @@
       "questionDate": "06/12/2021",
       "questionTitle": "Sums in a cuboid",
       "questionUrl": "https://codechef.com/problems/CUBESUM"
+    },
+    {
+      "questionDate": "07/12/2021",
+      "questionTitle": "Superpowers of 2",
+      "questionUrl": "https://codechef.com/problems/SPOTWO"
     }
   ],
   "basics": [
@@ -1842,6 +1847,11 @@
       "questionDate": "06/12/2021",
       "questionTitle": "Fake GCD",
       "questionUrl": "https://codechef.com/problems/FAKEGCD"
+    },
+    {
+      "questionDate": "07/12/2021",
+      "questionTitle": "Movie Weekend",
+      "questionUrl": "https://codechef.com/problems/MOVIEWKN"
     }
   ],
   "beta": [
@@ -2764,6 +2774,11 @@
       "questionDate": "06/12/2021",
       "questionTitle": "Level Of Difference",
       "questionUrl": "https://codechef.com/problems/TASTR"
+    },
+    {
+      "questionDate": "07/12/2021",
+      "questionTitle": "A Wonderful Chocolate",
+      "questionUrl": "https://codechef.com/problems/CBARS"
     }
   ]
 }
