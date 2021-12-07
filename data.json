@@ -925,6 +925,11 @@
       "questionDate": "07/12/2021",
       "questionTitle": "Superpowers of 2",
       "questionUrl": "https://codechef.com/problems/SPOTWO"
+    },
+    {
+      "questionDate": "08/12/2021",
+      "questionTitle": "Beautiful Garland",
+      "questionUrl": "https://codechef.com/problems/BEAUTGAR"
     }
   ],
   "basics": [
@@ -1852,6 +1857,11 @@
       "questionDate": "07/12/2021",
       "questionTitle": "Movie Weekend",
       "questionUrl": "https://codechef.com/problems/MOVIEWKN"
+    },
+    {
+      "questionDate": "08/12/2021",
+      "questionTitle": "Reverse The Number",
+      "questionUrl": "https://codechef.com/problems/FLOW007"
     }
   ],
   "beta": [
@@ -2779,6 +2789,11 @@
       "questionDate": "07/12/2021",
       "questionTitle": "A Wonderful Chocolate",
       "questionUrl": "https://codechef.com/problems/CBARS"
+    },
+    {
+      "questionDate": "08/12/2021",
+      "questionTitle": "Locked Safe",
+      "questionUrl": "https://codechef.com/problems/LCKDSAFE"
     }
   ]
 }
