@@ -930,6 +930,11 @@
       "questionDate": "08/12/2021",
       "questionTitle": "Beautiful Garland",
       "questionUrl": "https://codechef.com/problems/BEAUTGAR"
+    },
+    {
+      "questionDate": "09/12/2021",
+      "questionTitle": "Is It a Snake",
+      "questionUrl": "https://codechef.com/problems/ISSNAKE"
     }
   ],
   "basics": [
@@ -1862,6 +1867,11 @@
       "questionDate": "08/12/2021",
       "questionTitle": "Reverse The Number",
       "questionUrl": "https://codechef.com/problems/FLOW007"
+    },
+    {
+      "questionDate": "09/12/2021",
+      "questionTitle": "Bodybuilder",
+      "questionUrl": "https://codechef.com/problems/BUILDB"
     }
   ],
   "beta": [
@@ -2794,6 +2804,11 @@
       "questionDate": "08/12/2021",
       "questionTitle": "Locked Safe",
       "questionUrl": "https://codechef.com/problems/LCKDSAFE"
+    },
+    {
+      "questionDate": "09/12/2021",
+      "questionTitle": "K-th Element on Grid",
+      "questionUrl": "https://codechef.com/problems/KTHGRID"
     }
   ]
 }
