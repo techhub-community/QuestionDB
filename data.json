@@ -935,6 +935,11 @@
       "questionDate": "09/12/2021",
       "questionTitle": "Is It a Snake",
       "questionUrl": "https://codechef.com/problems/ISSNAKE"
+    },
+    {
+      "questionDate": "10/12/2021",
+      "questionTitle": "Little Elephant and Mouses",
+      "questionUrl": "https://codechef.com/problems/LEMOUSE"
     }
   ],
   "basics": [
@@ -1872,6 +1877,11 @@
       "questionDate": "09/12/2021",
       "questionTitle": "Bodybuilder",
       "questionUrl": "https://codechef.com/problems/BUILDB"
+    },
+    {
+      "questionDate": "10/12/2021",
+      "questionTitle": "Task for Alexey",
+      "questionUrl": "https://codechef.com/problems/ALEXTASK"
     }
   ],
   "beta": [
@@ -2809,6 +2819,11 @@
       "questionDate": "09/12/2021",
       "questionTitle": "K-th Element on Grid",
       "questionUrl": "https://codechef.com/problems/KTHGRID"
+    },
+    {
+      "questionDate": "10/12/2021",
+      "questionTitle": "Chef and Numbers",
+      "questionUrl": "https://codechef.com/problems/CHEFINS"
     }
   ]
 }
