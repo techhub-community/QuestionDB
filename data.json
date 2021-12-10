@@ -940,6 +940,11 @@
       "questionDate": "10/12/2021",
       "questionTitle": "Little Elephant and Mouses",
       "questionUrl": "https://codechef.com/problems/LEMOUSE"
+    },
+    {
+      "questionDate": "11/12/2021",
+      "questionTitle": "Fighting Armies",
+      "questionUrl": "https://codechef.com/problems/ARMYFGT"
     }
   ],
   "basics": [
@@ -1882,6 +1887,11 @@
       "questionDate": "10/12/2021",
       "questionTitle": "Task for Alexey",
       "questionUrl": "https://codechef.com/problems/ALEXTASK"
+    },
+    {
+      "questionDate": "11/12/2021",
+      "questionTitle": "Chess Match",
+      "questionUrl": "https://codechef.com/problems/BLITZ3_2"
     }
   ],
   "beta": [
@@ -2824,6 +2834,11 @@
       "questionDate": "10/12/2021",
       "questionTitle": "Chef and Numbers",
       "questionUrl": "https://codechef.com/problems/CHEFINS"
+    },
+    {
+      "questionDate": "11/12/2021",
+      "questionTitle": "Chefina and Prefix Suffix Sums",
+      "questionUrl": "https://codechef.com/problems/CHEFPSA"
     }
   ]
 }
