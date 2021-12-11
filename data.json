@@ -945,6 +945,11 @@
       "questionDate": "11/12/2021",
       "questionTitle": "Fighting Armies",
       "questionUrl": "https://codechef.com/problems/ARMYFGT"
+    },
+    {
+      "questionDate": "12/12/2021",
+      "questionTitle": "Lucky Long",
+      "questionUrl": "https://codechef.com/problems/LUCKY5"
     }
   ],
   "basics": [
@@ -1892,6 +1897,11 @@
       "questionDate": "11/12/2021",
       "questionTitle": "Chess Match",
       "questionUrl": "https://codechef.com/problems/BLITZ3_2"
+    },
+    {
+      "questionDate": "12/12/2021",
+      "questionTitle": "RCB and Playoffs",
+      "questionUrl": "https://codechef.com/problems/RCBPLAY"
     }
   ],
   "beta": [
@@ -2839,6 +2849,11 @@
       "questionDate": "11/12/2021",
       "questionTitle": "Chefina and Prefix Suffix Sums",
       "questionUrl": "https://codechef.com/problems/CHEFPSA"
+    },
+    {
+      "questionDate": "12/12/2021",
+      "questionTitle": "Chefs Bad Day",
+      "questionUrl": "https://codechef.com/problems/GRIDCHEF"
     }
   ]
 }
