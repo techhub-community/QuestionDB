@@ -950,6 +950,11 @@
       "questionDate": "12/12/2021",
       "questionTitle": "Lucky Long",
       "questionUrl": "https://codechef.com/problems/LUCKY5"
+    },
+    {
+      "questionDate": "13/12/2021",
+      "questionTitle": "Sebi and the cube",
+      "questionUrl": "https://codechef.com/problems/SECUBE"
     }
   ],
   "basics": [
@@ -1902,6 +1907,11 @@
       "questionDate": "12/12/2021",
       "questionTitle": "RCB and Playoffs",
       "questionUrl": "https://codechef.com/problems/RCBPLAY"
+    },
+    {
+      "questionDate": "13/12/2021",
+      "questionTitle": "Chef and digits of a number",
+      "questionUrl": "https://codechef.com/problems/LONGSEQ"
     }
   ],
   "beta": [
@@ -2854,6 +2864,11 @@
       "questionDate": "12/12/2021",
       "questionTitle": "Chefs Bad Day",
       "questionUrl": "https://codechef.com/problems/GRIDCHEF"
+    },
+    {
+      "questionDate": "13/12/2021",
+      "questionTitle": "Chef and Modular Sequence",
+      "questionUrl": "https://codechef.com/problems/CHEFMOD"
     }
   ]
 }
