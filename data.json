@@ -955,6 +955,11 @@
       "questionDate": "13/12/2021",
       "questionTitle": "Sebi and the cube",
       "questionUrl": "https://codechef.com/problems/SECUBE"
+    },
+    {
+      "questionDate": "14/12/2021",
+      "questionTitle": "OR Matrix",
+      "questionUrl": "https://codechef.com/problems/ORMATRIX"
     }
   ],
   "basics": [
@@ -1912,6 +1917,11 @@
       "questionDate": "13/12/2021",
       "questionTitle": "Chef and digits of a number",
       "questionUrl": "https://codechef.com/problems/LONGSEQ"
+    },
+    {
+      "questionDate": "14/12/2021",
+      "questionTitle": "Entrance Exam",
+      "questionUrl": "https://codechef.com/problems/ENTEXAM"
     }
   ],
   "beta": [
@@ -2869,6 +2879,11 @@
       "questionDate": "13/12/2021",
       "questionTitle": "Chef and Modular Sequence",
       "questionUrl": "https://codechef.com/problems/CHEFMOD"
+    },
+    {
+      "questionDate": "14/12/2021",
+      "questionTitle": "Palindrome Palindrome",
+      "questionUrl": "https://codechef.com/problems/PALIPALI"
     }
   ]
 }
