@@ -960,6 +960,11 @@
       "questionDate": "14/12/2021",
       "questionTitle": "OR Matrix",
       "questionUrl": "https://codechef.com/problems/ORMATRIX"
+    },
+    {
+      "questionDate": "15/12/2021",
+      "questionTitle": "Two Circles",
+      "questionUrl": "https://codechef.com/problems/CIRCLES2"
     }
   ],
   "basics": [
@@ -1922,6 +1927,11 @@
       "questionDate": "14/12/2021",
       "questionTitle": "Entrance Exam",
       "questionUrl": "https://codechef.com/problems/ENTEXAM"
+    },
+    {
+      "questionDate": "15/12/2021",
+      "questionTitle": "Chess Format",
+      "questionUrl": "https://codechef.com/problems/CHSFORMT"
     }
   ],
   "beta": [
@@ -2884,6 +2894,11 @@
       "questionDate": "14/12/2021",
       "questionTitle": "Palindrome Palindrome",
       "questionUrl": "https://codechef.com/problems/PALIPALI"
+    },
+    {
+      "questionDate": "15/12/2021",
+      "questionTitle": "SudokuX",
+      "questionUrl": "https://codechef.com/problems/J1"
     }
   ]
 }
