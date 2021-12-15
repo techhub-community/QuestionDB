@@ -965,6 +965,11 @@
       "questionDate": "15/12/2021",
       "questionTitle": "Two Circles",
       "questionUrl": "https://codechef.com/problems/CIRCLES2"
+    },
+    {
+      "questionDate": "16/12/2021",
+      "questionTitle": "Counting Inversions Revisited",
+      "questionUrl": "https://codechef.com/problems/INVYCNT"
     }
   ],
   "basics": [
@@ -1932,6 +1937,11 @@
       "questionDate": "15/12/2021",
       "questionTitle": "Chess Format",
       "questionUrl": "https://codechef.com/problems/CHSFORMT"
+    },
+    {
+      "questionDate": "16/12/2021",
+      "questionTitle": "Testing Robot",
+      "questionUrl": "https://codechef.com/problems/TSTROBOT"
     }
   ],
   "beta": [
@@ -2899,6 +2909,11 @@
       "questionDate": "15/12/2021",
       "questionTitle": "SudokuX",
       "questionUrl": "https://codechef.com/problems/J1"
+    },
+    {
+      "questionDate": "16/12/2021",
+      "questionTitle": "Lucy and the Math Analysis",
+      "questionUrl": "https://codechef.com/problems/LMA1"
     }
   ]
 }
