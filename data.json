@@ -970,6 +970,11 @@
       "questionDate": "16/12/2021",
       "questionTitle": "Counting Inversions Revisited",
       "questionUrl": "https://codechef.com/problems/INVYCNT"
+    },
+    {
+      "questionDate": "17/12/2021",
+      "questionTitle": "The Biggest Restaurant",
+      "questionUrl": "https://codechef.com/problems/BIGRES"
     }
   ],
   "basics": [
@@ -1942,6 +1947,11 @@
       "questionDate": "16/12/2021",
       "questionTitle": "Testing Robot",
       "questionUrl": "https://codechef.com/problems/TSTROBOT"
+    },
+    {
+      "questionDate": "17/12/2021",
+      "questionTitle": "Discount in a Shop",
+      "questionUrl": "https://codechef.com/problems/DISCSHOP"
     }
   ],
   "beta": [
@@ -2914,6 +2924,11 @@
       "questionDate": "16/12/2021",
       "questionTitle": "Lucy and the Math Analysis",
       "questionUrl": "https://codechef.com/problems/LMA1"
+    },
+    {
+      "questionDate": "17/12/2021",
+      "questionTitle": "Mountain Holidays 2",
+      "questionUrl": "https://codechef.com/problems/MOU2H"
     }
   ]
 }
