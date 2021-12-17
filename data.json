@@ -975,6 +975,11 @@
       "questionDate": "17/12/2021",
       "questionTitle": "The Biggest Restaurant",
       "questionUrl": "https://codechef.com/problems/BIGRES"
+    },
+    {
+      "questionDate": "18/12/2021",
+      "questionTitle": "Malvika conducts her own ACM-ICPC contest series",
+      "questionUrl": "https://codechef.com/problems/CHN01"
     }
   ],
   "basics": [
@@ -1952,6 +1957,11 @@
       "questionDate": "17/12/2021",
       "questionTitle": "Discount in a Shop",
       "questionUrl": "https://codechef.com/problems/DISCSHOP"
+    },
+    {
+      "questionDate": "18/12/2021",
+      "questionTitle": "Bowling Strategy",
+      "questionUrl": "https://codechef.com/problems/BOWLERS"
     }
   ],
   "beta": [
@@ -2929,6 +2939,11 @@
       "questionDate": "17/12/2021",
       "questionTitle": "Mountain Holidays 2",
       "questionUrl": "https://codechef.com/problems/MOU2H"
+    },
+    {
+      "questionDate": "18/12/2021",
+      "questionTitle": "Sorter Prodigy",
+      "questionUrl": "https://codechef.com/problems/MINMAXSWAP"
     }
   ]
 }
