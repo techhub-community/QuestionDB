@@ -980,6 +980,11 @@
       "questionDate": "18/12/2021",
       "questionTitle": "Malvika conducts her own ACM-ICPC contest series",
       "questionUrl": "https://codechef.com/problems/CHN01"
+    },
+    {
+      "questionDate": "19/12/2021",
+      "questionTitle": "ChefTown Parade",
+      "questionUrl": "https://codechef.com/problems/CHEFTOWN"
     }
   ],
   "basics": [
@@ -1962,6 +1967,11 @@
       "questionDate": "18/12/2021",
       "questionTitle": "Bowling Strategy",
       "questionUrl": "https://codechef.com/problems/BOWLERS"
+    },
+    {
+      "questionDate": "19/12/2021",
+      "questionTitle": "Coder Life Matters",
+      "questionUrl": "https://codechef.com/problems/CODERLIF"
     }
   ],
   "beta": [
@@ -2944,6 +2954,11 @@
       "questionDate": "18/12/2021",
       "questionTitle": "Sorter Prodigy",
       "questionUrl": "https://codechef.com/problems/MINMAXSWAP"
+    },
+    {
+      "questionDate": "19/12/2021",
+      "questionTitle": "Minimize the Distance",
+      "questionUrl": "https://codechef.com/problems/MINDIST"
     }
   ]
 }
