@@ -985,6 +985,11 @@
       "questionDate": "19/12/2021",
       "questionTitle": "ChefTown Parade",
       "questionUrl": "https://codechef.com/problems/CHEFTOWN"
+    },
+    {
+      "questionDate": "20/12/2021",
+      "questionTitle": "The Rumbling",
+      "questionUrl": "https://codechef.com/problems/RUMBLING"
     }
   ],
   "basics": [
@@ -1972,6 +1977,11 @@
       "questionDate": "19/12/2021",
       "questionTitle": "Coder Life Matters",
       "questionUrl": "https://codechef.com/problems/CODERLIF"
+    },
+    {
+      "questionDate": "20/12/2021",
+      "questionTitle": "Chef Feeds Cats",
+      "questionUrl": "https://codechef.com/problems/CATFEED"
     }
   ],
   "beta": [
@@ -2959,6 +2969,11 @@
       "questionDate": "19/12/2021",
       "questionTitle": "Minimize the Distance",
       "questionUrl": "https://codechef.com/problems/MINDIST"
+    },
+    {
+      "questionDate": "20/12/2021",
+      "questionTitle": "The Chosen One",
+      "questionUrl": "https://codechef.com/problems/KGCD"
     }
   ]
 }
