@@ -990,6 +990,11 @@
       "questionDate": "20/12/2021",
       "questionTitle": "The Rumbling",
       "questionUrl": "https://codechef.com/problems/RUMBLING"
+    },
+    {
+      "questionDate": "21/12/2021",
+      "questionTitle": "Partition the numbers",
+      "questionUrl": "https://codechef.com/problems/PRTITION"
     }
   ],
   "basics": [
@@ -1982,6 +1987,11 @@
       "questionDate": "20/12/2021",
       "questionTitle": "Chef Feeds Cats",
       "questionUrl": "https://codechef.com/problems/CATFEED"
+    },
+    {
+      "questionDate": "21/12/2021",
+      "questionTitle": "Average Flex",
+      "questionUrl": "https://codechef.com/problems/AVGFLEX"
     }
   ],
   "beta": [
@@ -2974,6 +2984,11 @@
       "questionDate": "20/12/2021",
       "questionTitle": "The Chosen One",
       "questionUrl": "https://codechef.com/problems/KGCD"
+    },
+    {
+      "questionDate": "21/12/2021",
+      "questionTitle": "Across the River",
+      "questionUrl": "https://codechef.com/problems/RIVPILE"
     }
   ]
 }
