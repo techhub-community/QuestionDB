@@ -995,6 +995,11 @@
       "questionDate": "21/12/2021",
       "questionTitle": "Partition the numbers",
       "questionUrl": "https://codechef.com/problems/PRTITION"
+    },
+    {
+      "questionDate": "22/12/2021",
+      "questionTitle": "Bear and Extra Number",
+      "questionUrl": "https://codechef.com/problems/EXTRAN"
     }
   ],
   "basics": [
@@ -1992,6 +1997,11 @@
       "questionDate": "21/12/2021",
       "questionTitle": "Average Flex",
       "questionUrl": "https://codechef.com/problems/AVGFLEX"
+    },
+    {
+      "questionDate": "22/12/2021",
+      "questionTitle": "Split the Str Ing",
+      "questionUrl": "https://codechef.com/problems/SPLITIT"
     }
   ],
   "beta": [
@@ -2989,6 +2999,11 @@
       "questionDate": "21/12/2021",
       "questionTitle": "Across the River",
       "questionUrl": "https://codechef.com/problems/RIVPILE"
+    },
+    {
+      "questionDate": "22/12/2021",
+      "questionTitle": "Expected Buildings",
+      "questionUrl": "https://codechef.com/problems/BUILDIT"
     }
   ]
 }
