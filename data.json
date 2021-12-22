@@ -1000,6 +1000,11 @@
       "questionDate": "22/12/2021",
       "questionTitle": "Bear and Extra Number",
       "questionUrl": "https://codechef.com/problems/EXTRAN"
+    },
+    {
+      "questionDate": "23/12/2021",
+      "questionTitle": "String Merging",
+      "questionUrl": "https://codechef.com/problems/STRMRG"
     }
   ],
   "basics": [
@@ -2002,6 +2007,11 @@
       "questionDate": "22/12/2021",
       "questionTitle": "Split the Str Ing",
       "questionUrl": "https://codechef.com/problems/SPLITIT"
+    },
+    {
+      "questionDate": "23/12/2021",
+      "questionTitle": "Chef and Secret Ingredient",
+      "questionUrl": "https://codechef.com/problems/PCJ18A"
     }
   ],
   "beta": [
@@ -3004,6 +3014,11 @@
       "questionDate": "22/12/2021",
       "questionTitle": "Expected Buildings",
       "questionUrl": "https://codechef.com/problems/BUILDIT"
+    },
+    {
+      "questionDate": "23/12/2021",
+      "questionTitle": "The Most Amazing Dish",
+      "questionUrl": "https://codechef.com/problems/TWOARR"
     }
   ]
 }
