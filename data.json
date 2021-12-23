@@ -1005,6 +1005,11 @@
       "questionDate": "23/12/2021",
       "questionTitle": "String Merging",
       "questionUrl": "https://codechef.com/problems/STRMRG"
+    },
+    {
+      "questionDate": "24/12/2021",
+      "questionTitle": "Three Letters",
+      "questionUrl": "https://codechef.com/problems/THREE"
     }
   ],
   "basics": [
@@ -2012,6 +2017,11 @@
       "questionDate": "23/12/2021",
       "questionTitle": "Chef and Secret Ingredient",
       "questionUrl": "https://codechef.com/problems/PCJ18A"
+    },
+    {
+      "questionDate": "24/12/2021",
+      "questionTitle": "Chef and Linear Chess",
+      "questionUrl": "https://codechef.com/problems/LINCHESS"
     }
   ],
   "beta": [
@@ -3019,6 +3029,11 @@
       "questionDate": "23/12/2021",
       "questionTitle": "The Most Amazing Dish",
       "questionUrl": "https://codechef.com/problems/TWOARR"
+    },
+    {
+      "questionDate": "24/12/2021",
+      "questionTitle": "A Game With a Sheet of Paper",
+      "questionUrl": "https://codechef.com/problems/SHGAME"
     }
   ]
 }
