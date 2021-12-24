@@ -1010,6 +1010,11 @@
       "questionDate": "24/12/2021",
       "questionTitle": "Three Letters",
       "questionUrl": "https://codechef.com/problems/THREE"
+    },
+    {
+      "questionDate": "25/12/2021",
+      "questionTitle": "Tree Permutations",
+      "questionUrl": "https://codechef.com/problems/TREEPERM"
     }
   ],
   "basics": [
@@ -2022,6 +2027,11 @@
       "questionDate": "24/12/2021",
       "questionTitle": "Chef and Linear Chess",
       "questionUrl": "https://codechef.com/problems/LINCHESS"
+    },
+    {
+      "questionDate": "25/12/2021",
+      "questionTitle": "Say No To Drugs",
+      "questionUrl": "https://codechef.com/problems/NODRUGS"
     }
   ],
   "beta": [
@@ -3034,6 +3044,11 @@
       "questionDate": "24/12/2021",
       "questionTitle": "A Game With a Sheet of Paper",
       "questionUrl": "https://codechef.com/problems/SHGAME"
+    },
+    {
+      "questionDate": "25/12/2021",
+      "questionTitle": "Sharing Candies",
+      "questionUrl": "https://codechef.com/problems/GIVCANDY"
     }
   ]
 }
