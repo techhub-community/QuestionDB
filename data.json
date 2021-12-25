@@ -1015,6 +1015,11 @@
       "questionDate": "25/12/2021",
       "questionTitle": "Tree Permutations",
       "questionUrl": "https://codechef.com/problems/TREEPERM"
+    },
+    {
+      "questionDate": "26/12/2021",
+      "questionTitle": "Maximum AND",
+      "questionUrl": "https://codechef.com/problems/MAXAND18"
     }
   ],
   "basics": [
@@ -2032,6 +2037,11 @@
       "questionDate": "25/12/2021",
       "questionTitle": "Say No To Drugs",
       "questionUrl": "https://codechef.com/problems/NODRUGS"
+    },
+    {
+      "questionDate": "26/12/2021",
+      "questionTitle": "Find Remainder",
+      "questionUrl": "https://codechef.com/problems/FLOW002"
     }
   ],
   "beta": [
@@ -3049,6 +3059,11 @@
       "questionDate": "25/12/2021",
       "questionTitle": "Sharing Candies",
       "questionUrl": "https://codechef.com/problems/GIVCANDY"
+    },
+    {
+      "questionDate": "26/12/2021",
+      "questionTitle": "Xor Table",
+      "questionUrl": "https://codechef.com/problems/XORTABLE"
     }
   ]
 }
