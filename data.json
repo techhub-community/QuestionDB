@@ -1020,6 +1020,11 @@
       "questionDate": "26/12/2021",
       "questionTitle": "Maximum AND",
       "questionUrl": "https://codechef.com/problems/MAXAND18"
+    },
+    {
+      "questionDate": "27/12/2021",
+      "questionTitle": "A-E Hash Function",
+      "questionUrl": "https://codechef.com/problems/AEHASH"
     }
   ],
   "basics": [
@@ -2042,6 +2047,11 @@
       "questionDate": "26/12/2021",
       "questionTitle": "Find Remainder",
       "questionUrl": "https://codechef.com/problems/FLOW002"
+    },
+    {
+      "questionDate": "27/12/2021",
+      "questionTitle": "Which Fuel is Cheaper",
+      "questionUrl": "https://codechef.com/problems/CHEAPFUEL"
     }
   ],
   "beta": [
@@ -3064,6 +3074,11 @@
       "questionDate": "26/12/2021",
       "questionTitle": "Xor Table",
       "questionUrl": "https://codechef.com/problems/XORTABLE"
+    },
+    {
+      "questionDate": "27/12/2021",
+      "questionTitle": "To add or to multiply game",
+      "questionUrl": "https://codechef.com/problems/ADDMULT"
     }
   ]
 }
