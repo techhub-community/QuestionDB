@@ -1025,6 +1025,11 @@
       "questionDate": "27/12/2021",
       "questionTitle": "A-E Hash Function",
       "questionUrl": "https://codechef.com/problems/AEHASH"
+    },
+    {
+      "questionDate": "28/12/2021",
+      "questionTitle": "Longest Spanning Substrings",
+      "questionUrl": "https://codechef.com/problems/LNGSUB"
     }
   ],
   "basics": [
@@ -2052,6 +2057,11 @@
       "questionDate": "27/12/2021",
       "questionTitle": "Which Fuel is Cheaper",
       "questionUrl": "https://codechef.com/problems/CHEAPFUEL"
+    },
+    {
+      "questionDate": "28/12/2021",
+      "questionTitle": "Trace of Matrix",
+      "questionUrl": "https://codechef.com/problems/TRACE"
     }
   ],
   "beta": [
@@ -3079,6 +3089,11 @@
       "questionDate": "27/12/2021",
       "questionTitle": "To add or to multiply game",
       "questionUrl": "https://codechef.com/problems/ADDMULT"
+    },
+    {
+      "questionDate": "28/12/2021",
+      "questionTitle": "Logging Game",
+      "questionUrl": "https://codechef.com/problems/LOGGERS"
     }
   ]
 }
