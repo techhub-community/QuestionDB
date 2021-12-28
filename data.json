@@ -1030,6 +1030,11 @@
       "questionDate": "28/12/2021",
       "questionTitle": "Longest Spanning Substrings",
       "questionUrl": "https://codechef.com/problems/LNGSUB"
+    },
+    {
+      "questionDate": "29/12/2021",
+      "questionTitle": "Chef vs Bharat",
+      "questionUrl": "https://codechef.com/problems/CHEFORA"
     }
   ],
   "basics": [
@@ -2062,6 +2067,11 @@
       "questionDate": "28/12/2021",
       "questionTitle": "Trace of Matrix",
       "questionUrl": "https://codechef.com/problems/TRACE"
+    },
+    {
+      "questionDate": "29/12/2021",
+      "questionTitle": "Devu and an Array",
+      "questionUrl": "https://codechef.com/problems/DEVARRAY"
     }
   ],
   "beta": [
@@ -3094,6 +3104,11 @@
       "questionDate": "28/12/2021",
       "questionTitle": "Logging Game",
       "questionUrl": "https://codechef.com/problems/LOGGERS"
+    },
+    {
+      "questionDate": "29/12/2021",
+      "questionTitle": "Little Elephant and Swapping",
+      "questionUrl": "https://codechef.com/problems/LUCKYSWP"
     }
   ]
 }
