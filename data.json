@@ -1035,6 +1035,11 @@
       "questionDate": "29/12/2021",
       "questionTitle": "Chef vs Bharat",
       "questionUrl": "https://codechef.com/problems/CHEFORA"
+    },
+    {
+      "questionDate": "30/12/2021",
+      "questionTitle": "Obstacle Course",
+      "questionUrl": "https://codechef.com/problems/COURSE"
     }
   ],
   "basics": [
@@ -2072,6 +2077,11 @@
       "questionDate": "29/12/2021",
       "questionTitle": "Devu and an Array",
       "questionUrl": "https://codechef.com/problems/DEVARRAY"
+    },
+    {
+      "questionDate": "30/12/2021",
+      "questionTitle": "Change It",
+      "questionUrl": "https://codechef.com/problems/CHNGIT"
     }
   ],
   "beta": [
@@ -3109,6 +3119,11 @@
       "questionDate": "29/12/2021",
       "questionTitle": "Little Elephant and Swapping",
       "questionUrl": "https://codechef.com/problems/LUCKYSWP"
+    },
+    {
+      "questionDate": "30/12/2021",
+      "questionTitle": "CPI Crisis",
+      "questionUrl": "https://codechef.com/problems/CRISIS"
     }
   ]
 }
