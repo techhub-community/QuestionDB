@@ -1040,6 +1040,11 @@
       "questionDate": "30/12/2021",
       "questionTitle": "Obstacle Course",
       "questionUrl": "https://codechef.com/problems/COURSE"
+    },
+    {
+      "questionDate": "31/12/2021",
+      "questionTitle": "Chef and the Feast",
+      "questionUrl": "https://codechef.com/problems/NEO01"
     }
   ],
   "basics": [
@@ -2082,6 +2087,11 @@
       "questionDate": "30/12/2021",
       "questionTitle": "Change It",
       "questionUrl": "https://codechef.com/problems/CHNGIT"
+    },
+    {
+      "questionDate": "31/12/2021",
+      "questionTitle": "Three Way Communications",
+      "questionUrl": "https://codechef.com/problems/COMM3"
     }
   ],
   "beta": [
@@ -3124,6 +3134,11 @@
       "questionDate": "30/12/2021",
       "questionTitle": "CPI Crisis",
       "questionUrl": "https://codechef.com/problems/CRISIS"
+    },
+    {
+      "questionDate": "31/12/2021",
+      "questionTitle": "Guessing Game",
+      "questionUrl": "https://codechef.com/problems/GUESSG"
     }
   ]
 }
