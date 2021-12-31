@@ -1045,6 +1045,11 @@
       "questionDate": "31/12/2021",
       "questionTitle": "Chef and the Feast",
       "questionUrl": "https://codechef.com/problems/NEO01"
+    },
+    {
+      "questionDate": "01/01/2022",
+      "questionTitle": "Little Elephant and Bombs",
+      "questionUrl": "https://codechef.com/problems/LEBOMBS"
     }
   ],
   "basics": [
@@ -2092,6 +2097,11 @@
       "questionDate": "31/12/2021",
       "questionTitle": "Three Way Communications",
       "questionUrl": "https://codechef.com/problems/COMM3"
+    },
+    {
+      "questionDate": "01/01/2022",
+      "questionTitle": "Equinox Strings",
+      "questionUrl": "https://codechef.com/problems/EQUINOX"
     }
   ],
   "beta": [
@@ -3139,6 +3149,11 @@
       "questionDate": "31/12/2021",
       "questionTitle": "Guessing Game",
       "questionUrl": "https://codechef.com/problems/GUESSG"
+    },
+    {
+      "questionDate": "01/01/2022",
+      "questionTitle": "Nearest Angle",
+      "questionUrl": "https://codechef.com/problems/ANGLE"
     }
   ]
 }
