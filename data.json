@@ -1050,6 +1050,11 @@
       "questionDate": "01/01/2022",
       "questionTitle": "Little Elephant and Bombs",
       "questionUrl": "https://codechef.com/problems/LEBOMBS"
+    },
+    {
+      "questionDate": "02/01/2022",
+      "questionTitle": "Chef and Maximum Star Value",
+      "questionUrl": "https://codechef.com/problems/MSV"
     }
   ],
   "basics": [
@@ -2102,6 +2107,11 @@
       "questionDate": "01/01/2022",
       "questionTitle": "Equinox Strings",
       "questionUrl": "https://codechef.com/problems/EQUINOX"
+    },
+    {
+      "questionDate": "02/01/2022",
+      "questionTitle": "Chef and Numbers",
+      "questionUrl": "https://codechef.com/problems/RECNDNOS"
     }
   ],
   "beta": [
@@ -3154,6 +3164,11 @@
       "questionDate": "01/01/2022",
       "questionTitle": "Nearest Angle",
       "questionUrl": "https://codechef.com/problems/ANGLE"
+    },
+    {
+      "questionDate": "02/01/2022",
+      "questionTitle": "Long Sandwich ",
+      "questionUrl": "https://codechef.com/problems/SANDWICH"
     }
   ]
 }
