@@ -1055,6 +1055,11 @@
       "questionDate": "02/01/2022",
       "questionTitle": "Chef and Maximum Star Value",
       "questionUrl": "https://codechef.com/problems/MSV"
+    },
+    {
+      "questionDate": "03/01/2022",
+      "questionTitle": "Transform the Expression",
+      "questionUrl": "https://codechef.com/problems/ONP"
     }
   ],
   "basics": [
@@ -2112,6 +2117,11 @@
       "questionDate": "02/01/2022",
       "questionTitle": "Chef and Numbers",
       "questionUrl": "https://codechef.com/problems/RECNDNOS"
+    },
+    {
+      "questionDate": "03/01/2022",
+      "questionTitle": "Pawri Meme",
+      "questionUrl": "https://codechef.com/problems/PAWRI"
     }
   ],
   "beta": [
@@ -3169,6 +3179,11 @@
       "questionDate": "02/01/2022",
       "questionTitle": "Long Sandwich ",
       "questionUrl": "https://codechef.com/problems/SANDWICH"
+    },
+    {
+      "questionDate": "03/01/2022",
+      "questionTitle": "Mountain Holidays",
+      "questionUrl": "https://codechef.com/problems/MOU1H"
     }
   ]
 }
