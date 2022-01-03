@@ -1060,6 +1060,11 @@
       "questionDate": "03/01/2022",
       "questionTitle": "Transform the Expression",
       "questionUrl": "https://codechef.com/problems/ONP"
+    },
+    {
+      "questionDate": "04/01/2022",
+      "questionTitle": "Minimal Travel Time",
+      "questionUrl": "https://codechef.com/problems/CLASSES"
     }
   ],
   "basics": [
@@ -2122,6 +2127,11 @@
       "questionDate": "03/01/2022",
       "questionTitle": "Pawri Meme",
       "questionUrl": "https://codechef.com/problems/PAWRI"
+    },
+    {
+      "questionDate": "04/01/2022",
+      "questionTitle": "College Life 2",
+      "questionUrl": "https://codechef.com/problems/COLGLF2"
     }
   ],
   "beta": [
@@ -3184,6 +3194,11 @@
       "questionDate": "03/01/2022",
       "questionTitle": "Mountain Holidays",
       "questionUrl": "https://codechef.com/problems/MOU1H"
+    },
+    {
+      "questionDate": "04/01/2022",
+      "questionTitle": "Chef and Array",
+      "questionUrl": "https://codechef.com/problems/CHEFLKJ"
     }
   ]
 }
