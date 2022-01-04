@@ -1065,6 +1065,11 @@
       "questionDate": "04/01/2022",
       "questionTitle": "Minimal Travel Time",
       "questionUrl": "https://codechef.com/problems/CLASSES"
+    },
+    {
+      "questionDate": "05/01/2022",
+      "questionTitle": "Weird Palindrome Making",
+      "questionUrl": "https://codechef.com/problems/MAKEPAL"
     }
   ],
   "basics": [
@@ -2132,6 +2137,11 @@
       "questionDate": "04/01/2022",
       "questionTitle": "College Life 2",
       "questionUrl": "https://codechef.com/problems/COLGLF2"
+    },
+    {
+      "questionDate": "05/01/2022",
+      "questionTitle": "Chef and Proxy",
+      "questionUrl": "https://codechef.com/problems/PROXYC"
     }
   ],
   "beta": [
@@ -3199,6 +3209,11 @@
       "questionDate": "04/01/2022",
       "questionTitle": "Chef and Array",
       "questionUrl": "https://codechef.com/problems/CHEFLKJ"
+    },
+    {
+      "questionDate": "05/01/2022",
+      "questionTitle": "Common Ancestors",
+      "questionUrl": "https://codechef.com/problems/TREEANC"
     }
   ]
 }
