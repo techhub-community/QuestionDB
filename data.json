@@ -1070,6 +1070,11 @@
       "questionDate": "05/01/2022",
       "questionTitle": "Weird Palindrome Making",
       "questionUrl": "https://codechef.com/problems/MAKEPAL"
+    },
+    {
+      "questionDate": "06/01/2022",
+      "questionTitle": "Professor And Directions",
+      "questionUrl": "https://codechef.com/problems/DIRECTN"
     }
   ],
   "basics": [
@@ -2142,6 +2147,11 @@
       "questionDate": "05/01/2022",
       "questionTitle": "Chef and Proxy",
       "questionUrl": "https://codechef.com/problems/PROXYC"
+    },
+    {
+      "questionDate": "06/01/2022",
+      "questionTitle": "Chef and Contest",
+      "questionUrl": "https://codechef.com/problems/CHEFCONTEST"
     }
   ],
   "beta": [
@@ -3214,6 +3224,11 @@
       "questionDate": "05/01/2022",
       "questionTitle": "Common Ancestors",
       "questionUrl": "https://codechef.com/problems/TREEANC"
+    },
+    {
+      "questionDate": "06/01/2022",
+      "questionTitle": "Matchable Permutations",
+      "questionUrl": "https://codechef.com/problems/MATPER"
     }
   ]
 }
