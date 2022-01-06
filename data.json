@@ -1075,6 +1075,11 @@
       "questionDate": "06/01/2022",
       "questionTitle": "Professor And Directions",
       "questionUrl": "https://codechef.com/problems/DIRECTN"
+    },
+    {
+      "questionDate": "07/01/2022",
+      "questionTitle": "Chefina and Sums",
+      "questionUrl": "https://codechef.com/problems/CFINASUM"
     }
   ],
   "basics": [
@@ -2152,6 +2157,11 @@
       "questionDate": "06/01/2022",
       "questionTitle": "Chef and Contest",
       "questionUrl": "https://codechef.com/problems/CHEFCONTEST"
+    },
+    {
+      "questionDate": "07/01/2022",
+      "questionTitle": "Chef and Pal",
+      "questionUrl": "https://codechef.com/problems/ANTIPAL"
     }
   ],
   "beta": [
@@ -3229,6 +3239,11 @@
       "questionDate": "06/01/2022",
       "questionTitle": "Matchable Permutations",
       "questionUrl": "https://codechef.com/problems/MATPER"
+    },
+    {
+      "questionDate": "07/01/2022",
+      "questionTitle": "Adding Fractions",
+      "questionUrl": "https://codechef.com/problems/ADDFRAC"
     }
   ]
 }
