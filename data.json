@@ -1080,6 +1080,11 @@
       "questionDate": "07/01/2022",
       "questionTitle": "Chefina and Sums",
       "questionUrl": "https://codechef.com/problems/CFINASUM"
+    },
+    {
+      "questionDate": "08/01/2022",
+      "questionTitle": "Another Card Game Problem",
+      "questionUrl": "https://codechef.com/problems/CRDGAME3"
     }
   ],
   "basics": [
@@ -2162,6 +2167,11 @@
       "questionDate": "07/01/2022",
       "questionTitle": "Chef and Pal",
       "questionUrl": "https://codechef.com/problems/ANTIPAL"
+    },
+    {
+      "questionDate": "08/01/2022",
+      "questionTitle": "Extreme Encoding",
+      "questionUrl": "https://codechef.com/problems/KOL16B"
     }
   ],
   "beta": [
@@ -3244,6 +3254,11 @@
       "questionDate": "07/01/2022",
       "questionTitle": "Adding Fractions",
       "questionUrl": "https://codechef.com/problems/ADDFRAC"
+    },
+    {
+      "questionDate": "08/01/2022",
+      "questionTitle": "Tree",
+      "questionUrl": "https://codechef.com/problems/RRTREE"
     }
   ]
 }
