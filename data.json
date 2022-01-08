@@ -1085,6 +1085,11 @@
       "questionDate": "08/01/2022",
       "questionTitle": "Another Card Game Problem",
       "questionUrl": "https://codechef.com/problems/CRDGAME3"
+    },
+    {
+      "questionDate": "09/01/2022",
+      "questionTitle": "Chef Restaurant ",
+      "questionUrl": "https://codechef.com/problems/CHEFRES"
     }
   ],
   "basics": [
@@ -2172,6 +2177,11 @@
       "questionDate": "08/01/2022",
       "questionTitle": "Extreme Encoding",
       "questionUrl": "https://codechef.com/problems/KOL16B"
+    },
+    {
+      "questionDate": "09/01/2022",
+      "questionTitle": "Alternating Work Days",
+      "questionUrl": "https://codechef.com/problems/ALTER"
     }
   ],
   "beta": [
@@ -3259,6 +3269,11 @@
       "questionDate": "08/01/2022",
       "questionTitle": "Tree",
       "questionUrl": "https://codechef.com/problems/RRTREE"
+    },
+    {
+      "questionDate": "09/01/2022",
+      "questionTitle": "Number Isomorphism",
+      "questionUrl": "https://codechef.com/problems/ISONUM"
     }
   ]
 }
