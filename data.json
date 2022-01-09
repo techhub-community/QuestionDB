@@ -1090,6 +1090,11 @@
       "questionDate": "09/01/2022",
       "questionTitle": "Chef Restaurant ",
       "questionUrl": "https://codechef.com/problems/CHEFRES"
+    },
+    {
+      "questionDate": "10/01/2022",
+      "questionTitle": "Washing Windows",
+      "questionUrl": "https://codechef.com/problems/APARTS"
     }
   ],
   "basics": [
@@ -2182,6 +2187,11 @@
       "questionDate": "09/01/2022",
       "questionTitle": "Alternating Work Days",
       "questionUrl": "https://codechef.com/problems/ALTER"
+    },
+    {
+      "questionDate": "10/01/2022",
+      "questionTitle": "Strike or Spare",
+      "questionUrl": "https://codechef.com/problems/PINS"
     }
   ],
   "beta": [
@@ -3274,6 +3284,11 @@
       "questionDate": "09/01/2022",
       "questionTitle": "Number Isomorphism",
       "questionUrl": "https://codechef.com/problems/ISONUM"
+    },
+    {
+      "questionDate": "10/01/2022",
+      "questionTitle": "Vaibhav and Ministers",
+      "questionUrl": "https://codechef.com/problems/VAIMIN"
     }
   ]
 }
