@@ -1095,6 +1095,11 @@
       "questionDate": "10/01/2022",
       "questionTitle": "Washing Windows",
       "questionUrl": "https://codechef.com/problems/APARTS"
+    },
+    {
+      "questionDate": "11/01/2022",
+      "questionTitle": "Counting Pretty Numbers",
+      "questionUrl": "https://codechef.com/problems/NUM239"
     }
   ],
   "basics": [
@@ -2192,6 +2197,11 @@
       "questionDate": "10/01/2022",
       "questionTitle": "Strike or Spare",
       "questionUrl": "https://codechef.com/problems/PINS"
+    },
+    {
+      "questionDate": "11/01/2022",
+      "questionTitle": "Digit Longest Increasing Subsequences 2",
+      "questionUrl": "https://codechef.com/problems/LISDIGIT"
     }
   ],
   "beta": [
@@ -3289,6 +3299,11 @@
       "questionDate": "10/01/2022",
       "questionTitle": "Vaibhav and Ministers",
       "questionUrl": "https://codechef.com/problems/VAIMIN"
+    },
+    {
+      "questionDate": "11/01/2022",
+      "questionTitle": "Careful Calculation",
+      "questionUrl": "https://codechef.com/problems/CAREFUL"
     }
   ]
 }
