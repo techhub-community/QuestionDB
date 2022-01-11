@@ -1100,6 +1100,11 @@
       "questionDate": "11/01/2022",
       "questionTitle": "Counting Pretty Numbers",
       "questionUrl": "https://codechef.com/problems/NUM239"
+    },
+    {
+      "questionDate": "12/01/2022",
+      "questionTitle": "Paying up",
+      "questionUrl": "https://codechef.com/problems/MARCHA1"
     }
   ],
   "basics": [
@@ -2202,6 +2207,11 @@
       "questionDate": "11/01/2022",
       "questionTitle": "Digit Longest Increasing Subsequences 2",
       "questionUrl": "https://codechef.com/problems/LISDIGIT"
+    },
+    {
+      "questionDate": "12/01/2022",
+      "questionTitle": "Diagonal movement",
+      "questionUrl": "https://codechef.com/problems/DIAGMOVE"
     }
   ],
   "beta": [
@@ -3304,6 +3314,11 @@
       "questionDate": "11/01/2022",
       "questionTitle": "Careful Calculation",
       "questionUrl": "https://codechef.com/problems/CAREFUL"
+    },
+    {
+      "questionDate": "12/01/2022",
+      "questionTitle": "Magical Menu",
+      "questionUrl": "https://codechef.com/problems/MGICMENU"
     }
   ]
 }
