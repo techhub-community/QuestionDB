@@ -1105,6 +1105,11 @@
       "questionDate": "12/01/2022",
       "questionTitle": "Paying up",
       "questionUrl": "https://codechef.com/problems/MARCHA1"
+    },
+    {
+      "questionDate": "13/01/2022",
+      "questionTitle": "Am I a Fibonacci Number",
+      "questionUrl": "https://codechef.com/problems/AMIFIB"
     }
   ],
   "basics": [
@@ -2212,6 +2217,11 @@
       "questionDate": "12/01/2022",
       "questionTitle": "Diagonal movement",
       "questionUrl": "https://codechef.com/problems/DIAGMOVE"
+    },
+    {
+      "questionDate": "13/01/2022",
+      "questionTitle": "Pass or Fail",
+      "questionUrl": "https://codechef.com/problems/PASSORFAIL"
     }
   ],
   "beta": [
@@ -3319,6 +3329,11 @@
       "questionDate": "12/01/2022",
       "questionTitle": "Magical Menu",
       "questionUrl": "https://codechef.com/problems/MGICMENU"
+    },
+    {
+      "questionDate": "13/01/2022",
+      "questionTitle": "LIS and LDS",
+      "questionUrl": "https://codechef.com/problems/LISLDS"
     }
   ]
 }
