@@ -1110,6 +1110,11 @@
       "questionDate": "13/01/2022",
       "questionTitle": "Am I a Fibonacci Number",
       "questionUrl": "https://codechef.com/problems/AMIFIB"
+    },
+    {
+      "questionDate": "14/01/2022",
+      "questionTitle": "FastFood Combos",
+      "questionUrl": "https://codechef.com/problems/FFCOMB"
     }
   ],
   "basics": [
@@ -2222,6 +2227,11 @@
       "questionDate": "13/01/2022",
       "questionTitle": "Pass or Fail",
       "questionUrl": "https://codechef.com/problems/PASSORFAIL"
+    },
+    {
+      "questionDate": "14/01/2022",
+      "questionTitle": "Find the Maximum Value",
+      "questionUrl": "https://codechef.com/problems/LOSTMAX"
     }
   ],
   "beta": [
@@ -3334,6 +3344,11 @@
       "questionDate": "13/01/2022",
       "questionTitle": "LIS and LDS",
       "questionUrl": "https://codechef.com/problems/LISLDS"
+    },
+    {
+      "questionDate": "14/01/2022",
+      "questionTitle": "Devasena",
+      "questionUrl": "https://codechef.com/problems/AMR15B"
     }
   ]
 }
