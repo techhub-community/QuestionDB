@@ -1115,6 +1115,11 @@
       "questionDate": "14/01/2022",
       "questionTitle": "FastFood Combos",
       "questionUrl": "https://codechef.com/problems/FFCOMB"
+    },
+    {
+      "questionDate": "15/01/2022",
+      "questionTitle": "Ada Matrix",
+      "questionUrl": "https://codechef.com/problems/ADAMTR"
     }
   ],
   "basics": [
@@ -2232,6 +2237,11 @@
       "questionDate": "14/01/2022",
       "questionTitle": "Find the Maximum Value",
       "questionUrl": "https://codechef.com/problems/LOSTMAX"
+    },
+    {
+      "questionDate": "15/01/2022",
+      "questionTitle": "The Wave",
+      "questionUrl": "https://codechef.com/problems/WAV2"
     }
   ],
   "beta": [
@@ -3349,6 +3359,11 @@
       "questionDate": "14/01/2022",
       "questionTitle": "Devasena",
       "questionUrl": "https://codechef.com/problems/AMR15B"
+    },
+    {
+      "questionDate": "15/01/2022",
+      "questionTitle": "Greedy Trip",
+      "questionUrl": "https://codechef.com/problems/GRTRIP"
     }
   ]
 }
