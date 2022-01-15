@@ -1120,6 +1120,11 @@
       "questionDate": "15/01/2022",
       "questionTitle": "Ada Matrix",
       "questionUrl": "https://codechef.com/problems/ADAMTR"
+    },
+    {
+      "questionDate": "16/01/2022",
+      "questionTitle": "Ddakji",
+      "questionUrl": "https://codechef.com/problems/MSUM"
     }
   ],
   "basics": [
@@ -2242,6 +2247,11 @@
       "questionDate": "15/01/2022",
       "questionTitle": "The Wave",
       "questionUrl": "https://codechef.com/problems/WAV2"
+    },
+    {
+      "questionDate": "16/01/2022",
+      "questionTitle": "Chef and Division 3",
+      "questionUrl": "https://codechef.com/problems/DIVTHREE"
     }
   ],
   "beta": [
@@ -3364,6 +3374,11 @@
       "questionDate": "15/01/2022",
       "questionTitle": "Greedy Trip",
       "questionUrl": "https://codechef.com/problems/GRTRIP"
+    },
+    {
+      "questionDate": "16/01/2022",
+      "questionTitle": "Queries On Tree",
+      "questionUrl": "https://codechef.com/problems/TAQTREE"
     }
   ]
 }
