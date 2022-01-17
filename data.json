@@ -1130,6 +1130,11 @@
       "questionDate": "17/01/2022",
       "questionTitle": "Operations on a Tuple",
       "questionUrl": "https://codechef.com/problems/TTUPLE"
+    },
+    {
+      "questionDate": "18/01/2022",
+      "questionTitle": "Team Name",
+      "questionUrl": "https://codechef.com/problems/TEAMNAME"
     }
   ],
   "basics": [
@@ -2262,6 +2267,11 @@
       "questionDate": "17/01/2022",
       "questionTitle": "Chef and Groups",
       "questionUrl": "https://codechef.com/problems/GROUPS"
+    },
+    {
+      "questionDate": "18/01/2022",
+      "questionTitle": "Ordering teams",
+      "questionUrl": "https://codechef.com/problems/ORDTEAMS"
     }
   ],
   "beta": [
@@ -3394,6 +3404,11 @@
       "questionDate": "17/01/2022",
       "questionTitle": "Convenient Airports",
       "questionUrl": "https://codechef.com/problems/CONVAIR"
+    },
+    {
+      "questionDate": "18/01/2022",
+      "questionTitle": "Chef and Strange Graph",
+      "questionUrl": "https://codechef.com/problems/GERALD06"
     }
   ]
 }
