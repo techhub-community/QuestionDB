@@ -1135,6 +1135,11 @@
       "questionDate": "18/01/2022",
       "questionTitle": "Team Name",
       "questionUrl": "https://codechef.com/problems/TEAMNAME"
+    },
+    {
+      "questionDate": "19/01/2022",
+      "questionTitle": "Endgame",
+      "questionUrl": "https://codechef.com/problems/ICL1906"
     }
   ],
   "basics": [
@@ -2272,6 +2277,11 @@
       "questionDate": "18/01/2022",
       "questionTitle": "Ordering teams",
       "questionUrl": "https://codechef.com/problems/ORDTEAMS"
+    },
+    {
+      "questionDate": "19/01/2022",
+      "questionTitle": "Whats in the Name",
+      "questionUrl": "https://codechef.com/problems/NITIKA"
     }
   ],
   "beta": [
@@ -3409,6 +3419,11 @@
       "questionDate": "18/01/2022",
       "questionTitle": "Chef and Strange Graph",
       "questionUrl": "https://codechef.com/problems/GERALD06"
+    },
+    {
+      "questionDate": "19/01/2022",
+      "questionTitle": "New Restaurant",
+      "questionUrl": "https://codechef.com/problems/NEWREST"
     }
   ]
 }
