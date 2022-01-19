@@ -1140,6 +1140,11 @@
       "questionDate": "19/01/2022",
       "questionTitle": "Endgame",
       "questionUrl": "https://codechef.com/problems/ICL1906"
+    },
+    {
+      "questionDate": "20/01/2022",
+      "questionTitle": "Chef's Dream",
+      "questionUrl": "https://codechef.com/problems/DREAM"
     }
   ],
   "basics": [
@@ -2282,6 +2287,11 @@
       "questionDate": "19/01/2022",
       "questionTitle": "Whats in the Name",
       "questionUrl": "https://codechef.com/problems/NITIKA"
+    },
+    {
+      "questionDate": "20/01/2022",
+      "questionTitle": "Chef and Sum",
+      "questionUrl": "https://codechef.com/problems/CSUM"
     }
   ],
   "beta": [
@@ -3424,6 +3434,11 @@
       "questionDate": "19/01/2022",
       "questionTitle": "New Restaurant",
       "questionUrl": "https://codechef.com/problems/NEWREST"
+    },
+    {
+      "questionDate": "20/01/2022",
+      "questionTitle": "Antichains",
+      "questionUrl": "https://codechef.com/problems/KOL1508"
     }
   ]
 }
