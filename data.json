@@ -1145,6 +1145,11 @@
       "questionDate": "20/01/2022",
       "questionTitle": "Chef's Dream",
       "questionUrl": "https://codechef.com/problems/DREAM"
+    },
+    {
+      "questionDate": "21/01/2022",
+      "questionTitle": "Chef and Queries",
+      "questionUrl": "https://codechef.com/problems/CHEFQUE"
     }
   ],
   "basics": [
@@ -2292,6 +2297,11 @@
       "questionDate": "20/01/2022",
       "questionTitle": "Chef and Sum",
       "questionUrl": "https://codechef.com/problems/CSUM"
+    },
+    {
+      "questionDate": "21/01/2022",
+      "questionTitle": "World Record",
+      "questionUrl": "https://codechef.com/problems/BOLT"
     }
   ],
   "beta": [
@@ -3439,6 +3449,11 @@
       "questionDate": "20/01/2022",
       "questionTitle": "Antichains",
       "questionUrl": "https://codechef.com/problems/KOL1508"
+    },
+    {
+      "questionDate": "21/01/2022",
+      "questionTitle": "Codie Bird",
+      "questionUrl": "https://codechef.com/problems/CODIE"
     }
   ]
 }
