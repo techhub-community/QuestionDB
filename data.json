@@ -1150,6 +1150,11 @@
       "questionDate": "21/01/2022",
       "questionTitle": "Chef and Queries",
       "questionUrl": "https://codechef.com/problems/CHEFQUE"
+    },
+    {
+      "questionDate": "22/01/2022",
+      "questionTitle": "Oracle Devu and Longest Common Subsequence",
+      "questionUrl": "https://codechef.com/problems/ORACLCS"
     }
   ],
   "basics": [
@@ -2302,6 +2307,11 @@
       "questionDate": "21/01/2022",
       "questionTitle": "World Record",
       "questionUrl": "https://codechef.com/problems/BOLT"
+    },
+    {
+      "questionDate": "22/01/2022",
+      "questionTitle": "Gold Mining",
+      "questionUrl": "https://codechef.com/problems/CARRYGOLD"
     }
   ],
   "beta": [
@@ -3454,6 +3464,11 @@
       "questionDate": "21/01/2022",
       "questionTitle": "Codie Bird",
       "questionUrl": "https://codechef.com/problems/CODIE"
+    },
+    {
+      "questionDate": "22/01/2022",
+      "questionTitle": "Seeding The Pattern",
+      "questionUrl": "https://codechef.com/problems/SEEDS"
     }
   ]
 }
