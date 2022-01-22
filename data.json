@@ -1155,6 +1155,11 @@
       "questionDate": "22/01/2022",
       "questionTitle": "Oracle Devu and Longest Common Subsequence",
       "questionUrl": "https://codechef.com/problems/ORACLCS"
+    },
+    {
+      "questionDate": "23/01/2022",
+      "questionTitle": "Maximum K Sums",
+      "questionUrl": "https://codechef.com/problems/KSUM"
     }
   ],
   "basics": [
@@ -2312,6 +2317,11 @@
       "questionDate": "22/01/2022",
       "questionTitle": "Gold Mining",
       "questionUrl": "https://codechef.com/problems/CARRYGOLD"
+    },
+    {
+      "questionDate": "23/01/2022",
+      "questionTitle": "HOW MANY DIGITS DO I HAVE",
+      "questionUrl": "https://codechef.com/problems/HOWMANY"
     }
   ],
   "beta": [
@@ -3469,6 +3479,11 @@
       "questionDate": "22/01/2022",
       "questionTitle": "Seeding The Pattern",
       "questionUrl": "https://codechef.com/problems/SEEDS"
+    },
+    {
+      "questionDate": "23/01/2022",
+      "questionTitle": "Shops in Mirzapur",
+      "questionUrl": "https://codechef.com/problems/SHMIRZ"
     }
   ]
 }
