@@ -1160,6 +1160,11 @@
       "questionDate": "23/01/2022",
       "questionTitle": "Maximum K Sums",
       "questionUrl": "https://codechef.com/problems/KSUM"
+    },
+    {
+      "questionDate": "24/01/2022",
+      "questionTitle": "Chef Restores a Matrix",
+      "questionUrl": "https://codechef.com/problems/CO92MATR"
     }
   ],
   "basics": [
@@ -2322,6 +2327,11 @@
       "questionDate": "23/01/2022",
       "questionTitle": "HOW MANY DIGITS DO I HAVE",
       "questionUrl": "https://codechef.com/problems/HOWMANY"
+    },
+    {
+      "questionDate": "24/01/2022",
+      "questionTitle": "Maximum Topological Sort",
+      "questionUrl": "https://codechef.com/problems/MAXTOPO"
     }
   ],
   "beta": [
@@ -3484,6 +3494,11 @@
       "questionDate": "23/01/2022",
       "questionTitle": "Shops in Mirzapur",
       "questionUrl": "https://codechef.com/problems/SHMIRZ"
+    },
+    {
+      "questionDate": "24/01/2022",
+      "questionTitle": "Chef and Universe",
+      "questionUrl": "https://codechef.com/problems/CHEFUNI"
     }
   ]
 }
