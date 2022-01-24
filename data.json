@@ -1165,6 +1165,11 @@
       "questionDate": "24/01/2022",
       "questionTitle": "Chef Restores a Matrix",
       "questionUrl": "https://codechef.com/problems/CO92MATR"
+    },
+    {
+      "questionDate": "25/01/2022",
+      "questionTitle": "Real obtuse",
+      "questionUrl": "https://codechef.com/problems/OBTTRNGL"
     }
   ],
   "basics": [
@@ -2332,6 +2337,11 @@
       "questionDate": "24/01/2022",
       "questionTitle": "Maximum Topological Sort",
       "questionUrl": "https://codechef.com/problems/MAXTOPO"
+    },
+    {
+      "questionDate": "25/01/2022",
+      "questionTitle": "Body Mass Index",
+      "questionUrl": "https://codechef.com/problems/BMI"
     }
   ],
   "beta": [
@@ -3499,6 +3509,11 @@
       "questionDate": "24/01/2022",
       "questionTitle": "Chef and Universe",
       "questionUrl": "https://codechef.com/problems/CHEFUNI"
+    },
+    {
+      "questionDate": "25/01/2022",
+      "questionTitle": "Puppy and Palindromes",
+      "questionUrl": "https://codechef.com/problems/PUPPYPLM"
     }
   ]
 }
