@@ -1170,6 +1170,11 @@
       "questionDate": "25/01/2022",
       "questionTitle": "Real obtuse",
       "questionUrl": "https://codechef.com/problems/OBTTRNGL"
+    },
+    {
+      "questionDate": "26/01/2022",
+      "questionTitle": "Physical Exercise",
+      "questionUrl": "https://codechef.com/problems/PHCUL"
     }
   ],
   "basics": [
@@ -2342,6 +2347,11 @@
       "questionDate": "25/01/2022",
       "questionTitle": "Body Mass Index",
       "questionUrl": "https://codechef.com/problems/BMI"
+    },
+    {
+      "questionDate": "26/01/2022",
+      "questionTitle": "Chef and Interactive Contests",
+      "questionUrl": "https://codechef.com/problems/CHFINTRO"
     }
   ],
   "beta": [
@@ -3514,6 +3524,11 @@
       "questionDate": "25/01/2022",
       "questionTitle": "Puppy and Palindromes",
       "questionUrl": "https://codechef.com/problems/PUPPYPLM"
+    },
+    {
+      "questionDate": "26/01/2022",
+      "questionTitle": "Historical Junctions",
+      "questionUrl": "https://codechef.com/problems/HISTJUNK"
     }
   ]
 }
