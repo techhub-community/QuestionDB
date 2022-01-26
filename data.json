@@ -1175,6 +1175,11 @@
       "questionDate": "26/01/2022",
       "questionTitle": "Physical Exercise",
       "questionUrl": "https://codechef.com/problems/PHCUL"
+    },
+    {
+      "questionDate": "27/01/2022",
+      "questionTitle": "Chef And Fibonacci Array",
+      "questionUrl": "https://codechef.com/problems/CHEFFA"
     }
   ],
   "basics": [
@@ -2352,6 +2357,11 @@
       "questionDate": "26/01/2022",
       "questionTitle": "Chef and Interactive Contests",
       "questionUrl": "https://codechef.com/problems/CHFINTRO"
+    },
+    {
+      "questionDate": "27/01/2022",
+      "questionTitle": "Black cells in a chessboard",
+      "questionUrl": "https://codechef.com/problems/BLACKCEL"
     }
   ],
   "beta": [
@@ -3529,6 +3539,11 @@
       "questionDate": "26/01/2022",
       "questionTitle": "Historical Junctions",
       "questionUrl": "https://codechef.com/problems/HISTJUNK"
+    },
+    {
+      "questionDate": "27/01/2022",
+      "questionTitle": "Construct a String",
+      "questionUrl": "https://codechef.com/problems/CONSSTR"
     }
   ]
 }
