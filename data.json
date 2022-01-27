@@ -1180,6 +1180,11 @@
       "questionDate": "27/01/2022",
       "questionTitle": "Chef And Fibonacci Array",
       "questionUrl": "https://codechef.com/problems/CHEFFA"
+    },
+    {
+      "questionDate": "28/01/2022",
+      "questionTitle": "Sherlock and His Device",
+      "questionUrl": "https://codechef.com/problems/MISSME"
     }
   ],
   "basics": [
@@ -2362,6 +2367,11 @@
       "questionDate": "27/01/2022",
       "questionTitle": "Black cells in a chessboard",
       "questionUrl": "https://codechef.com/problems/BLACKCEL"
+    },
+    {
+      "questionDate": "28/01/2022",
+      "questionTitle": "Ada School",
+      "questionUrl": "https://codechef.com/problems/ADASCOOL"
     }
   ],
   "beta": [
@@ -3544,6 +3554,11 @@
       "questionDate": "27/01/2022",
       "questionTitle": "Construct a String",
       "questionUrl": "https://codechef.com/problems/CONSSTR"
+    },
+    {
+      "questionDate": "28/01/2022",
+      "questionTitle": "Grid Shuffle",
+      "questionUrl": "https://codechef.com/problems/SHUFGRID"
     }
   ]
 }
