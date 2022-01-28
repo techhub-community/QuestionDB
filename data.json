@@ -1185,6 +1185,11 @@
       "questionDate": "28/01/2022",
       "questionTitle": "Sherlock and His Device",
       "questionUrl": "https://codechef.com/problems/MISSME"
+    },
+    {
+      "questionDate": "29/01/2022",
+      "questionTitle": "Sereja and Line",
+      "questionUrl": "https://codechef.com/problems/SEALINE"
     }
   ],
   "basics": [
@@ -2372,6 +2377,11 @@
       "questionDate": "28/01/2022",
       "questionTitle": "Ada School",
       "questionUrl": "https://codechef.com/problems/ADASCOOL"
+    },
+    {
+      "questionDate": "29/01/2022",
+      "questionTitle": "Deputy Chef",
+      "questionUrl": "https://codechef.com/problems/DEPCHEF"
     }
   ],
   "beta": [
@@ -3559,6 +3569,11 @@
       "questionDate": "28/01/2022",
       "questionTitle": "Grid Shuffle",
       "questionUrl": "https://codechef.com/problems/SHUFGRID"
+    },
+    {
+      "questionDate": "29/01/2022",
+      "questionTitle": "Break And Fix The Tree",
+      "questionUrl": "https://codechef.com/problems/FIXTREE"
     }
   ]
 }
