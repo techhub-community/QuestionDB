@@ -1190,6 +1190,11 @@
       "questionDate": "29/01/2022",
       "questionTitle": "Sereja and Line",
       "questionUrl": "https://codechef.com/problems/SEALINE"
+    },
+    {
+      "questionDate": "30/01/2022",
+      "questionTitle": "Save The Princess",
+      "questionUrl": "https://codechef.com/problems/SHIRO"
     }
   ],
   "basics": [
@@ -2382,6 +2387,11 @@
       "questionDate": "29/01/2022",
       "questionTitle": "Deputy Chef",
       "questionUrl": "https://codechef.com/problems/DEPCHEF"
+    },
+    {
+      "questionDate": "30/01/2022",
+      "questionTitle": "Lost Weekends",
+      "questionUrl": "https://codechef.com/problems/LOSTWKND"
     }
   ],
   "beta": [
@@ -3574,6 +3584,11 @@
       "questionDate": "29/01/2022",
       "questionTitle": "Break And Fix The Tree",
       "questionUrl": "https://codechef.com/problems/FIXTREE"
+    },
+    {
+      "questionDate": "30/01/2022",
+      "questionTitle": "F - Beautiful Walk",
+      "questionUrl": "https://codechef.com/problems/SMTOUR"
     }
   ]
 }
