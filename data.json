@@ -1195,6 +1195,11 @@
       "questionDate": "30/01/2022",
       "questionTitle": "Save The Princess",
       "questionUrl": "https://codechef.com/problems/SHIRO"
+    },
+    {
+      "questionDate": "31/01/2022",
+      "questionTitle": "Playing with Numbers",
+      "questionUrl": "https://codechef.com/problems/SJ1"
     }
   ],
   "basics": [
@@ -2392,6 +2397,11 @@
       "questionDate": "30/01/2022",
       "questionTitle": "Lost Weekends",
       "questionUrl": "https://codechef.com/problems/LOSTWKND"
+    },
+    {
+      "questionDate": "31/01/2022",
+      "questionTitle": "Train or Walk",
+      "questionUrl": "https://codechef.com/problems/WALKFAST"
     }
   ],
   "beta": [
@@ -3589,6 +3599,11 @@
       "questionDate": "30/01/2022",
       "questionTitle": "F - Beautiful Walk",
       "questionUrl": "https://codechef.com/problems/SMTOUR"
+    },
+    {
+      "questionDate": "31/01/2022",
+      "questionTitle": "Linear Combination",
+      "questionUrl": "https://codechef.com/problems/MODPARRS"
     }
   ]
 }
