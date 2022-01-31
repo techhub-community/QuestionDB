@@ -1200,6 +1200,11 @@
       "questionDate": "31/01/2022",
       "questionTitle": "Playing with Numbers",
       "questionUrl": "https://codechef.com/problems/SJ1"
+    },
+    {
+      "questionDate": "01/02/2022",
+      "questionTitle": "Weirwood Trees",
+      "questionUrl": "https://codechef.com/problems/MIRTREE"
     }
   ],
   "basics": [
@@ -2402,6 +2407,11 @@
       "questionDate": "31/01/2022",
       "questionTitle": "Train or Walk",
       "questionUrl": "https://codechef.com/problems/WALKFAST"
+    },
+    {
+      "questionDate": "01/02/2022",
+      "questionTitle": "CV",
+      "questionUrl": "https://codechef.com/problems/CV"
     }
   ],
   "beta": [
@@ -3604,6 +3614,11 @@
       "questionDate": "31/01/2022",
       "questionTitle": "Linear Combination",
       "questionUrl": "https://codechef.com/problems/MODPARRS"
+    },
+    {
+      "questionDate": "01/02/2022",
+      "questionTitle": "Chef and insomnia",
+      "questionUrl": "https://codechef.com/problems/CHINSM"
     }
   ]
 }
