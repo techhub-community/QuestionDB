@@ -1205,6 +1205,11 @@
       "questionDate": "01/02/2022",
       "questionTitle": "Weirwood Trees",
       "questionUrl": "https://codechef.com/problems/MIRTREE"
+    },
+    {
+      "questionDate": "02/02/2022",
+      "questionTitle": "Little Elephant and Alcohol",
+      "questionUrl": "https://codechef.com/problems/LEALCO"
     }
   ],
   "basics": [
@@ -2412,6 +2417,11 @@
       "questionDate": "01/02/2022",
       "questionTitle": "CV",
       "questionUrl": "https://codechef.com/problems/CV"
+    },
+    {
+      "questionDate": "02/02/2022",
+      "questionTitle": "Who dares to be a millionaire",
+      "questionUrl": "https://codechef.com/problems/WDTBAM"
     }
   ],
   "beta": [
@@ -3619,6 +3629,11 @@
       "questionDate": "01/02/2022",
       "questionTitle": "Chef and insomnia",
       "questionUrl": "https://codechef.com/problems/CHINSM"
+    },
+    {
+      "questionDate": "02/02/2022",
+      "questionTitle": "Project Spoon",
+      "questionUrl": "https://codechef.com/problems/SPOONS"
     }
   ]
 }
