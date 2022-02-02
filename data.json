@@ -1210,6 +1210,11 @@
       "questionDate": "02/02/2022",
       "questionTitle": "Little Elephant and Alcohol",
       "questionUrl": "https://codechef.com/problems/LEALCO"
+    },
+    {
+      "questionDate": "03/02/2022",
+      "questionTitle": "Beautiful Array",
+      "questionUrl": "https://codechef.com/problems/BTAR"
     }
   ],
   "basics": [
@@ -2422,6 +2427,11 @@
       "questionDate": "02/02/2022",
       "questionTitle": "Who dares to be a millionaire",
       "questionUrl": "https://codechef.com/problems/WDTBAM"
+    },
+    {
+      "questionDate": "03/02/2022",
+      "questionTitle": "Tanu and Head-bob",
+      "questionUrl": "https://codechef.com/problems/HEADBOB"
     }
   ],
   "beta": [
@@ -3634,6 +3644,11 @@
       "questionDate": "02/02/2022",
       "questionTitle": "Project Spoon",
       "questionUrl": "https://codechef.com/problems/SPOONS"
+    },
+    {
+      "questionDate": "03/02/2022",
+      "questionTitle": "Princess and Dragons",
+      "questionUrl": "https://codechef.com/problems/PRINDRAG"
     }
   ]
 }
