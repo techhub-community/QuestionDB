@@ -1215,6 +1215,11 @@
       "questionDate": "03/02/2022",
       "questionTitle": "Beautiful Array",
       "questionUrl": "https://codechef.com/problems/BTAR"
+    },
+    {
+      "questionDate": "04/02/2022",
+      "questionTitle": "Drink Slush",
+      "questionUrl": "https://codechef.com/problems/SLUSH"
     }
   ],
   "basics": [
@@ -2432,6 +2437,11 @@
       "questionDate": "03/02/2022",
       "questionTitle": "Tanu and Head-bob",
       "questionUrl": "https://codechef.com/problems/HEADBOB"
+    },
+    {
+      "questionDate": "04/02/2022",
+      "questionTitle": "Elections in Chefland",
+      "questionUrl": "https://codechef.com/problems/ELECTIONS"
     }
   ],
   "beta": [
@@ -3649,6 +3659,11 @@
       "questionDate": "03/02/2022",
       "questionTitle": "Princess and Dragons",
       "questionUrl": "https://codechef.com/problems/PRINDRAG"
+    },
+    {
+      "questionDate": "04/02/2022",
+      "questionTitle": "Puppy and cats",
+      "questionUrl": "https://codechef.com/problems/PUPPYCT"
     }
   ]
 }
