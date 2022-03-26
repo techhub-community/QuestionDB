@@ -1220,6 +1220,61 @@
       "questionDate": "04/02/2022",
       "questionTitle": "Drink Slush",
       "questionUrl": "https://codechef.com/problems/SLUSH"
+    },
+    {
+      "questionDate": "16/03/2022",
+      "questionTitle": "Operations on a Tuple",
+      "questionUrl": "https://codechef.com/problems/TTUPLE"
+    },
+    {
+      "questionDate": "17/03/2022",
+      "questionTitle": "Alice vs Bob Faceoff",
+      "questionUrl": "https://codechef.com/problems/ALBOFACE"
+    },
+    {
+      "questionDate": "18/03/2022",
+      "questionTitle": "Pseudo Sorting Algorithm",
+      "questionUrl": "https://codechef.com/problems/SORTALGO"
+    },
+    {
+      "questionDate": "19/03/2022",
+      "questionTitle": "Highway Crossing",
+      "questionUrl": "https://codechef.com/problems/HIGHWAYC"
+    },
+    {
+      "questionDate": "20/03/2022",
+      "questionTitle": "maximize the sum",
+      "questionUrl": "https://codechef.com/problems/MAXISUM"
+    },
+    {
+      "questionDate": "21/03/2022",
+      "questionTitle": "Planting Trees",
+      "questionUrl": "https://codechef.com/problems/DEADEND"
+    },
+    {
+      "questionDate": "22/03/2022",
+      "questionTitle": "Little Elephant and Permutations",
+      "questionUrl": "https://codechef.com/problems/LEPERMUT"
+    },
+    {
+      "questionDate": "23/03/2022",
+      "questionTitle": "Safe Robot",
+      "questionUrl": "https://codechef.com/problems/ROBOTG"
+    },
+    {
+      "questionDate": "24/03/2022",
+      "questionTitle": "Chef and the XORed Number ",
+      "questionUrl": "https://codechef.com/problems/XORNUBER"
+    },
+    {
+      "questionDate": "25/03/2022",
+      "questionTitle": "Prime-partite Graph",
+      "questionUrl": "https://codechef.com/problems/PRMPRT"
+    },
+    {
+      "questionDate": "26/03/2022",
+      "questionTitle": "Base Plans",
+      "questionUrl": "https://codechef.com/problems/UWCOI20D"
     }
   ],
   "basics": [
@@ -2442,6 +2497,61 @@
       "questionDate": "04/02/2022",
       "questionTitle": "Elections in Chefland",
       "questionUrl": "https://codechef.com/problems/ELECTIONS"
+    },
+    {
+      "questionDate": "16/03/2022",
+      "questionTitle": "Attendance",
+      "questionUrl": "https://codechef.com/problems/ATTND"
+    },
+    {
+      "questionDate": "17/03/2022",
+      "questionTitle": "Ciel and Receipt",
+      "questionUrl": "https://codechef.com/problems/CIELRCPT"
+    },
+    {
+      "questionDate": "18/03/2022",
+      "questionTitle": "Chef vs Doof",
+      "questionUrl": "https://codechef.com/problems/CLLCM"
+    },
+    {
+      "questionDate": "19/03/2022",
+      "questionTitle": "Easy Fibonacci",
+      "questionUrl": "https://codechef.com/problems/FIBEASY"
+    },
+    {
+      "questionDate": "20/03/2022",
+      "questionTitle": "Camp Or Not",
+      "questionUrl": "https://codechef.com/problems/CAMPON"
+    },
+    {
+      "questionDate": "21/03/2022",
+      "questionTitle": "No Time to Wait",
+      "questionUrl": "https://codechef.com/problems/NOTIME"
+    },
+    {
+      "questionDate": "22/03/2022",
+      "questionTitle": "Grade The Steel",
+      "questionUrl": "https://codechef.com/problems/FLOW014"
+    },
+    {
+      "questionDate": "23/03/2022",
+      "questionTitle": "Number Mirror",
+      "questionUrl": "https://codechef.com/problems/START01"
+    },
+    {
+      "questionDate": "24/03/2022",
+      "questionTitle": "Compress the List",
+      "questionUrl": "https://codechef.com/problems/CMPRSS"
+    },
+    {
+      "questionDate": "25/03/2022",
+      "questionTitle": "Summer Heat",
+      "questionUrl": "https://codechef.com/problems/COCONUT"
+    },
+    {
+      "questionDate": "26/03/2022",
+      "questionTitle": "Making a Meal",
+      "questionUrl": "https://codechef.com/problems/CFMM"
     }
   ],
   "beta": [
@@ -3664,6 +3774,11 @@
       "questionDate": "04/02/2022",
       "questionTitle": "Puppy and cats",
       "questionUrl": "https://codechef.com/problems/PUPPYCT"
+    },
+    {
+      "questionDate": "16/03/2022",
+      "questionTitle": "Shops in Mirzapur",
+      "questionUrl": "https://codechef.com/problems/SHMIRZ"
     },
     {
       "questionDate": "17/03/2022",
