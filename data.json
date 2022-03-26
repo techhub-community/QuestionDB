@@ -3664,6 +3664,56 @@
       "questionDate": "04/02/2022",
       "questionTitle": "Puppy and cats",
       "questionUrl": "https://codechef.com/problems/PUPPYCT"
+    },
+    {
+      "questionDate": "17/03/2022",
+      "questionTitle": "Anticommutative implication",
+      "questionUrl": "https://codechef.com/problems/ANCOIMP"
+    },
+    {
+      "questionDate": "18/03/2022",
+      "questionTitle": "XOR Sum",
+      "questionUrl": "https://codechef.com/problems/AMXOR"
+    },
+    {
+      "questionDate": "19/03/2022",
+      "questionTitle": "Chef and Words",
+      "questionUrl": "https://codechef.com/problems/LTM40EF"
+    },
+    {
+      "questionDate": "20/03/2022",
+      "questionTitle": "Red-Black Boolean Expression",
+      "questionUrl": "https://codechef.com/problems/RB2CNF"
+    },
+    {
+      "questionDate": "21/03/2022",
+      "questionTitle": "Palindrome Pairs",
+      "questionUrl": "https://codechef.com/problems/PP"
+    },
+    {
+      "questionDate": "22/03/2022",
+      "questionTitle": "Euler Sum",
+      "questionUrl": "https://codechef.com/problems/ES"
+    },
+    {
+      "questionDate": "23/03/2022",
+      "questionTitle": "Tree Flow",
+      "questionUrl": "https://codechef.com/problems/TREF"
+    },
+    {
+      "questionDate": "24/03/2022",
+      "questionTitle": "Prime Cycle",
+      "questionUrl": "https://codechef.com/problems/PRIMECYC"
+    },
+    {
+      "questionDate": "25/03/2022",
+      "questionTitle": "Coloured Pairings",
+      "questionUrl": "https://codechef.com/problems/COPAIR"
+    },
+    {
+      "questionDate": "26/03/2022",
+      "questionTitle": "Circle Coloring",
+      "questionUrl": "https://codechef.com/problems/CIRCOLOR"
     }
   ]
 }
